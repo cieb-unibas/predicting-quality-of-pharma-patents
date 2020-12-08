@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+
+<title>innovation_pharma.utf8</title>
+
+<script src="innovation_pharma_files/header-attrs-2.4/header-attrs.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+      </style>
+
+
+
+
+
+<link rel="stylesheet" href="https://innoscape.de/pharma_pred/style.css" type="text/css" />
+
+
+
+
+</head>
+
+<body>
+
+
+
+
+
+
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" type="text/css" rel="stylesheet"> <link rel="stylesheet" href="style.css" type="text/css" />
+<div class="container-fluid main-container">
+<script>
+      var frameElement = document.getElementById("frame-id");
+    frameElement.contentWindow.location.href = frameElement.src;
+</script>
+<div id="whats-next-swiss-pharma-in-the-international-innovation-race" class="section level2">
+<h2><strong>What’s next? Swiss Pharma in the International Innovation Race</strong></h2>
+<p><br></p>
+<p><em>December 2020</em> by <a href="https://wwz.unibas.ch/de/personen/christian-rutzer/" target = "_blank">Christian Rutzer</a> and <a href="https://wwz.unibas.ch/de/personen/matthias-niggli/" target = "_blank">Matthias Niggli</a>. We are grateful for financial support by the <a href=https://wwz.unibas.ch/de/wwz-forum/wwz-foerderverein/ target = "_blank">WWZ-Förderverein</a>.</p>
+<p><br></p>
+<p><img src="tunnel.jpg" style="width:100.0%" /></p>
+<p>Picture: <a href="https://www.flickr.com/photos/mdales/49022996802/in/photolist-2hFZF1N-2hRvHpA-pLsXJh-25BcSNA-7u8GLp-NU5kvJ-2k5Mooq-BDtuxQ-7LePKF-aRzZUV-2dZAmyr-Dk7hVK-7UTN7k-jVe2hL-4s98A1-Xd29Gt-2eRFjxH-ZkzxP7-8kisuH-26ZApHn-2jnTvhE-27gH2zo-26ZAbse-JHhmcM-bQZqi8-87ArLf-7Qwhhe-auvSQ7-2WY6Hd-3nyHzp-9TJFqZ-4FTQ9e-5EHZgh-2UkAf-7TJNvp-bubWqe-8WMNFb-9JKVRc-r6XiYS-dZgN5S-Mbsde5-tMUMxd-nYGjni-9yH6Va-2igH3ig-2iUuEii-5Wqbm2-eYL8Ba-2iKuyrN-29fQJDG" target = "_blank">Michael Dales | Flickr</a></p>
+<p><br></p>
+<p><strong>The pharmaceutical sector is one of Switzerland’s key industries and an important driver for innovation and growth at home and abroad. The success of its companies depends strongly on their ability to steadily nurture their innovation pipeline with high-quality inventions. In this article, we examine the quality of this pipeline and compare the Swiss pharmaceutical industry to its foreign competitors. For past innovations, the quality can be assessed with publicly available data on patents. But what about future innovations? Shedding some light on this question, seems especially relevant. To approach it, we use machine learning algorithms to make predictions about the number of top pharmaceutical patents of different countries, regions, and firms. The good news: The innovation pipeline of the Swiss pharmaceutical sector seems likely to remain at the forefront of the global industry. At the same time, the quality of innovations from emerging competitors like China may increase but not yet reach the level of top pharma locations such as the USA or Switzerland. </strong></p>
+<p><br></p>
+<p>Today, the pharmaceutical industry directly contributes about 5.5 percent to Switzerland’s GDP (see, for example, <a href=https://innoscape.ch/en/publications/the-pharmaceutical-industry-a-driver-of-innovation-and-growth-in-switzerland target = "_blank">our short overview on key figures of Swiss Pharma</a>), which clearly highlights its importance as a driver of prosperity for Switzerland. To preserve this, Swiss pharmaceutical companies need to stay at the forefront in the international innovation race, even more so due to the advent of completely new treatment concepts such as immunotherapy or personalized medicine.</p>
+<p>But how is the Swiss pharma industry, and especially its main hub the region of Basel, positioned in that innovation race? To shed light on this question, we exploit patent data. Usually, (pharma) innovations are disclosed by patenting to guarantee protection from imitators. Thus, patent data tells us much about the inventive activity of companies. Once an invention is publicly disclosed with a patent, it affects other inventors in their R&amp;D activities. By doing so, patents get cited by other patents in a similar manner as e.g. academic publications. Hence, patent citations provide us with an approximation of a patent’s influence on follow-on inventions. Furthermore, numerous studies find that the more often a patent has been cited, the more significant is its technological innovation content and the higher its economic value (see for example <a href="https://academic.oup.com/qje/article/132/2/665/3076284" target = "_blank">Kogan et al. 2017</a> or <a href="https://www.jstor.org/stable/1593752?seq=1#metadata_info_tab_contents" target = "_blank">Hall et al., 2005</a>). For this reason, several studies use the number of highly cited patents to assess the quality of innovations. This criterion can then easily be used to compare the quality of patents of different countries, regions, or firms. A recent example is a study by the <a href="https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/weltklassepatente-in-zukunftstechnologien" target = "_blank">Bertelsmann Stiftung (2020)</a>.</p>
+<p>However, such an assessment has an obvious shortcoming. Patents are cited over the years after their publication and even for high-impact patents, it takes some time to receive citations. Thus, it is only after some time possible to assess whether a patent represents an important, even groundbreaking innovation. The same problem applies when comparing countries or regions by means of the quality of their patens. For example, it is absolutely possible to evaluate the quality of Swiss patents that were filed in 2008, but it is quite difficult to do the same for patents filed in 2019. To make a long story short: Focusing on patent citations generally means looking backward. This is unsatisfactory especially from the point of view of decision makers.</p>
+<p>To tackle this problem, we use machine learning techniques to predict whether recently published patents will be among the 10 percent most cited patents within five years after publication. Throughout this report, we refer to such patents as <strong>top patents</strong>. Moreover, we also compare important pharma regions with each other, such as Nortwestern Switzerland with Massachusetts or California. Besides geographical comparisons, we also look at how selected companies may be doing in the future. On the one hand we focus on the big pharma players such as Novartis, Roche and Pfizer. But we also take a look at pharmaceutical and biotechnology startups such as Moderna, Respivant or TherapeuticsMD.</p>
+<p><br></p>
+<hr class="hr_red">
+<div id="pat_method" class="box_div">
+<p style="font-size:18px">
+<strong>Predicting patent quality</strong>
+</p>
+<details>
+<p><summary><em>Click here to read about our methodological approach</em></summary></p>
+<p>We have trained different machine learning models with which we can make predictions on whether a recently published pharma patent may become a top patent within the next 5 years. For training, we considered pharma patents which have been published some time ago. In doing so, we used information directly related to a patent such as the number of cited non-patent literature, on technology dynamics (e.g., the growth rate of patents within a technlogy class) and on the knowledge of firms and inventors (e.g., how many patents they have within a technology class). Afterwards, we predicted for each newly published pharma patent whether it could be a top patent. Subsequently, the number of predicted top patents allowed us to calculate the share of top pharma patents among all newly published pharma patents of countries, regions and firms in a given year. In this article we show only the results. For those who are interested in technical details, we refer to our accompanying technical report, which can be downloaded <a href=https://www.innoscape.de/pharma_pred/Niggli_Rutzer_Technical_Report_Pharma_Predictions.pdf target = "_blank">here</a>.</p>
+In what follows, we focus on the mean of our calculated shares of predicted top patents. It should be noted that the share of predicted top patents remain most times robust across each of our trained models. This is a good sign, since it indicates that our predictions of top patents tend to be reliable. You can investigate this by yourself by selecting several models at once in our subsequent interactive plots.
+</details>
+</div>
+<p><br></p>
+</div>
+<div id="who-could-be-the-leading-countries-for-next-generation-pharma-innovations" class="section level2">
+<h2><strong>Who could be the leading countries for next generation pharma innovations?</strong></h2>
+<p><br></p>
+<p>The Figure below shows the share of top patents among all newly published pharma patents of a country for a given year. For past years, we use three years moving averages of the shares, as patent applications are sometimes subject to strong yearly fluctuations. For our predictions, we use published patents since 2017. The Figure can be adjusted individually by clicking on the selection fields. We limit the selection to the 15 countries with the most pharma patents (by means of the number of patents between 2010 and 2015).</p>
+<p><br></p>
+<hr class="hr_red">
+<div id="quality-of-the-innovation-pipeline-of-countries-the-past-and-trends-for-the-future" class="section level4">
+<h4><strong>Quality of the innovation pipeline of countries: The Past and trends for the future</strong></h4>
+<iframe width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_ctry/#ctry_pat">
+<p>
+Your browser does not support iframes
+</p>
+</iframe>
+<p><span style="font-size:0.8em"><em>Sources and notes: Own estimations of the CIEB based on data from the <a href="https://www.uspto.gov/" target ="blank">USPTO</a> and the <a href="http://www.oecd.org/sti/inno/intellectual-property-statistics-and-analysis.htm" target ="blank">OECD</a>. The size of the dots indicates the number of recently published patents.</em></span></p>
+<p><br></p>
+<p>Between 2007 and 2015, newly published patents in the United States and United Kingdom generally had the largest share of top patents. For most of the years in this time window, Switzerland has mostly been positioned in the upper midfield close to Germany with around 10 percent of its annually developed pharmaceutical patents being top patents. China, in turn, has been the one with the initially lowest, but steady increasing share of top patents. At the same time, Japan has witnessed a steady decline in its share of top patents and has been overtaken by China. Thus, the quality of the innovation pipeline has increased for China, but it apparently decreased for Japan. So much about the past. Let us now turn to predictions for the nearer future, presented in our graph by the colored dots.</p>
+For recently published pharmaceutical patents, our predictions imply that the corresponding share of top patents is likely to decrease strongest for the United Kingdom. In contrast, the share of top patents for the USA is expected to increase. In other words, it seems that the USA has further improved the quality of its innovation pipeline, while the United Kingdom could witness a decrease compared to the past years. Our predictions also show an approximately constant share for Switzerland and a declining one for Germany, suggesting that the quality of recently published Swiss pharmaceutical patents is likely to be (on average) higher compared to those of most other important pharma-countries.
+<div class="bloc_div">
+<blockquote>
+<strong><em>The quality of recently published Swiss pharmaceutical patents is likely to be higher compared to those of most other important pharma-countries</em></strong>
+</blockquote>
+</div>
+<p>In addition, our predictions show a continuation of the previous trend of a further decrease in the share of newly published top patents for Japan and an increase for China. Yet it seems unlikely that China becomes a major pharmaceutical powerhouse soon—at least not with regard to the share of top patents among all its newly published patents.</p>
+<p><br></p>
+</div>
+</div>
+<div id="and-the-top-regions" class="section level2">
+<h2><strong>…and the top regions?</strong></h2>
+<p><br></p>
+<p>Within countries, pharma innovations usually take place in a small number of clusters. Our interactive plot makes it possible to explore the 50 most important pharma regions (according to the number of patents between 2010 and 2015) with regard to the quality of their innovations in a given year.</p>
+<p>Regarding Switzerland, this is mainly Northwestern Switzerland and to some extent the Lake Geneva Region, whereas Northwestern Switzerland has constantly had a larger share of high-quality innovations among its newly published patents. Our predictions suggest that the quality of the innovation pipline may increase in both regions in the near future. Accordingly, the Basel region seems to be—and remain—the hotspot of high-quality pharma innovations in Switzerland.</p>
+<p>Let’s now compare the two main Swiss regions with the dynamics in some U.S. regions, because the U.S. is the main pharma hub worldwide.</p>
+<p><br></p>
+<hr class="hr_red">
+<div id="quality-of-the-innovation-pipeline-of-regions" class="section level4">
+<h4><strong>Quality of the innovation pipeline of regions</strong></h4>
+<iframe width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_ctry/#regio_pat">
+<p>
+Your browser does not support iframes
+</p>
+</iframe>
+<p><span style="font-size:0.8em"><em>Sources and notes: Own estimations of the CIEB based on data from the <a href="https://www.uspto.gov/" target ="blank">USPTO</a> and the <a href="http://www.oecd.org/sti/inno/intellectual-property-statistics-and-analysis.htm" target ="blank">OECD</a>. The size of the dots indicates the number of recently published patents.</em></span></p>
+<p><br></p>
+<p>The leading U.S. pharmaceutical destinations have had not only a higher share of top patents in the past than the two most important Swiss pharmaceutical regions. The quality of the innovation pipeline seems to have even steadily increased in regions like California, Massachusetts, New York, and most of all Connecticut, home of the renowend Yale university and a research facility of Pfizer. Based on our algorithms, the gap in the quality of the innovation pipeline between the leading U.S regions and the leading Swiss ones could likely become wider in the near future.</p>
+<p><br></p>
+</div>
+</div>
+<div id="lets-have-a-look-at-firms" class="section level2">
+<h2><strong>Let’s have a look at firms</strong></h2>
+<p><br></p>
+<p>We will first look at well-established, big pharmaceutical companies. For our analysis, it is only possible to consider those patents that have been published to date. Since we obviously have much less patents at hand for individual firms compared to the previous analysis of countries and regions, this introduces some limitations to the next analysis. For example, it is possible that some companies have not yet published some of their most important recent inventions. For such a firm, we are likely underestimating the share of newly published top innovations. It could also be that firms have not published some of their lower quality patents yet—exactly because they are less important. In this case, our results tend to overestimate the quality of these firms’ innovation pipelines. Thus, the reported predictions of recent firm-level top-patent shares should be treated with caution. Accordingly, we interpret the results as <strong>possible trends based on patent information that is available today</strong> and not as detailed predictions. Moreover, we focus only on patents of the core company. For example, patents by Genentech are not attributed to Roche.</p>
+<p><br></p>
+<hr class="hr_red">
+<div id="quality-of-the-innovation-pipeline-of-the-big-pharmaceutical-players" class="section level4">
+<h4><strong>Quality of the innovation pipeline of the big pharmaceutical players</strong></h4>
+<iframe width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_firm/#firm_id">
+<p>
+Your browser does not support iframes
+</p>
+</iframe>
+<p><span style="font-size:0.8em"><em>Source: Own estimations of the CIEB based on data from the <a href="https://www.uspto.gov/" target ="blank">USPTO</a> and the <a href="http://www.oecd.org/sti/inno/intellectual-property-statistics-and-analysis.htm" target ="blank">OECD</a>.</em></span></p>
+<p><br></p>
+<p>Despite these data restrictions, it is still interesting to see from a Swiss point of view that the quality of Roche’s recently filed patents could be more highly valued than those of its domestic competitor Novartis. This pattern is showing up among all of our trained prediction models. In contrast, this was the other way round in the past few years, whereas Novartis constantly had a larger share of top innovations among its newly developed patents compared to Roche.</p>
+<p>Next, let’s broaden our focus by including other big pharmaceutical companies from other countries. In this case, our predictions show a particularly strong increase in the quality of the innovation pipeline for Pfizer. At the same time, our predictions imply that a large proportion of the recently developed patents of e.g. Allergan or Eli Lilly are unlikely to contain outstanding innovations.</p>
+<p>Besides considering the established pharmaceutical players, we can also take a look at the quality of recent innovations from startups. To be able to do this, we first need an approximative definition of a pharmaceutical startup. We proceed the following way: We consider a pharma company to be a potential pharmaceutical startup if it’s very first patent application was filed in 2010 or later. Moreover, to find those startups that are likely to be significant in the near future, we only include companies that conduct R&amp;D themselves and have applied for more than 5 patents since 2010. This leaves us with 20 different startups.</p>
+<p>So, what can we say about the quality of their innovation pipeline? First of all, in contrast to the established global players, we only show predictions and no past observations. By our definition of a startup, most of them haven’t published a lot of patents between 2010 and 2015. Thus, past observations are rather uninteresting or even not available at all. The analysis is shown in the Figure below. As before, the vertical axis shows the share of top patents among all published patents since 2017. In turn, the horizontal axis shows the predictions of all of our models for each chosen startup. As you can see from the Figure, there are some startups for which our models predict that their recently published patents consist only of top patents. An example is TherapeuticsMD from Florida, USA.</p>
+<p><br></p>
+<hr class="hr_red">
+</div>
+<div id="quality-of-recent-pharma-patents-of-startups" class="section level4">
+<h4><strong>Quality of recent pharma patents of startups</strong></h4>
+<iframe width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_firm/#startup_id">
+<p>
+Your browser does not support iframes
+</p>
+</iframe>
+<p><span style="font-size:0.8em"><em>Source: Own estimations of the CIEB based on data from the <a href="https://www.uspto.gov/" target ="blank">USPTO</a> and the <a href="http://www.oecd.org/sti/inno/intellectual-property-statistics-and-analysis.htm" target ="blank">OECD</a>.</em></span></p>
+<p><br></p>
+<p>In addition, let us take a look at the pipeline of Moderna, a U.S. pharmaceutical company that is currently making huge headlines in the media due to the development of a Covid-19 vaccine. According to our algorithms, Moderna is well positioned with the entirety of their most recent patents. In fact, our prediction models rate Moderna’s overall quality of recent patents among the best and assign it a high value.</p>
+At the same time, an increasing number of startups are of Chinese origin, raising the question whether China could soon become a major innovation competitor in the pharmaceutical industry. In order to get a picture about them, choose in the selection panel <strong>Choose a firm</strong> all startups that have CN in brackets. Then you can see that our algorithms are skeptical in this regard. All of our trained models indicate that startups from China, namely Crystal Pharmatech, Lianyungang Runzhong, Medshine Discovery, and Shenzhen Rargetrx aren’t at the innovation frontier in the foreseeable future.
+<div class="bloc_div">
+<blockquote>
+<strong><em>The pharmaceutical startup landscape seems highly dominated by the USA.</em></strong>
+</blockquote>
+</div>
+<p>Thus, the pharmaceutical startup landscape seems highly dominated by the USA. This could be relevant especially as startups tend to be highly dynamic which seems likely help the USA to remain at the forefront of high-quality innovations in the future. Chinese startups, to the contrary, do not seem to play a crucial role in the pharmaceutical innovation race in the near future.</p>
+<p><br></p>
+</div>
+</div>
+<div id="concluding-remarks" class="section level2">
+<h2><strong>Concluding remarks</strong></h2>
+<p><br></p>
+<p>How to best summarize this glimpse to the future of pharmaceutical innovations? From a Swiss perspective, it is encouraging to see that our predictions indicate a constant quality of recently published Swiss pharmaceutical patents compared to those of the near past. Thus, our prediction models seem confident that the Swiss pharmaceutical industry will continue to perform well in the international innovation race.</p>
+<p>Globally, the U.S. pharmaceutical industry seems likely to continue to set the benchmark for high-quality pharma innovations—and it may even further expand its top position. An important factor for this ongoing success is a relatively high number of high-quality startups. In turn, they are still clearly missing in China. Apart from that, our predictions show a positive trend for China, even though China may still be lacking behind other major pharma-countries in developing top innovations in the near future.</p>
+<p><br></p>
+<p><strong><a href=https://www.innoscape.de/pharma_pred/Niggli_Rutzer_Technical_Report_Pharma_Predictions.pdf target = "_blank">Click here to download our technical report describing the training and performance of our machine learning models.</a></strong></p>
+<p><br></p>
+<p><strong>Interested in a comparison</strong> of Swiss pharma with other countries? Then check out our analysis<a href = https://innoscape.ch/en/publications/the-pharmaceutical-industry-a-driver-of-innovation-and-growth-in-switzerland target = “_blank”> The pharmaceutical industry: a driver of innovation and growth in Switzerland</a>.</p>
+<p><br></p>
+<strong>Share this article</strong>
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-url="https://innoscape.ch/en/publications/swiss-pharma-international-innovation-race" data-a2a-title="Analysis within Innoscape: What’s next? Swiss Pharma in the International Innovation Race">
+<p><a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_xing"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<p><br></p>
+<p><span style="font-size:0.8em"><em>This report was written using <a href = https://rmarkdown.rstudio.com/ target = “_blank”>R Markdown</a> and <a href = https://shiny.rstudio.com/ target = “_blank”>R shiny</a>. Training of our machine learning algorithms and patent predictions were performed at <a href = http://scicore.unibas.ch/ target = “_blank”> sciCORE </a> scientific computing center at the University of Basel. Data and code to reproduce the figures presented in this article are available on <a href=https://github.com/cieb-unibas/innoscape-part-I-citation-predictions/tree/master/report_en target="_blank">GitHub</a>.</em></span></p>
+<p><br> <br> <br> <br></p>
+</div>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71167447-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-71167447-1');
+</script>
+</div>
+
+
+
+<!-- code folding -->
+
+
+
+</body>
+</html>

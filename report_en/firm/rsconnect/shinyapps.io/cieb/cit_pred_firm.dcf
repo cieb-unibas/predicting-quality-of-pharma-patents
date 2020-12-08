@@ -1,0 +1,12 @@
+name: cit_pred_firm
+title: cit_pred_firm
+username:
+account: cieb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3242948
+bundleId: 3955402
+url: https://cieb.shinyapps.io/cit_pred_firm/
+when: 1607356147.22838
+asMultiple: FALSE
+asStatic: FALSE
