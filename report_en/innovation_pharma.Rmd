@@ -18,7 +18,7 @@ output:
 </script>
 
 
-## **What’s next? Swiss Pharma in the International Innovation Race**
+## **What’s next? The Swiss Pharmaceutical Industry in the International Innovation Race**
 
 <br>
 
@@ -81,13 +81,13 @@ The Figure below shows the share of top patents among all newly published pharma
 
 <br>
 
-Between 2007 and 2015, newly published patents in the United States and United Kingdom generally had the largest share of top patents. For most of the years in this time window, Switzerland has mostly been positioned in the upper midfield close to Germany with around 10 percent of its annually developed pharmaceutical patents being top patents. China, in turn, has been the one with the initially lowest, but steady increasing share of top patents. At the same time, Japan has witnessed a steady decline in its share of top patents and has been overtaken by China. Thus, the quality of the innovation pipeline has increased for China, but it apparently decreased for Japan. So much about the past. Let us now turn to predictions for the nearer future, presented in our graph by the colored  dots.
+Between 2007 and 2015, newly published patents in the United States and United Kingdom generally had the largest share of top patents. For most of the years in this time window, Switzerland has mostly been positioned in the upper midfield close to Germany with around 10 percent of its annually developed pharmaceutical patents being top patents. China, in turn, has been the one with the initially lowest, but steady increasing share of top patents. At the same time, Japan has witnessed a steady decline in its share of top patents and has been overtaken by China. Thus, the quality of the innovation pipeline has increased for China, but it apparently decreased for Japan. So much about the past. Let us now turn to predictions for the nearer future, presented in our graph by the colored dots.
 
 For recently published pharmaceutical patents, our predictions imply that the corresponding share of top patents is likely to decrease strongest for the United Kingdom. In contrast, the share of top patents for the USA is expected to increase. In other words, it seems that the USA has further improved the quality of its innovation pipeline, while the United Kingdom could witness a decrease compared to the past years. Our predictions also show an approximately constant share for Switzerland and a declining one for Germany, suggesting that the quality of recently published Swiss pharmaceutical patents is likely to be (on average) higher compared to those of most other important pharma-countries. 
 <div class=bloc_div>
 <blockquote>***The quality of recently published Swiss pharmaceutical patents is likely to be higher compared to those of most other important pharma-countries***</blockquote>
 </div>
-In addition, our predictions show a continuation of the previous trend of a further decrease in the share of newly published top patents for Japan and an increase for China. Yet it  seems unlikely that China becomes a major pharmaceutical powerhouse soon—at least not with regard to the share of top patents among all its newly published patents. 
+In addition, our predictions show a continuation of the previous trend of a further decrease in the share of newly published top patents for Japan and an increase for China. Yet it seems unlikely that China becomes a major pharmaceutical powerhouse soon—at least not with regard to the share of top patents among all its newly published patents. 
 
 <br>
 
@@ -116,7 +116,7 @@ Let’s now compare the two main Swiss regions with the dynamics in some U.S. re
 <br>
 
 The leading U.S. pharmaceutical destinations have had not only a higher share of top patents in the past than the two most important Swiss pharmaceutical regions. The quality of the innovation pipeline seems to have even steadily increased in regions like California, Massachusetts, New York, and most of all Connecticut, home of the renowend Yale university and a research facility of Pfizer.
- Based on our algorithms, the gap in the quality of the innovation pipeline between the leading U.S regions and the leading Swiss ones could likely become wider in the near future.
+Based on our algorithms, the gap in the quality of the innovation pipeline between the leading U.S regions and the leading Swiss ones could likely become wider in the near future.
 
 <br>
 
@@ -137,7 +137,7 @@ We will first look at well-established, big pharmaceutical companies. For our an
 
 <br>
 
-Despite these data restrictions, it is still interesting to see from a Swiss point of view that the quality of Roche’s recently filed patents could be more highly valued than those of its domestic competitor Novartis. This pattern is showing up among all of our trained prediction models. In contrast, this was the other way round in the past few years, whereas Novartis constantly had a larger share of top innovations among its newly developed patents compared to Roche. 
+Despite these data restrictions, it is still interesting, from a Swiss point of view, to take a look at the country’s two pharmaceutical giants Roche and Novartis. The recently filed patents from both companies are highly positioned and among the best worldwide.  For the near future, Roche’s recent innovations could be more highly ranked than those of Novartis. This pattern is showing up among all of our trained prediction models. This was the other way round in the past few years, whereas Novartis’ share of top innovations among its newly developed patents has been larger compared to Roche. 
 
 Next, let’s broaden our focus by including other big pharmaceutical companies from other countries. In this case, our predictions show a particularly strong increase in the quality of the innovation pipeline for Pfizer. At the same time, our predictions imply that a large proportion of the recently developed patents of e.g. Allergan or Eli Lilly are unlikely to contain outstanding innovations.
 
