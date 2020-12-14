@@ -123,9 +123,9 @@ server <- function(input, output) {
         if(nrow(dat_set())!= 0){   
      p <-    ggplotly(
                 ggplot(data = filter(dat_set()), aes(x = pub_year, y = rel_class, color = as.factor(organization), shape = as.factor(model), group = as.factor(interaction(organization, model)), label = Firm)) +
-                    geom_line(data = filter(dat_set(), pub_year < 2016), aes(x = pub_year, y = rel_class, color = as.factor(organization), shape = as.factor(model), group = as.factor(interaction(organization, model)))) +
+                    geom_line(data = filter(dat_set(), pub_year < 2016), aes(x = pub_year, y = rel_class, color = as.factor(organization), linetype = as.factor(organization), shape = as.factor(model), group = as.factor(interaction(organization, model)))) +
                     geom_point(data = filter(dat_set(), pub_year == 2017), aes(x = pub_year, y = rel_class, color = as.factor(organization), shape = as.factor(model), group = as.factor(interaction(organization, model))), size = 2, alpha = 0.5) +
-                    scale_color_viridis(discrete = T, begin = 0, end = 0.8) +
+                    scale_color_viridis(discrete = T, begin = 0, end = 0.9) +
                     theme_bw() +
                     xlab("year") +
                     ylab("Share of top patents") +
@@ -133,7 +133,7 @@ server <- function(input, output) {
                              color="black") + 
                     ggplot2::annotate(geom="text", x=2017, y=round(max(dat_set()$rel_class), 2) + 0.04, label="Predictions",
                              color="black") + 
-                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", "today")) +
+                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", "today (2020)")) +
                     scale_y_continuous(breaks = seq(0, round(max(dat_set()$rel_class), 2) + 0.05, 0.05), limits = c(0, max(dat_set()$rel_class + 0.05))) +  
                     # geom_vline(xintercept = 2015, linetype="dotted") +
                     theme(axis.title = element_text(face="bold",size = 10),
@@ -163,7 +163,7 @@ server <- function(input, output) {
            p_1 <-  ggplotly(
                 ggplot(data = filter(dat_set_startup()), aes(x = as.factor(model), y = rel_class, color = as.factor(organization), shape = as.factor(model), group = as.factor(interaction(organization, model)), label = Firm)) +
                     geom_point(data = filter(dat_set_startup(), pub_year > 2016), aes(x = as.factor(model), y = rel_class, color = as.factor(organization), shape = as.factor(model), group = as.factor(interaction(organization, model))), size = 2, alpha = 0.7) +
-                    scale_color_viridis(discrete = T, begin = 0, end = 0.8) +
+                    scale_color_viridis(discrete = T, begin = 0, end = 0.9) +
                     xlab("") +
                     ylab("Share of top patents") +
                     theme_bw() +

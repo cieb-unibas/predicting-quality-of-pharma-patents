@@ -26,7 +26,7 @@ ui <- fluidPage(
                             pickerInput(
                                 inputId = "ctry_pat", 
                                 label = "Choose a country",
-                                choices = unique(pred_agg_ctry$country), 
+                                choices = unique(sort(pred_agg_ctry$country)), 
                                 selected = c("China", "Germany", "Switzerland", "United States", "Japan", "United Kingdom"), 
                                 options = list(
                                     # `max-options` = 8,
@@ -71,7 +71,7 @@ fluidRow( pickerInput(
                inputId = "regio_pat", 
                label = "Choose a region",
                choices = sort(unique(pred_agg_regio$regio)), 
-               selected = c("CH-Northwestern Switzerland", "CH-Lake Geneva Region", "US-New York", "US-California", "US-Massachusetts", "US-Connecticut"), 
+               selected = c("CH-Northwestern Switzerland", "CH-Lake Geneva Region", "CN-Shanghai", "US-California", "US-Massachusetts", "US-Connecticut"), 
                options = list(
                    # `max-options` = 8,
                    `actions-box` = TRUE, 
@@ -122,16 +122,16 @@ server <- function(input, output) {
             
         p <-  ggplotly(
                 ggplot(data = filter(dat_set()), aes(x = pub_year, y = rel_class, color = as.factor(country), shape = as.factor(model), group = as.factor(interaction(country, model)), label = Country)) +
-                    geom_line(data = filter(dat_set(), pub_year < 2016), aes(x = pub_year, y = rel_class, color = as.factor(country), shape = as.factor(model), group = as.factor(interaction(country, model)))) +
+                    geom_line(data = filter(dat_set(), pub_year < 2016), aes(x = pub_year, y = rel_class, color = as.factor(country), linetype = as.factor(country), group = as.factor(interaction(country, model)))) +
                     geom_point(data = filter(dat_set(), pub_year == 2017), aes(x = pub_year, y = rel_class, color = as.factor(country), shape = as.factor(model), group = as.factor(interaction(country, model)), size = ges_pred_pat), alpha = 0.5) +
-                    scale_color_viridis(discrete = T, begin = 0, end = 0.8) +
+                    scale_color_viridis(discrete = T, begin = 0, end = 0.9) +
                     xlab("year") +
                     ylab("Share of top patents") +
                     ggplot2::annotate(geom="text", x=2010, y=round(max(dat_set()$rel_class), 2) + 0.04, label="Past observations",
                              color="black") + 
                     ggplot2::annotate(geom="text", x=2017, y=round(max(dat_set()$rel_class), 2) + 0.04, label="Predictions",
                              color="black") + 
-                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", "today")) +
+                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", "today (2020)")) +
                     scale_y_continuous(breaks = seq(0, round(max(dat_set()$rel_class), 2) + 0.05, 0.05), limits = c(0, max(dat_set()$rel_class + 0.05))) +  
                     # geom_vline(xintercept = 2015, linetype="dotted") +
                     theme_bw() +
@@ -160,16 +160,16 @@ server <- function(input, output) {
             
         p_1 <- ggplotly(
                 ggplot(data = filter(dat_set_regio()), aes(x = pub_year, y = rel_class, color = as.factor(regio), shape = as.factor(model), group = as.factor(interaction(regio, model)), label = Regio)) +
-                    geom_line(data = filter(dat_set_regio(), pub_year < 2016), aes(x = pub_year, y = rel_class, color = as.factor(regio), shape = as.factor(model), group = as.factor(interaction(regio, model)))) +
+                    geom_line(data = filter(dat_set_regio(), pub_year < 2016), aes(x = pub_year, y = rel_class, color = as.factor(regio), linetype = as.factor(regio), group = as.factor(interaction(regio, model)))) +
                     geom_point(data = filter(dat_set_regio(), pub_year == 2017), aes(x = pub_year, y = rel_class, color = as.factor(regio), shape = as.factor(model), group = as.factor(interaction(regio, model)), size = ges_pred_pat), alpha = 0.5) +
-                    scale_color_viridis(discrete = T, begin = 0, end = 0.8) +
+                    scale_color_viridis(discrete = T, begin = 0, end = 0.9) +
                     xlab("year") +
                     ylab("Share of top patents") +
                     ggplot2::annotate(geom="text", x=2010, y=round(max(dat_set_regio()$rel_class), 2) + 0.04, label="Past observations",
                                color="black") + 
                     ggplot2::annotate(geom="text", x=2017, y=round(max(dat_set_regio()$rel_class), 2) + 0.04, label="Predictions",
                              color="black") + 
-                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", "today")) +
+                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", "today (2020)")) +
                     scale_y_continuous(breaks = seq(0, round(max(dat_set_regio()$rel_class), 2) + 0.05, 0.05), limits = c(0, max(dat_set_regio()$rel_class + 0.05))) +  
                     # geom_vline(xintercept = 2015, linetype="dotted") +
                     theme_bw() +
