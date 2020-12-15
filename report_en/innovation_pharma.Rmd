@@ -140,7 +140,7 @@ From a Swiss point of view, it is interesting to first take a look at the countr
 
 Next, let’s broaden our focus by including other big pharmaceutical companies from other countries. In this case, our predictions show a particularly strong increase in the quality of the innovation pipeline for Pfizer. At the same time, our predictions imply that a large proportion of the recently developed patents of, e.g. Allergan or Eli Lilly, are unlikely to contain outstanding innovations.
 
-Besides considering the established pharmaceutical players, we can also take a look at the quality of recent innovations from startups. To be able to do this, we first need an approximative definition of a pharmaceutical startup. We proceed in the following way: We consider a pharma company to be a potential pharmaceutical startup if its very first pharma patent application was filed in 2010 or later. Moreover, to find those startups that are likely to be significant in the near future, we include only companies that conduct R&D themselves and have applied for more than 5 pharma patents since 2010. This leaves us with 20 different startups. 
+Besides considering the established pharmaceutical players, we can also take a look at the quality of recent innovations from startups. To be able to do this, we first need an approximative definition of a pharmaceutical startup. We proceed in the following way: We consider a pharma company to be a potential pharmaceutical startup if its very first pharma patent application was filed in 2010 or later. Moreover, to find those startups that are likely to be significant in the near future, we include only companies that conduct R&D themselves and have applied for more than 5 pharma patents since 2017. This leaves us with 20 different startups. 
 
 So, what can we say about the quality of their innovation pipeline? First of all, in contrast to the established global players, we show only predictions and no past observations. By our definition of a startup, most of them published few patents between 2010 and 2015. Thus, past observations are rather uninteresting or even not available. The analysis is shown in the figure below. As before, the vertical axis shows the share of top patents among all published patents since 2017. In turn, the horizontal axis shows the predictions of all of our models for each chosen startup. As you can see from the figure, there are some startups for which our models predict that their recently published patents consist only of top patents. An example is TherapeuticsMD from Florida, USA. 
 
@@ -214,5 +214,6 @@ Globally, the U.S. pharmaceutical industry seems likely to continue to set the b
   gtag('js', new Date());
   gtag('config', 'UA-71167447-1');
 </script>
+
 
 
