@@ -136,7 +136,7 @@ We will now look at well-established, big pharmaceutical companies. It is import
 
 <br>
 
-From a Swiss point of view, it is interesting to first take a look at the country’s two pharmaceutical giants Roche and Novartis. Recently filed patents from both companies are highly positioned and among the best worldwide.  For the near future, Roche’s recent innovations could be more highly ranked than those of Novartis. This pattern is showing up in all of our trained prediction models. This was the other way round in the past few years, where Novartis’ share of top innovations among its newly developed patents was larger compared to Roche. 
+From a Swiss point of view, it is interesting to first take a look at the country’s two pharmaceutical giants Roche and Novartis. Recently filed patents from both companies are highly positioned and among the best worldwide.  For the near future, Roche’s recent innovations could be more highly ranked than those of Novartis. This pattern is showing up in nearly all of our trained prediction models. This was the other way round in the past few years, where Novartis’ share of top innovations among its newly developed patents was larger compared to Roche. 
 
 Next, let’s broaden our focus by including other big pharmaceutical companies from other countries. In this case, our predictions show a particularly strong increase in the quality of the innovation pipeline for Pfizer. At the same time, our predictions imply that a large proportion of the recently developed patents of, e.g. Allergan or Eli Lilly, are unlikely to contain outstanding innovations.
 
