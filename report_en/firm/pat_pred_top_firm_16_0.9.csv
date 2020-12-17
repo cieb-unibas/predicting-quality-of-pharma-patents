@@ -1,0 +1,885 @@
+"","organization","iso","Up_reg_label","pub_year","tech_field","no_top_pat","top_pat","rel_class","model","ges_pred_pat","organization_ctry","country","Firm"
+"1","novartis","CH","Northwestern Switzerland ",2005,16,38,9,0.167557499395485,"past",47,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"2","novartis","CH","Northwestern Switzerland ",2006,16,23,11,0.210041159526204,"past",34,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"3","novartis","CH","Northwestern Switzerland ",2007,16,34,6,0.204953440227958,"past",40,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"4","novartis","CH","Northwestern Switzerland ",2008,16,66,6,0.1763370880267,"past",72,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"5","novartis","CH","Northwestern Switzerland ",2009,16,63,16,0.190176750473957,"past",79,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"6","novartis","CH","Northwestern Switzerland ",2010,16,88,15,0.181005091725765,"past",103,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"7","novartis","CH","Northwestern Switzerland ",2011,16,66,16,0.155323599616726,"past",82,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"8","novartis","CH","Northwestern Switzerland ",2012,16,69,24,0.176936502842533,"past",93,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"9","novartis","CH","Northwestern Switzerland ",2013,16,46,10,0.195984121890152,"past",56,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"10","novartis","CH","Northwestern Switzerland ",2014,16,42,8,0.187477792776228,"past",50,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"11","novartis","CH","Northwestern Switzerland ",2015,16,36,8,0.194715215547631,"past",44,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"12","novartis","CH","Northwestern Switzerland ",2016,16,28,10,0.208322404251097,"past",38,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"13","novartis","CH","Northwestern Switzerland ",2017,16,41,11,0.211538461538462,"Neural Network 1",52,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: Neural Network 1"
+"14","novartis","CH","Northwestern Switzerland ",2017,16,45,7,0.134615384615385,"Neural Network 2",52,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: Neural Network 2"
+"15","novartis","CH","Northwestern Switzerland ",2017,16,43,9,0.173076923076923,"Random Forest 1",52,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: Random Forest 1"
+"16","novartis","CH","Northwestern Switzerland ",2017,16,44,8,0.153846153846154,"Random Forest 2",52,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: Random Forest 2"
+"17","eli lilly","US","Indiana",2005,16,31,5,0.0863843054952477,"past",36,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"18","eli lilly","US","Indiana",2006,16,19,0,0.0697176388285811,"past",19,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"19","eli lilly","US","Indiana",2007,16,16,1,0.068982344710934,"past",17,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"20","eli lilly","US","Indiana",2008,16,26,2,0.0751047936905258,"past",28,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"21","eli lilly","US","Indiana",2009,16,21,4,0.085828197945845,"past",25,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"22","eli lilly","US","Indiana",2010,16,40,3,0.0720039085401602,"past",43,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"23","eli lilly","US","Indiana",2011,16,17,4,0.110099146635398,"past",21,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"24","eli lilly","US","Indiana",2012,16,14,1,0.111667774086379,"past",15,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"25","eli lilly","US","Indiana",2013,16,7,2,0.141826504245109,"past",9,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"26","eli lilly","US","Indiana",2014,16,12,0,0.109826504245109,"past",12,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"27","eli lilly","US","Indiana",2015,16,5,2,0.153015873015873,"past",7,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"28","eli lilly","US","Indiana",2016,16,10,0,0.114920634920635,"past",10,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: past"
+"29","eli lilly","US","Indiana",2017,16,43,1,0.0227272727272727,"Neural Network 1",44,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: Neural Network 1"
+"30","eli lilly","US","Indiana",2017,16,43,1,0.0227272727272727,"Neural Network 2",44,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: Neural Network 2"
+"31","eli lilly","US","Indiana",2017,16,43,1,0.0227272727272727,"Random Forest 1",44,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: Random Forest 1"
+"32","eli lilly","US","Indiana",2017,16,43,1,0.0227272727272727,"Random Forest 2",44,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: Random Forest 2"
+"33","astrazeneca","GB","Greater London",2005,16,63,15,0.182290173594521,"past",78,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"34","astrazeneca","GB","Greater London",2006,16,26,3,0.168364444151551,"past",29,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"35","astrazeneca","GB","Greater London",2007,16,18,4,0.173775699562806,"past",22,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"36","astrazeneca","GB","Greater London",2008,16,47,8,0.152866608653715,"past",55,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"37","astrazeneca","GB","Greater London",2009,16,33,5,0.150921528562182,"past",38,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"38","astrazeneca","GB","Greater London",2010,16,38,11,0.157357949284317,"past",49,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"39","astrazeneca","GB","Greater London",2011,16,12,6,0.20333496077857,"past",18,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"40","astrazeneca","GB","Greater London",2012,16,14,3,0.202265442061992,"past",17,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"41","astrazeneca","GB","Greater London",2013,16,5,1,0.206507866304417,"past",6,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"42","astrazeneca","GB","Greater London",2014,16,6,0,0.180192076830732,"past",6,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"43","astrazeneca","GB","Greater London",2015,16,7,1,0.160294117647059,"past",8,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"44","astrazeneca","GB","Greater London",2016,16,6,1,0.122198879551821,"past",7,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"45","astrazeneca","GB","Greater London",2017,16,20,6,0.230769230769231,"Neural Network 1",26,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: Neural Network 1"
+"46","astrazeneca","GB","Greater London",2017,16,21,5,0.192307692307692,"Neural Network 2",26,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: Neural Network 2"
+"47","astrazeneca","GB","Greater London",2017,16,24,2,0.0769230769230769,"Random Forest 1",26,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: Random Forest 1"
+"48","astrazeneca","GB","Greater London",2017,16,25,1,0.0384615384615385,"Random Forest 2",26,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: Random Forest 2"
+"49","glaxosmithkline","GB","Greater London",2005,16,58,11,0.156460269007863,"past",69,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"50","glaxosmithkline","GB","Greater London",2006,16,32,10,0.178624771172365,"past",42,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"51","glaxosmithkline","GB","Greater London",2007,16,34,8,0.187409664440017,"past",42,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"52","glaxosmithkline","GB","Greater London",2008,16,45,6,0.17886360450661,"past",51,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"53","glaxosmithkline","GB","Greater London",2009,16,32,4,0.163349977672228,"past",36,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"54","glaxosmithkline","GB","Greater London",2010,16,55,10,0.162235150470445,"past",65,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"55","glaxosmithkline","GB","Greater London",2011,16,42,10,0.153077641312935,"past",52,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"56","glaxosmithkline","GB","Greater London",2012,16,34,15,0.176206893013616,"past",49,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"57","glaxosmithkline","GB","Greater London",2013,16,24,12,0.219344147915576,"past",36,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"58","glaxosmithkline","GB","Greater London",2014,16,16,10,0.274045002616431,"past",26,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"59","glaxosmithkline","GB","Greater London",2015,16,25,2,0.258090586662015,"past",27,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"60","glaxosmithkline","GB","Greater London",2016,16,19,8,0.278888307459736,"past",27,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: past"
+"61","glaxosmithkline","GB","Greater London",2017,16,31,6,0.162162162162162,"Neural Network 1",37,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: Neural Network 1"
+"62","glaxosmithkline","GB","Greater London",2017,16,30,7,0.189189189189189,"Neural Network 2",37,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: Neural Network 2"
+"63","glaxosmithkline","GB","Greater London",2017,16,29,8,0.216216216216216,"Random Forest 1",37,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: Random Forest 1"
+"64","glaxosmithkline","GB","Greater London",2017,16,31,6,0.162162162162162,"Random Forest 2",37,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: Random Forest 2"
+"65","hoffmann la roche","CH","Northwestern Switzerland ",2005,16,24,0,0.0790988704781808,"past",24,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"66","hoffmann la roche","CH","Northwestern Switzerland ",2006,16,30,1,0.0665028643337876,"past",31,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"67","hoffmann la roche","CH","Northwestern Switzerland ",2007,16,53,0,0.0550086114602244,"past",53,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"68","hoffmann la roche","CH","Northwestern Switzerland ",2008,16,52,7,0.0579582042403256,"past",59,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"69","hoffmann la roche","CH","Northwestern Switzerland ",2009,16,49,12,0.0695246887576298,"past",61,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"70","hoffmann la roche","CH","Northwestern Switzerland ",2010,16,65,9,0.0938490130819541,"past",74,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"71","hoffmann la roche","CH","Northwestern Switzerland ",2011,16,61,10,0.115566414263235,"past",71,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"72","hoffmann la roche","CH","Northwestern Switzerland ",2012,16,65,11,0.144513782684288,"past",76,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"73","hoffmann la roche","CH","Northwestern Switzerland ",2013,16,29,2,0.133688194931418,"past",31,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"74","hoffmann la roche","CH","Northwestern Switzerland ",2014,16,15,2,0.117873344401041,"past",17,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"75","hoffmann la roche","CH","Northwestern Switzerland ",2015,16,21,5,0.132010558538256,"past",26,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"76","hoffmann la roche","CH","Northwestern Switzerland ",2016,16,14,4,0.148285988898193,"past",18,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: past"
+"77","hoffmann la roche","CH","Northwestern Switzerland ",2017,16,38,9,0.191489361702128,"Neural Network 1",47,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: Neural Network 1"
+"78","hoffmann la roche","CH","Northwestern Switzerland ",2017,16,38,9,0.191489361702128,"Neural Network 2",47,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: Neural Network 2"
+"79","hoffmann la roche","CH","Northwestern Switzerland ",2017,16,37,10,0.212765957446809,"Random Forest 1",47,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: Random Forest 1"
+"80","hoffmann la roche","CH","Northwestern Switzerland ",2017,16,38,9,0.191489361702128,"Random Forest 2",47,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: Random Forest 2"
+"81","sanofi","FR","Île-de-France",2005,16,52,3,0.0628921347469734,"past",55,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"82","sanofi","FR","Île-de-France",2006,16,15,3,0.0895588014136401,"past",18,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"83","sanofi","FR","Île-de-France",2007,16,35,1,0.0757595182595182,"past",36,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"84","sanofi","FR","Île-de-France",2008,16,64,1,0.058003108003108,"past",65,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"85","sanofi","FR","Île-de-France",2009,16,50,2,0.0605672105672106,"past",52,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"86","sanofi","FR","Île-de-France",2010,16,65,3,0.0584816490698844,"past",68,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"87","sanofi","FR","Île-de-France",2011,16,74,4,0.0354047259929613,"past",78,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"88","sanofi","FR","Île-de-France",2012,16,65,5,0.04413488472312,"past",70,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"89","sanofi","FR","Île-de-France",2013,16,40,1,0.0459360104266847,"past",41,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"90","sanofi","FR","Île-de-France",2014,16,9,4,0.0997821642728386,"past",13,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"91","sanofi","FR","Île-de-France",2015,16,13,5,0.146514190416629,"past",18,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"92","sanofi","FR","Île-de-France",2016,16,15,1,0.148757780160219,"past",16,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: past"
+"93","sanofi","FR","Île-de-France",2017,16,15,4,0.210526315789474,"Neural Network 1",19,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: Neural Network 1"
+"94","sanofi","FR","Île-de-France",2017,16,15,4,0.210526315789474,"Neural Network 2",19,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: Neural Network 2"
+"95","sanofi","FR","Île-de-France",2017,16,14,5,0.263157894736842,"Random Forest 1",19,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: Random Forest 1"
+"96","sanofi","FR","Île-de-France",2017,16,13,6,0.315789473684211,"Random Forest 2",19,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: Random Forest 2"
+"97","merck","DE","Darmstadt",2005,16,42,20,0.168146167481065,"past",62,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"98","merck","DE","Darmstadt",2006,16,38,10,0.188760202568784,"past",48,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"99","merck","DE","Darmstadt",2007,16,27,3,0.179593535902118,"past",30,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"100","merck","DE","Darmstadt",2008,16,48,1,0.161033659121217,"past",49,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"101","merck","DE","Darmstadt",2009,16,22,5,0.167301465389023,"past",27,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"102","merck","DE","Darmstadt",2010,16,28,3,0.122140175066442,"past",31,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"103","merck","DE","Darmstadt",2011,16,43,3,0.0935169866606453,"past",46,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"104","merck","DE","Darmstadt",2012,16,26,3,0.094206641833059,"past",29,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"105","merck","DE","Darmstadt",2013,16,15,1,0.102625009179998,"past",16,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"106","merck","DE","Darmstadt",2014,16,12,2,0.0941594007143894,"past",14,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"107","merck","DE","Darmstadt",2015,16,10,0,0.0748045620047119,"past",10,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"108","merck","DE","Darmstadt",2016,16,10,1,0.0799429019256605,"past",11,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: past"
+"109","merck","DE","Darmstadt",2017,16,10,1,0.0909090909090909,"Neural Network 1",11,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: Neural Network 1"
+"110","merck","DE","Darmstadt",2017,16,10,1,0.0909090909090909,"Neural Network 2",11,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: Neural Network 2"
+"111","merck","DE","Darmstadt",2017,16,10,1,0.0909090909090909,"Random Forest 1",11,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: Random Forest 1"
+"112","merck","DE","Darmstadt",2017,16,10,1,0.0909090909090909,"Random Forest 2",11,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: Random Forest 2"
+"113","bayer","DE","Köln",2005,16,21,6,0.0942648539200263,"past",27,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"114","bayer","DE","Köln",2006,16,24,4,0.109043179043179,"past",28,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"115","bayer","DE","Köln",2007,16,16,3,0.131098316887791,"past",19,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"116","bayer","DE","Köln",2008,16,25,5,0.157158922948397,"past",30,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"117","bayer","DE","Köln",2009,16,22,1,0.14662380589154,"past",23,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"118","bayer","DE","Köln",2010,16,38,9,0.140477233787522,"past",47,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"119","bayer","DE","Köln",2011,16,30,4,0.135435216980799,"past",34,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"120","bayer","DE","Köln",2012,16,32,2,0.115620975494731,"past",34,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"121","bayer","DE","Köln",2013,16,20,4,0.115620975494731,"past",24,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"122","bayer","DE","Köln",2014,16,24,6,0.146925323320818,"past",30,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"123","bayer","DE","Köln",2015,16,23,4,0.138257080610022,"past",27,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"124","bayer","DE","Köln",2016,16,22,2,0.131394335511983,"past",24,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: past"
+"125","bayer","DE","Köln",2017,16,28,25,0.471698113207547,"Neural Network 1",53,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: Neural Network 1"
+"126","bayer","DE","Köln",2017,16,34,19,0.358490566037736,"Neural Network 2",53,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: Neural Network 2"
+"127","bayer","DE","Köln",2017,16,32,21,0.39622641509434,"Random Forest 1",53,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: Random Forest 1"
+"128","bayer","DE","Köln",2017,16,33,20,0.377358490566038,"Random Forest 2",53,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: Random Forest 2"
+"129","pfizer","US","New York",2005,16,42,3,0.117946359179809,"past",45,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"130","pfizer","US","New York",2006,16,16,4,0.130423423399993,"past",20,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"131","pfizer","US","New York",2007,16,25,4,0.128895706245911,"past",29,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"132","pfizer","US","New York",2008,16,25,4,0.124634779384501,"past",29,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"133","pfizer","US","New York",2009,16,17,3,0.138505747126437,"past",20,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"134","pfizer","US","New York",2010,16,24,8,0.175172413793103,"past",32,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"135","pfizer","US","New York",2011,16,16,7,0.196041979010495,"past",23,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"136","pfizer","US","New York",2012,16,22,5,0.20549280915098,"past",27,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"137","pfizer","US","New York",2013,16,10,6,0.252906602254428,"past",16,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"138","pfizer","US","New York",2014,16,9,2,0.259270238618065,"past",11,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"139","pfizer","US","New York",2015,16,15,3,0.242603571951398,"past",18,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"140","pfizer","US","New York",2016,16,8,1,0.203956228956229,"past",9,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: past"
+"141","pfizer","US","New York",2017,16,20,3,0.130434782608696,"Neural Network 1",23,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: Neural Network 1"
+"142","pfizer","US","New York",2017,16,17,6,0.260869565217391,"Neural Network 2",23,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: Neural Network 2"
+"143","pfizer","US","New York",2017,16,14,9,0.391304347826087,"Random Forest 1",23,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: Random Forest 1"
+"144","pfizer","US","New York",2017,16,14,9,0.391304347826087,"Random Forest 2",23,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: Random Forest 2"
+"145","bristol myers squibb","US","New York",2005,16,29,6,0.201126973754401,"past",35,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"146","bristol myers squibb","US","New York",2006,16,34,10,0.232295804923232,"past",44,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"147","bristol myers squibb","US","New York",2007,16,46,9,0.224246378621379,"past",55,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"148","bristol myers squibb","US","New York",2008,16,38,14,0.212467532467532,"past",52,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"149","bristol myers squibb","US","New York",2009,16,30,9,0.212467532467532,"past",39,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"150","bristol myers squibb","US","New York",2010,16,48,9,0.209760765550239,"past",57,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"151","bristol myers squibb","US","New York",2011,16,51,7,0.188444151130177,"past",58,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"152","bristol myers squibb","US","New York",2012,16,29,4,0.179959302645328,"past",33,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"153","bristol myers squibb","US","New York",2013,16,26,2,0.140398863084888,"past",28,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"154","bristol myers squibb","US","New York",2014,16,11,4,0.147578350264376,"past",15,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"155","bristol myers squibb","US","New York",2015,16,22,5,0.153036439932992,"past",27,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"156","bristol myers squibb","US","New York",2016,16,15,5,0.178898508898509,"past",20,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: past"
+"157","bristol myers squibb","US","New York",2017,16,38,8,0.173913043478261,"Neural Network 1",46,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: Neural Network 1"
+"158","bristol myers squibb","US","New York",2017,16,37,9,0.195652173913043,"Neural Network 2",46,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: Neural Network 2"
+"159","bristol myers squibb","US","New York",2017,16,36,10,0.217391304347826,"Random Forest 1",46,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: Random Forest 1"
+"160","bristol myers squibb","US","New York",2017,16,38,8,0.173913043478261,"Random Forest 2",46,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: Random Forest 2"
+"161","merck sharp dohme","US","New Jersey",2005,16,8,4,0.147907647907648,"past",12,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"162","merck sharp dohme","US","New Jersey",2006,16,12,5,0.18450895509719,"past",17,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"163","merck sharp dohme","US","New Jersey",2007,16,12,3,0.214985145573381,"past",15,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"164","merck sharp dohme","US","New Jersey",2008,16,33,5,0.214028207774338,"past",38,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"165","merck sharp dohme","US","New Jersey",2009,16,57,8,0.2164213701675,"past",65,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"166","merck sharp dohme","US","New Jersey",2010,16,81,17,0.184448581051854,"past",98,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"167","merck sharp dohme","US","New Jersey",2011,16,102,15,0.151266077281115,"past",117,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"168","merck sharp dohme","US","New Jersey",2012,16,63,9,0.136266077281115,"past",72,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"169","merck sharp dohme","US","New Jersey",2013,16,32,6,0.141529235175852,"past",38,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"170","merck sharp dohme","US","New Jersey",2014,16,25,9,0.169855027031055,"past",34,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"171","merck sharp dohme","US","New Jersey",2015,16,33,5,0.161476938953719,"past",38,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"172","merck sharp dohme","US","New Jersey",2016,16,36,7,0.168394052847577,"past",43,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: past"
+"173","merck sharp dohme","US","New Jersey",2017,16,54,6,0.1,"Neural Network 1",60,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: Neural Network 1"
+"174","merck sharp dohme","US","New Jersey",2017,16,56,4,0.0666666666666667,"Neural Network 2",60,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: Neural Network 2"
+"175","merck sharp dohme","US","New Jersey",2017,16,57,3,0.05,"Random Forest 1",60,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: Random Forest 1"
+"176","merck sharp dohme","US","New Jersey",2017,16,59,1,0.0166666666666667,"Random Forest 2",60,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: Random Forest 2"
+"177","allergan","US","California",2005,16,40,7,0.146955913141743,"past",47,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"178","allergan","US","California",2006,16,34,4,0.130272695664087,"past",38,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"179","allergan","US","California",2007,16,43,5,0.116185394076785,"past",48,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"180","allergan","US","California",2008,16,61,5,0.111824714106349,"past",66,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"181","allergan","US","California",2009,16,41,5,0.108563844541132,"past",46,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"182","allergan","US","California",2010,16,29,2,0.0916798363050301,"past",31,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"183","allergan","US","California",2011,16,43,2,0.0795160936149716,"past",45,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"184","allergan","US","California",2012,16,71,8,0.0789359248386003,"past",79,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"185","allergan","US","California",2013,16,43,1,0.0683298642325397,"past",44,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"186","allergan","US","California",2014,16,40,2,0.0561145433215666,"past",42,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"187","allergan","US","California",2015,16,23,2,0.059211317515115,"past",25,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"188","allergan","US","California",2016,16,22,0,0.0503224286262261,"past",22,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: past"
+"189","allergan","US","California",2017,16,28,0,0,"Neural Network 1",28,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: Neural Network 1"
+"190","allergan","US","California",2017,16,27,1,0.0357142857142857,"Neural Network 2",28,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: Neural Network 2"
+"191","allergan","US","California",2017,16,28,0,0,"Random Forest 1",28,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: Random Forest 1"
+"192","allergan","US","California",2017,16,28,0,0,"Random Forest 2",28,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: Random Forest 2"
+"193","johnson johnson","US","New Jersey",2005,16,35,3,0.110919343814081,"past",38,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"194","johnson johnson","US","New Jersey",2006,16,30,3,0.0791011619958988,"past",33,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"195","johnson johnson","US","New Jersey",2007,16,39,4,0.0704330858859623,"past",43,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"196","johnson johnson","US","New Jersey",2008,16,47,6,0.083550785796115,"past",53,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"197","johnson johnson","US","New Jersey",2009,16,41,10,0.114433138737291,"past",51,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"198","johnson johnson","US","New Jersey",2010,16,65,4,0.110237867951632,"past",69,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"199","johnson johnson","US","New Jersey",2011,16,54,10,0.123306049769813,"past",64,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"200","johnson johnson","US","New Jersey",2012,16,38,4,0.123749017654642,"past",42,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"201","johnson johnson","US","New Jersey",2013,16,20,4,0.134440841554013,"past",24,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"202","johnson johnson","US","New Jersey",2014,16,18,3,0.123796583850932,"past",21,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"203","johnson johnson","US","New Jersey",2015,16,15,4,0.154307644110276,"past",19,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"204","johnson johnson","US","New Jersey",2016,16,14,3,0.158351761757335,"past",17,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: past"
+"205","johnson johnson","US","New Jersey",2017,16,54,13,0.194029850746269,"Neural Network 1",67,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: Neural Network 1"
+"206","johnson johnson","US","New Jersey",2017,16,54,13,0.194029850746269,"Neural Network 2",67,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: Neural Network 2"
+"207","johnson johnson","US","New Jersey",2017,16,56,11,0.164179104477612,"Random Forest 1",67,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: Random Forest 1"
+"208","johnson johnson","US","New Jersey",2017,16,56,11,0.164179104477612,"Random Forest 2",67,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: Random Forest 2"
+"209","merck",NA,"Darmstadt",2017,16,NA,NA,0.0909090909090909,"Mean of all models",11,"merck (DE)","Germany","merck
+Country: Germany
+Region: Darmstadt
+Model: Mean of all models"
+"210","sanofi",NA,"Île-de-France",2017,16,NA,NA,0.25,"Mean of all models",19,"sanofi (FR)","France","sanofi
+Country: France
+Region: Île-de-France
+Model: Mean of all models"
+"211","pfizer",NA,"New York",2017,16,NA,NA,0.293478260869565,"Mean of all models",23,"pfizer (US)","United States","pfizer
+Country: United States
+Region: New York
+Model: Mean of all models"
+"212","astrazeneca",NA,"Greater London",2017,16,NA,NA,0.134615384615385,"Mean of all models",26,"astrazeneca (GB)","United Kingdom","astrazeneca
+Country: United Kingdom
+Region: Greater London
+Model: Mean of all models"
+"213","allergan",NA,"California",2017,16,NA,NA,0.00892857142857143,"Mean of all models",28,"allergan (US)","United States","allergan
+Country: United States
+Region: California
+Model: Mean of all models"
+"214","glaxosmithkline",NA,"Greater London",2017,16,NA,NA,0.182432432432432,"Mean of all models",37,"glaxosmithkline (GB)","United Kingdom","glaxosmithkline
+Country: United Kingdom
+Region: Greater London
+Model: Mean of all models"
+"215","eli lilly",NA,"Indiana",2017,16,NA,NA,0.0227272727272727,"Mean of all models",44,"eli lilly (US)","United States","eli lilly
+Country: United States
+Region: Indiana
+Model: Mean of all models"
+"216","bristol myers squibb",NA,"New York",2017,16,NA,NA,0.190217391304348,"Mean of all models",46,"bristol myers squibb (US)","United States","bristol myers squibb
+Country: United States
+Region: New York
+Model: Mean of all models"
+"217","hoffmann la roche",NA,"Northwestern Switzerland ",2017,16,NA,NA,0.196808510638298,"Mean of all models",47,"hoffmann la roche (CH)","Switzerland","hoffmann la roche
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: Mean of all models"
+"218","novartis",NA,"Northwestern Switzerland ",2017,16,NA,NA,0.168269230769231,"Mean of all models",52,"novartis (CH)","Switzerland","novartis
+Country: Switzerland
+Region: Northwestern Switzerland 
+Model: Mean of all models"
+"219","bayer",NA,"Köln",2017,16,NA,NA,0.400943396226415,"Mean of all models",53,"bayer (DE)","Germany","bayer
+Country: Germany
+Region: Köln
+Model: Mean of all models"
+"220","merck sharp dohme",NA,"New Jersey",2017,16,NA,NA,0.0583333333333333,"Mean of all models",60,"merck sharp dohme (US)","United States","merck sharp dohme
+Country: United States
+Region: New Jersey
+Model: Mean of all models"
+"221","johnson johnson",NA,"New Jersey",2017,16,NA,NA,0.17910447761194,"Mean of all models",67,"johnson johnson (US)","United States","johnson johnson
+Country: United States
+Region: New Jersey
+Model: Mean of all models"

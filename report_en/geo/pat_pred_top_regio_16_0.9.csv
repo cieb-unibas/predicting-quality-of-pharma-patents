@@ -1,0 +1,1501 @@
+"","regio","pub_year","tech_field","no_top_pat","top_pat","rel_class","model","ges_pred_pat","iso","country","Regio"
+"1","BE-Flemish Region",2007,16,12.3666666666667,0.166666666666667,0.0739376305449395,"past",12.5333333333333,"BE","Belgium","BE-Flemish Region
+Model: past"
+"2","BE-Flemish Region",2008,16,15.9261904761905,3.5,0.088494185492627,"past",19.4261904761905,"BE","Belgium","BE-Flemish Region
+Model: past"
+"3","BE-Flemish Region",2009,16,23.5928571428571,2.24166666666667,0.0885642738597216,"past",25.8345238095238,"BE","Belgium","BE-Flemish Region
+Model: past"
+"4","BE-Flemish Region",2010,16,37.1833333333333,2.86666666666667,0.0902439336878774,"past",40.05,"BE","Belgium","BE-Flemish Region
+Model: past"
+"5","BE-Flemish Region",2011,16,26.2833333333333,3.58333333333333,0.0943584158762497,"past",29.8666666666667,"BE","Belgium","BE-Flemish Region
+Model: past"
+"6","BE-Flemish Region",2012,16,21.3011904761905,4.68333333333333,0.127745939039539,"past",25.9845238095238,"BE","Belgium","BE-Flemish Region
+Model: past"
+"7","BE-Flemish Region",2013,16,12.7833333333333,0.5,0.099240342230325,"past",13.2833333333333,"BE","Belgium","BE-Flemish Region
+Model: past"
+"8","BE-Flemish Region",2014,16,19.4,1.83333333333333,0.0991547490858208,"past",21.2333333333333,"BE","Belgium","BE-Flemish Region
+Model: past"
+"9","BE-Flemish Region",2015,16,6.61666666666667,2.53333333333333,0.140212716244359,"past",9.15,"BE","Belgium","BE-Flemish Region
+Model: past"
+"10","BE-Flemish Region",2016,16,16.7928571428571,3.08333333333333,0.147242575834338,"past",19.8761904761905,"BE","Belgium","BE-Flemish Region
+Model: past"
+"11","CA-Ontario",2007,16,37.2333333333333,4.25,0.0865338893962036,"past",41.4833333333333,"CA","Canada","CA-Ontario
+Model: past"
+"12","CA-Ontario",2008,16,31.7,3.40833333333333,0.0922400838947887,"past",35.1083333333333,"CA","Canada","CA-Ontario
+Model: past"
+"13","CA-Ontario",2009,16,30.6833333333333,3.75,0.0971187879198241,"past",34.4333333333333,"CA","Canada","CA-Ontario
+Model: past"
+"14","CA-Ontario",2010,16,39.7261904761905,3.625,0.0954326236018187,"past",43.3511904761905,"CA","Canada","CA-Ontario
+Model: past"
+"15","CA-Ontario",2011,16,46.9666666666667,3.83333333333333,0.0935032105231344,"past",50.8,"CA","Canada","CA-Ontario
+Model: past"
+"16","CA-Ontario",2012,16,42.4833333333333,1.625,0.0803812760139389,"past",44.1083333333333,"CA","Canada","CA-Ontario
+Model: past"
+"17","CA-Ontario",2013,16,38.7833333333333,2,0.0707731110437972,"past",40.7833333333333,"CA","Canada","CA-Ontario
+Model: past"
+"18","CA-Ontario",2014,16,29.2,1.83333333333333,0.0608071437122475,"past",31.0333333333333,"CA","Canada","CA-Ontario
+Model: past"
+"19","CA-Ontario",2015,16,32.4166666666667,5.5,0.0730942552002377,"past",37.9166666666667,"CA","Canada","CA-Ontario
+Model: past"
+"20","CA-Ontario",2016,16,29.7261904761905,2.08333333333333,0.0711011940783869,"past",31.8095238095238,"CA","Canada","CA-Ontario
+Model: past"
+"21","CA-Quebec",2007,16,29.5333333333333,4,0.127648044983594,"past",33.5333333333333,"CA","Canada","CA-Quebec
+Model: past"
+"22","CA-Quebec",2008,16,26.4166666666667,5.33333333333333,0.138297387244478,"past",31.75,"CA","Canada","CA-Quebec
+Model: past"
+"23","CA-Quebec",2009,16,38.0333333333333,3.53333333333333,0.13891817278908,"past",41.5666666666667,"CA","Canada","CA-Quebec
+Model: past"
+"24","CA-Quebec",2010,16,29.3666666666667,4.16666666666667,0.121804355928679,"past",33.5333333333333,"CA","Canada","CA-Quebec
+Model: past"
+"25","CA-Quebec",2011,16,29.2666666666667,6.91666666666667,0.137535585776675,"past",36.1833333333333,"CA","Canada","CA-Quebec
+Model: past"
+"26","CA-Quebec",2012,16,23.5833333333333,3.79166666666667,0.141380401206773,"past",27.375,"CA","Canada","CA-Quebec
+Model: past"
+"27","CA-Quebec",2013,16,20.6666666666667,0.5,0.112509010130658,"past",21.1666666666667,"CA","Canada","CA-Quebec
+Model: past"
+"28","CA-Quebec",2014,16,18.2595238095238,1,0.105892680946798,"past",19.2595238095238,"CA","Canada","CA-Quebec
+Model: past"
+"29","CA-Quebec",2015,16,18,2.03333333333333,0.101341287146538,"past",20.0333333333333,"CA","Canada","CA-Quebec
+Model: past"
+"30","CA-Quebec",2016,16,17,0.75,0.0715607615238936,"past",17.75,"CA","Canada","CA-Quebec
+Model: past"
+"31","CN-Beijing",2007,16,9.66666666666667,0,0.0185106382978723,"past",9.66666666666667,"CN","China","CN-Beijing
+Model: past"
+"32","CN-Beijing",2008,16,13.8333333333333,0,0.0185106382978723,"past",13.8333333333333,"CN","China","CN-Beijing
+Model: past"
+"33","CN-Beijing",2009,16,12.3333333333333,1,0.0335106382978723,"past",13.3333333333333,"CN","China","CN-Beijing
+Model: past"
+"34","CN-Beijing",2010,16,15.5333333333333,0.333333333333333,0.0277123189701412,"past",15.8666666666667,"CN","China","CN-Beijing
+Model: past"
+"35","CN-Beijing",2011,16,21.7261904761905,1.16666666666667,0.0293940883685768,"past",22.8928571428571,"CN","China","CN-Beijing
+Model: past"
+"36","CN-Beijing",2012,16,20.65,0,0.0293940883685768,"past",20.65,"CN","China","CN-Beijing
+Model: past"
+"37","CN-Beijing",2013,16,23.2,1.5,0.041539837356431,"past",24.7,"CN","China","CN-Beijing
+Model: past"
+"38","CN-Beijing",2014,16,17.6166666666667,0.5,0.0320596165652627,"past",18.1166666666667,"CN","China","CN-Beijing
+Model: past"
+"39","CN-Beijing",2015,16,22.3333333333333,2,0.0442962920573773,"past",24.3333333333333,"CN","China","CN-Beijing
+Model: past"
+"40","CN-Beijing",2016,16,28.5,1,0.0408835453780186,"past",29.5,"CN","China","CN-Beijing
+Model: past"
+"41","DE-Berlin",2007,16,11.4166666666667,1,0.0739594033958602,"past",12.4166666666667,"DE","Germany","DE-Berlin
+Model: past"
+"42","DE-Berlin",2008,16,13.95,0.125,0.06980842197451,"past",14.075,"DE","Germany","DE-Berlin
+Model: past"
+"43","DE-Berlin",2009,16,22.6166666666667,0.916666666666667,0.0558963154028422,"past",23.5333333333333,"DE","Germany","DE-Berlin
+Model: past"
+"44","DE-Berlin",2010,16,17.6166666666667,1.79166666666667,0.0620243732371209,"past",19.4083333333333,"DE","Germany","DE-Berlin
+Model: past"
+"45","DE-Berlin",2011,16,16.3595238095238,0.45,0.0494909170016894,"past",16.8095238095238,"DE","Germany","DE-Berlin
+Model: past"
+"46","DE-Berlin",2012,16,23.7833333333333,1.75,0.0470911062529204,"past",25.5333333333333,"DE","Germany","DE-Berlin
+Model: past"
+"47","DE-Berlin",2013,16,18.8428571428571,0.75,0.0529707585763868,"past",19.5928571428571,"DE","Germany","DE-Berlin
+Model: past"
+"48","DE-Berlin",2014,16,11.3928571428571,2.75,0.084069279193321,"past",14.1428571428571,"DE","Germany","DE-Berlin
+Model: past"
+"49","DE-Berlin",2015,16,13.95,0.866666666666667,0.0773049572797173,"past",14.8166666666667,"DE","Germany","DE-Berlin
+Model: past"
+"50","DE-Berlin",2016,16,16.6,0.95,0.082777060457203,"past",17.55,"DE","Germany","DE-Berlin
+Model: past"
+"51","DE-Darmstadt",2007,16,16.3095238095238,2.41666666666667,0.101713009428957,"past",18.7261904761905,"DE","Germany","DE-Darmstadt
+Model: past"
+"52","DE-Darmstadt",2008,16,47.4523809523809,3.16666666666667,0.0981260721392868,"past",50.6190476190476,"DE","Germany","DE-Darmstadt
+Model: past"
+"53","DE-Darmstadt",2009,16,35.0095238095238,3.11111111111111,0.103526931877292,"past",38.1206349206349,"DE","Germany","DE-Darmstadt
+Model: past"
+"54","DE-Darmstadt",2010,16,47.15,4.075,0.0958383119159037,"past",51.225,"DE","Germany","DE-Darmstadt
+Model: past"
+"55","DE-Darmstadt",2011,16,41.4690476190476,2.95,0.0838375541033686,"past",44.4190476190476,"DE","Germany","DE-Darmstadt
+Model: past"
+"56","DE-Darmstadt",2012,16,40.3095238095238,5.05952380952381,0.0803308582754018,"past",45.3690476190476,"DE","Germany","DE-Darmstadt
+Model: past"
+"57","DE-Darmstadt",2013,16,39.1289682539683,3.125,0.0826106092459974,"past",42.2539682539683,"DE","Germany","DE-Darmstadt
+Model: past"
+"58","DE-Darmstadt",2014,16,16.4690476190476,3.08333333333333,0.0978273684579921,"past",19.552380952381,"DE","Germany","DE-Darmstadt
+Model: past"
+"59","DE-Darmstadt",2015,16,10,5.66666666666667,0.154257593892298,"past",15.6666666666667,"DE","Germany","DE-Darmstadt
+Model: past"
+"60","DE-Darmstadt",2016,16,16.1666666666667,0,0.14097500384084,"past",16.1666666666667,"DE","Germany","DE-Darmstadt
+Model: past"
+"61","DE-Köln",2007,16,12.2666666666667,4.16666666666667,0.131475773133078,"past",16.4333333333333,"DE","Germany","DE-Köln
+Model: past"
+"62","DE-Köln",2008,16,17.2166666666667,1.03333333333333,0.128940417552127,"past",18.25,"DE","Germany","DE-Köln
+Model: past"
+"63","DE-Köln",2009,16,22.7833333333333,1.08333333333333,0.134621396161485,"past",23.8666666666667,"DE","Germany","DE-Köln
+Model: past"
+"64","DE-Köln",2010,16,23.7928571428571,2.80833333333333,0.133626112514963,"past",26.6011904761905,"DE","Germany","DE-Köln
+Model: past"
+"65","DE-Köln",2011,16,20.7,2.78333333333333,0.115931450750835,"past",23.4833333333333,"DE","Germany","DE-Köln
+Model: past"
+"66","DE-Köln",2012,16,19.025,3.08333333333333,0.0931144629785633,"past",22.1083333333333,"DE","Germany","DE-Köln
+Model: past"
+"67","DE-Köln",2013,16,14.9178571428571,2.83333333333333,0.113713003665482,"past",17.7511904761905,"DE","Germany","DE-Köln
+Model: past"
+"68","DE-Köln",2014,16,8.23571428571429,2.5,0.151208311002391,"past",10.7357142857143,"DE","Germany","DE-Köln
+Model: past"
+"69","DE-Köln",2015,16,11.7833333333333,1.2,0.148579205232821,"past",12.9833333333333,"DE","Germany","DE-Köln
+Model: past"
+"70","DE-Köln",2016,16,11.6333333333333,0.5,0.133116208329086,"past",12.1333333333333,"DE","Germany","DE-Köln
+Model: past"
+"71","DE-Oberbayern",2007,16,14.6444444444444,0.75,0.0643752372391021,"past",15.3944444444444,"DE","Germany","DE-Oberbayern
+Model: past"
+"72","DE-Oberbayern",2008,16,29.7444444444444,1.66666666666667,0.0681760478655142,"past",31.4111111111111,"DE","Germany","DE-Oberbayern
+Model: past"
+"73","DE-Oberbayern",2009,16,26.7761904761905,1.03333333333333,0.068619201969405,"past",27.8095238095238,"DE","Germany","DE-Oberbayern
+Model: past"
+"74","DE-Oberbayern",2010,16,28.9166666666667,1.27777777777778,0.0494203461338735,"past",30.1944444444444,"DE","Germany","DE-Oberbayern
+Model: past"
+"75","DE-Oberbayern",2011,16,20.0761904761905,3.28333333333333,0.0643622028894154,"past",23.3595238095238,"DE","Germany","DE-Oberbayern
+Model: past"
+"76","DE-Oberbayern",2012,16,19.0666666666667,6.17619047619048,0.10355259144428,"past",25.2428571428571,"DE","Germany","DE-Oberbayern
+Model: past"
+"77","DE-Oberbayern",2013,16,17.8845238095238,2.375,0.11638639861647,"past",20.2595238095238,"DE","Germany","DE-Oberbayern
+Model: past"
+"78","DE-Oberbayern",2014,16,14.7952380952381,2.33333333333333,0.13619981809465,"past",17.1285714285714,"DE","Germany","DE-Oberbayern
+Model: past"
+"79","DE-Oberbayern",2015,16,14.5,2.28333333333333,0.154945689908238,"past",16.7833333333333,"DE","Germany","DE-Oberbayern
+Model: past"
+"80","DE-Oberbayern",2016,16,12.2428571428571,1.15,0.144007719602798,"past",13.3928571428571,"DE","Germany","DE-Oberbayern
+Model: past"
+"81","DK-Capital (DK)",2007,16,28.8611111111111,1,0.0791285607109796,"past",29.8611111111111,"DK","Denmark","DK-Capital (DK)
+Model: past"
+"82","DK-Capital (DK)",2008,16,25.3333333333333,6.66666666666667,0.100740532755951,"past",32,"DK","Denmark","DK-Capital (DK)
+Model: past"
+"83","DK-Capital (DK)",2009,16,35.9166666666667,4.47619047619048,0.10445670222296,"past",40.3928571428571,"DK","Denmark","DK-Capital (DK)
+Model: past"
+"84","DK-Capital (DK)",2010,16,43.4916666666667,5.7,0.120421553841795,"past",49.1916666666667,"DK","Denmark","DK-Capital (DK)
+Model: past"
+"85","DK-Capital (DK)",2011,16,43.7333333333333,5,0.114222111216367,"past",48.7333333333333,"DK","Denmark","DK-Capital (DK)
+Model: past"
+"86","DK-Capital (DK)",2012,16,36.2833333333333,3.75,0.126258824807754,"past",40.0333333333333,"DK","Denmark","DK-Capital (DK)
+Model: past"
+"87","DK-Capital (DK)",2013,16,24.45,6.75,0.127861388910318,"past",31.2,"DK","Denmark","DK-Capital (DK)
+Model: past"
+"88","DK-Capital (DK)",2014,16,19.8666666666667,3.16666666666667,0.13319449362962,"past",23.0333333333333,"DK","Denmark","DK-Capital (DK)
+Model: past"
+"89","DK-Capital (DK)",2015,16,20.75,2.7,0.133047555225635,"past",23.45,"DK","Denmark","DK-Capital (DK)
+Model: past"
+"90","DK-Capital (DK)",2016,16,18.7333333333333,0.4,0.116708904053311,"past",19.1333333333333,"DK","Denmark","DK-Capital (DK)
+Model: past"
+"91","ES-Catalonia",2007,16,11.1666666666667,1,0.0546004160640005,"past",12.1666666666667,"ES","Spain","ES-Catalonia
+Model: past"
+"92","ES-Catalonia",2008,16,20.5,0.333333333333333,0.0473200667190223,"past",20.8333333333333,"ES","Spain","ES-Catalonia
+Model: past"
+"93","ES-Catalonia",2009,16,21.8333333333333,1,0.0361896880441826,"past",22.8333333333333,"ES","Spain","ES-Catalonia
+Model: past"
+"94","ES-Catalonia",2010,16,32.2833333333333,0,0.0361896880441826,"past",32.2833333333333,"ES","Spain","ES-Catalonia
+Model: past"
+"95","ES-Catalonia",2011,16,23.35,1.5,0.0404699148596207,"past",24.85,"ES","Spain","ES-Catalonia
+Model: past"
+"96","ES-Catalonia",2012,16,26.8666666666667,0.5,0.0276856390850057,"past",27.3666666666667,"ES","Spain","ES-Catalonia
+Model: past"
+"97","ES-Catalonia",2013,16,18.7833333333333,2.33333333333333,0.0465850865988178,"past",21.1166666666667,"ES","Spain","ES-Catalonia
+Model: past"
+"98","ES-Catalonia",2014,16,11.5,1,0.0538259625112266,"past",12.5,"ES","Spain","ES-Catalonia
+Model: past"
+"99","ES-Catalonia",2015,16,19.3333333333333,1.83333333333333,0.0711487971568959,"past",21.1666666666667,"ES","Spain","ES-Catalonia
+Model: past"
+"100","ES-Catalonia",2016,16,15.0833333333333,0.25,0.0623372321144674,"past",15.3333333333333,"ES","Spain","ES-Catalonia
+Model: past"
+"101","FR-Rhône-Alpes",2007,16,16.8,2.3,0.0989797551615354,"past",19.1,"FR","France","FR-Rhône-Alpes
+Model: past"
+"102","FR-Rhône-Alpes",2008,16,19.0428571428571,0.2,0.0860114266106863,"past",19.2428571428571,"FR","France","FR-Rhône-Alpes
+Model: past"
+"103","FR-Rhône-Alpes",2009,16,17.0357142857143,1.33333333333333,0.0931730843089178,"past",18.3690476190476,"FR","France","FR-Rhône-Alpes
+Model: past"
+"104","FR-Rhône-Alpes",2010,16,32.9833333333333,2.72619047619048,0.0864826910006461,"past",35.7095238095238,"FR","France","FR-Rhône-Alpes
+Model: past"
+"105","FR-Rhône-Alpes",2011,16,21.6428571428571,1.53333333333333,0.0691803102685933,"past",23.1761904761905,"FR","France","FR-Rhône-Alpes
+Model: past"
+"106","FR-Rhône-Alpes",2012,16,24.3333333333333,0.25,0.0471304389401702,"past",24.5833333333333,"FR","France","FR-Rhône-Alpes
+Model: past"
+"107","FR-Rhône-Alpes",2013,16,10.1011904761905,2.66666666666667,0.0868233073190074,"past",12.7678571428571,"FR","France","FR-Rhône-Alpes
+Model: past"
+"108","FR-Rhône-Alpes",2014,16,16.9785714285714,1.25,0.0860208665256175,"past",18.2285714285714,"FR","France","FR-Rhône-Alpes
+Model: past"
+"109","FR-Rhône-Alpes",2015,16,13.7083333333333,0.833333333333333,0.0822134820835276,"past",14.5416666666667,"FR","France","FR-Rhône-Alpes
+Model: past"
+"110","FR-Rhône-Alpes",2016,16,9.31666666666667,0.333333333333333,0.0758899745375543,"past",9.65,"FR","France","FR-Rhône-Alpes
+Model: past"
+"111","FR-Île-de-France",2007,16,41.3333333333333,3.03333333333333,0.05738118620053,"past",44.3666666666667,"FR","France","FR-Île-de-France
+Model: past"
+"112","FR-Île-de-France",2008,16,55.9928571428571,2.58333333333333,0.0467571628600608,"past",58.5761904761905,"FR","France","FR-Île-de-France
+Model: past"
+"113","FR-Île-de-France",2009,16,64.7095238095238,2.33333333333333,0.0472094969323265,"past",67.0428571428571,"FR","France","FR-Île-de-France
+Model: past"
+"114","FR-Île-de-France",2010,16,88.4333333333333,2.5,0.0435771547689427,"past",90.9333333333333,"FR","France","FR-Île-de-France
+Model: past"
+"115","FR-Île-de-France",2011,16,109.583333333333,4.58333333333333,0.0429828029271782,"past",114.166666666667,"FR","France","FR-Île-de-France
+Model: past"
+"116","FR-Île-de-France",2012,16,102.916666666667,9.08333333333333,0.0455291116460076,"past",112,"FR","France","FR-Île-de-France
+Model: past"
+"117","FR-Île-de-France",2013,16,54.4,2.05952380952381,0.0440042668082154,"past",56.4595238095238,"FR","France","FR-Île-de-France
+Model: past"
+"118","FR-Île-de-France",2014,16,33.2095238095238,2.5,0.0510454120816421,"past",35.7095238095238,"FR","France","FR-Île-de-France
+Model: past"
+"119","FR-Île-de-France",2015,16,51.25,2.5,0.0548492039386973,"past",53.75,"FR","France","FR-Île-de-France
+Model: past"
+"120","FR-Île-de-France",2016,16,47.3333333333333,2.83333333333333,0.0581156879215282,"past",50.1666666666667,"FR","France","FR-Île-de-France
+Model: past"
+"121","GB-East of England",2007,16,21.025,3.48333333333333,0.169268772905274,"past",24.5083333333333,"GB","United Kingdom","GB-East of England
+Model: past"
+"122","GB-East of England",2008,16,28.1166666666667,2.30952380952381,0.1544965448933,"past",30.4261904761905,"GB","United Kingdom","GB-East of England
+Model: past"
+"123","GB-East of England",2009,16,37.7833333333333,7.11666666666667,0.160616014170302,"past",44.9,"GB","United Kingdom","GB-East of England
+Model: past"
+"124","GB-East of England",2010,16,54.1166666666667,5.31666666666667,0.149581588951407,"past",59.4333333333333,"GB","United Kingdom","GB-East of England
+Model: past"
+"125","GB-East of England",2011,16,38.9761904761905,8.7,0.129694335536755,"past",47.6761904761905,"GB","United Kingdom","GB-East of England
+Model: past"
+"126","GB-East of England",2012,16,34.2595238095238,9.25,0.143788056502029,"past",43.5095238095238,"GB","United Kingdom","GB-East of England
+Model: past"
+"127","GB-East of England",2013,16,20.3666666666667,4.33333333333333,0.163694619215252,"past",24.7,"GB","United Kingdom","GB-East of England
+Model: past"
+"128","GB-East of England",2014,16,18.6190476190476,3.45,0.163260053661066,"past",22.0690476190476,"GB","United Kingdom","GB-East of England
+Model: past"
+"129","GB-East of England",2015,16,25.0833333333333,2.03333333333333,0.1603657859045,"past",27.1166666666667,"GB","United Kingdom","GB-East of England
+Model: past"
+"130","GB-East of England",2016,16,21.3333333333333,12.3666666666667,0.197262261864308,"past",33.7,"GB","United Kingdom","GB-East of England
+Model: past"
+"131","GB-Greater London",2007,16,23.075,3.73333333333333,0.133574537464665,"past",26.8083333333333,"GB","United Kingdom","GB-Greater London
+Model: past"
+"132","GB-Greater London",2008,16,26.1428571428571,2.25,0.129965594765546,"past",28.3928571428571,"GB","United Kingdom","GB-Greater London
+Model: past"
+"133","GB-Greater London",2009,16,32.8428571428571,2.84285714285714,0.130008695423827,"past",35.6857142857143,"GB","United Kingdom","GB-Greater London
+Model: past"
+"134","GB-Greater London",2010,16,40.6833333333333,3.9,0.120579327532941,"past",44.5833333333333,"GB","United Kingdom","GB-Greater London
+Model: past"
+"135","GB-Greater London",2011,16,23.4333333333333,4.5,0.109348736367702,"past",27.9333333333333,"GB","United Kingdom","GB-Greater London
+Model: past"
+"136","GB-Greater London",2012,16,23.9261904761905,5.33333333333333,0.117952066897268,"past",29.2595238095238,"GB","United Kingdom","GB-Greater London
+Model: past"
+"137","GB-Greater London",2013,16,23.4761904761905,1.5,0.114114449759653,"past",24.9761904761905,"GB","United Kingdom","GB-Greater London
+Model: past"
+"138","GB-Greater London",2014,16,20.3428571428571,4.41666666666667,0.133858210919172,"past",24.7595238095238,"GB","United Kingdom","GB-Greater London
+Model: past"
+"139","GB-Greater London",2015,16,22.5166666666667,4.66666666666667,0.150697647764866,"past",27.1833333333333,"GB","United Kingdom","GB-Greater London
+Model: past"
+"140","GB-Greater London",2016,16,23.0333333333333,5.16666666666667,0.155121103363866,"past",28.2,"GB","United Kingdom","GB-Greater London
+Model: past"
+"141","GB-South East England",2007,16,28.275,4.15,0.135225065061058,"past",32.425,"GB","United Kingdom","GB-South East England
+Model: past"
+"142","GB-South East England",2008,16,30.1666666666667,5.08333333333333,0.127997441580048,"past",35.25,"GB","United Kingdom","GB-South East England
+Model: past"
+"143","GB-South East England",2009,16,40.25,8.825,0.130512245090512,"past",49.075,"GB","United Kingdom","GB-South East England
+Model: past"
+"144","GB-South East England",2010,16,78.5666666666667,12.7928571428571,0.14102257060843,"past",91.3595238095238,"GB","United Kingdom","GB-South East England
+Model: past"
+"145","GB-South East England",2011,16,52.8452380952381,9.28333333333333,0.148294289064865,"past",62.1285714285714,"GB","United Kingdom","GB-South East England
+Model: past"
+"146","GB-South East England",2012,16,46.0761904761905,6.68333333333333,0.148031834594696,"past",52.7595238095238,"GB","United Kingdom","GB-South East England
+Model: past"
+"147","GB-South East England",2013,16,31.9166666666667,11.1666666666667,0.171027751207634,"past",43.0833333333333,"GB","United Kingdom","GB-South East England
+Model: past"
+"148","GB-South East England",2014,16,23.6761904761905,5.25,0.171361675955145,"past",28.9261904761905,"GB","United Kingdom","GB-South East England
+Model: past"
+"149","GB-South East England",2015,16,17.35,4.98333333333333,0.187983016620923,"past",22.3333333333333,"GB","United Kingdom","GB-South East England
+Model: past"
+"150","GB-South East England",2016,16,31.0583333333333,5.5,0.188187651058858,"past",36.5583333333333,"GB","United Kingdom","GB-South East England
+Model: past"
+"151","IL-Central District",2007,16,11.9166666666667,1.75,0.165047377834701,"past",13.6666666666667,"IL","Israel","IL-Central District
+Model: past"
+"152","IL-Central District",2008,16,13.2833333333333,4.03333333333333,0.186473398258306,"past",17.3166666666667,"IL","Israel","IL-Central District
+Model: past"
+"153","IL-Central District",2009,16,20.5666666666667,2.34285714285714,0.194532160308888,"past",22.9095238095238,"IL","Israel","IL-Central District
+Model: past"
+"154","IL-Central District",2010,16,23.0333333333333,5.36666666666667,0.19092736958143,"past",28.4,"IL","Israel","IL-Central District
+Model: past"
+"155","IL-Central District",2011,16,26.4,4.45,0.159288835367887,"past",30.85,"IL","Israel","IL-Central District
+Model: past"
+"156","IL-Central District",2012,16,27.1833333333333,3.75,0.157924768925498,"past",30.9333333333333,"IL","Israel","IL-Central District
+Model: past"
+"157","IL-Central District",2013,16,23.0333333333333,2.04166666666667,0.127625995691143,"past",25.075,"IL","Israel","IL-Central District
+Model: past"
+"158","IL-Central District",2014,16,17.2,2.5,0.132553578103276,"past",19.7,"IL","Israel","IL-Central District
+Model: past"
+"159","IL-Central District",2015,16,15.75,2.5,0.122157411147202,"past",18.25,"IL","Israel","IL-Central District
+Model: past"
+"160","IL-Central District",2016,16,15.4761904761905,2,0.116196423861442,"past",17.4761904761905,"IL","Israel","IL-Central District
+Model: past"
+"161","IL-Tel Aviv District",2007,16,22.3333333333333,2.25,0.0896260122357457,"past",24.5833333333333,"IL","Israel","IL-Tel Aviv District
+Model: past"
+"162","IL-Tel Aviv District",2008,16,10.95,3.2,0.116769786151244,"past",14.15,"IL","Israel","IL-Tel Aviv District
+Model: past"
+"163","IL-Tel Aviv District",2009,16,19.3166666666667,2.34285714285714,0.124566813715103,"past",21.6595238095238,"IL","Israel","IL-Tel Aviv District
+Model: past"
+"164","IL-Tel Aviv District",2010,16,36.6,2.41666666666667,0.120363158251995,"past",39.0166666666667,"IL","Israel","IL-Tel Aviv District
+Model: past"
+"165","IL-Tel Aviv District",2011,16,31.65,4.25,0.121233020930977,"past",35.9,"IL","Israel","IL-Tel Aviv District
+Model: past"
+"166","IL-Tel Aviv District",2012,16,25.3166666666667,0.916666666666667,0.10991650035294,"past",26.2333333333333,"IL","Israel","IL-Tel Aviv District
+Model: past"
+"167","IL-Tel Aviv District",2013,16,23.2833333333333,0.875,0.0719306955731755,"past",24.1583333333333,"IL","Israel","IL-Tel Aviv District
+Model: past"
+"168","IL-Tel Aviv District",2014,16,11.2,1,0.0666906326448456,"past",12.2,"IL","Israel","IL-Tel Aviv District
+Model: past"
+"169","IL-Tel Aviv District",2015,16,18.1666666666667,0.5,0.0596599070696946,"past",18.6666666666667,"IL","Israel","IL-Tel Aviv District
+Model: past"
+"170","IL-Tel Aviv District",2016,16,17.7261904761905,1,0.0466632557089004,"past",18.7261904761905,"IL","Israel","IL-Tel Aviv District
+Model: past"
+"171","IT-Lombardy",2007,16,25.9833333333333,2.83333333333333,0.081880814215101,"past",28.8166666666667,"IT","Italy","IT-Lombardy
+Model: past"
+"172","IT-Lombardy",2008,16,27.5666666666667,2.95,0.0874845345314928,"past",30.5166666666667,"IT","Italy","IT-Lombardy
+Model: past"
+"173","IT-Lombardy",2009,16,27.6761904761905,0.833333333333333,0.0786200490644154,"past",28.5095238095238,"IT","Italy","IT-Lombardy
+Model: past"
+"174","IT-Lombardy",2010,16,42.9416666666667,2.08333333333333,0.0766688940772822,"past",45.025,"IT","Italy","IT-Lombardy
+Model: past"
+"175","IT-Lombardy",2011,16,52.5261904761905,0.5,0.0559842216980449,"past",53.0261904761905,"IT","Italy","IT-Lombardy
+Model: past"
+"176","IT-Lombardy",2012,16,47.2833333333333,0.5,0.0384124556270224,"past",47.7833333333333,"IT","Italy","IT-Lombardy
+Model: past"
+"177","IT-Lombardy",2013,16,27.4,2.66666666666667,0.0368171173956995,"past",30.0666666666667,"IT","Italy","IT-Lombardy
+Model: past"
+"178","IT-Lombardy",2014,16,19.3928571428571,4.25,0.0669227793611766,"past",23.6428571428571,"IT","Italy","IT-Lombardy
+Model: past"
+"179","IT-Lombardy",2015,16,25.8333333333333,1.53333333333333,0.0688745078072535,"past",27.3666666666667,"IT","Italy","IT-Lombardy
+Model: past"
+"180","IT-Lombardy",2016,16,16.4166666666667,0.833333333333333,0.0766504830199225,"past",17.25,"IT","Italy","IT-Lombardy
+Model: past"
+"181","JP-Kansai region",2007,16,76.6011904761905,7.16666666666667,0.0720615834530332,"past",83.7678571428572,"JP","Japan","JP-Kansai region
+Model: past"
+"182","JP-Kansai region",2008,16,50.45,6.36666666666667,0.089142608617856,"past",56.8166666666667,"JP","Japan","JP-Kansai region
+Model: past"
+"183","JP-Kansai region",2009,16,106.783333333333,9.875,0.090197106679324,"past",116.658333333333,"JP","Japan","JP-Kansai region
+Model: past"
+"184","JP-Kansai region",2010,16,131.7,9.5,0.0906028958523985,"past",141.2,"JP","Japan","JP-Kansai region
+Model: past"
+"185","JP-Kansai region",2011,16,90.9833333333333,6,0.0822811751677289,"past",96.9833333333333,"JP","Japan","JP-Kansai region
+Model: past"
+"186","JP-Kansai region",2012,16,80.8666666666667,1.83333333333333,0.069604091751158,"past",82.7,"JP","Japan","JP-Kansai region
+Model: past"
+"187","JP-Kansai region",2013,16,68.9166666666667,1.66666666666667,0.0519153776278723,"past",70.5833333333333,"JP","Japan","JP-Kansai region
+Model: past"
+"188","JP-Kansai region",2014,16,50.2833333333333,2,0.042636218542257,"past",52.2833333333333,"JP","Japan","JP-Kansai region
+Model: past"
+"189","JP-Kansai region",2015,16,48.9166666666667,2.2,0.037787887916783,"past",51.1166666666667,"JP","Japan","JP-Kansai region
+Model: past"
+"190","JP-Kansai region",2016,16,53.95,0.5,0.0272511751975647,"past",54.45,"JP","Japan","JP-Kansai region
+Model: past"
+"191","JP-Northern-Kanto, Koshin",2007,16,28.6011904761905,6.03333333333333,0.15578250238004,"past",34.6345238095238,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: past"
+"192","JP-Northern-Kanto, Koshin",2008,16,22,5.66666666666667,0.186118338478055,"past",27.6666666666667,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: past"
+"193","JP-Northern-Kanto, Koshin",2009,16,31.3333333333333,7.11666666666667,0.182395369735581,"past",38.45,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: past"
+"194","JP-Northern-Kanto, Koshin",2010,16,43.3333333333333,1.5,0.161796371206627,"past",44.8333333333333,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: past"
+"195","JP-Northern-Kanto, Koshin",2011,16,20.0833333333333,3,0.145505852892769,"past",23.0833333333333,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: past"
+"196","JP-Northern-Kanto, Koshin",2012,16,27.25,1.5,0.121100639626168,"past",28.75,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: past"
+"197","JP-Northern-Kanto, Koshin",2013,16,12.9166666666667,0,0.0801367842044817,"past",12.9166666666667,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: past"
+"198","JP-Northern-Kanto, Koshin",2014,16,12.0333333333333,2,0.0716225751515837,"past",14.0333333333333,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: past"
+"199","JP-Northern-Kanto, Koshin",2015,16,17.9166666666667,0.533333333333333,0.0707125164847021,"past",18.45,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: past"
+"200","JP-Northern-Kanto, Koshin",2016,16,14.2833333333333,0,0.0447197367013086,"past",14.2833333333333,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: past"
+"201","JP-Southern-Kanto",2007,16,89.2678571428571,6.53333333333333,0.0558296549856239,"past",95.8011904761905,"JP","Japan","JP-Southern-Kanto
+Model: past"
+"202","JP-Southern-Kanto",2008,16,76.6166666666667,8.5,0.0667889018885849,"past",85.1166666666667,"JP","Japan","JP-Southern-Kanto
+Model: past"
+"203","JP-Southern-Kanto",2009,16,149.566666666667,8.90833333333333,0.0665210509959832,"past",158.475,"JP","Japan","JP-Southern-Kanto
+Model: past"
+"204","JP-Southern-Kanto",2010,16,167.283333333333,7.66666666666667,0.0608844470562265,"past",174.95,"JP","Japan","JP-Southern-Kanto
+Model: past"
+"205","JP-Southern-Kanto",2011,16,133.109523809524,2.45,0.057233573542791,"past",135.559523809524,"JP","Japan","JP-Southern-Kanto
+Model: past"
+"206","JP-Southern-Kanto",2012,16,128.25,7,0.0539454177215701,"past",135.25,"JP","Japan","JP-Southern-Kanto
+Model: past"
+"207","JP-Southern-Kanto",2013,16,86.1666666666667,0.5,0.0351266772296359,"past",86.6666666666667,"JP","Japan","JP-Southern-Kanto
+Model: past"
+"208","JP-Southern-Kanto",2014,16,66.1761904761905,3.83333333333333,0.0348349958296797,"past",70.0095238095238,"JP","Japan","JP-Southern-Kanto
+Model: past"
+"209","JP-Southern-Kanto",2015,16,75.3111111111111,4.7,0.0378189552331354,"past",80.0111111111111,"JP","Japan","JP-Southern-Kanto
+Model: past"
+"210","JP-Southern-Kanto",2016,16,78.2,3,0.0415934695115819,"past",81.2,"JP","Japan","JP-Southern-Kanto
+Model: past"
+"211","JP-Toukai",2007,16,26.5416666666667,1.66666666666667,0.0685588178009668,"past",28.2083333333333,"JP","Japan","JP-Toukai
+Model: past"
+"212","JP-Toukai",2008,16,23.0833333333333,0.25,0.0481028048873267,"past",23.3333333333333,"JP","Japan","JP-Toukai
+Model: past"
+"213","JP-Toukai",2009,16,36.2833333333333,3.08333333333333,0.0507865037085248,"past",39.3666666666667,"JP","Japan","JP-Toukai
+Model: past"
+"214","JP-Toukai",2010,16,39.75,1.5,0.0492486582940274,"past",41.25,"JP","Japan","JP-Toukai
+Model: past"
+"215","JP-Toukai",2011,16,27.1761904761905,0.666666666666667,0.0416858949222677,"past",27.8428571428571,"JP","Japan","JP-Toukai
+Model: past"
+"216","JP-Toukai",2012,16,24.3333333333333,1.5,0.0414819591525054,"past",25.8333333333333,"JP","Japan","JP-Toukai
+Model: past"
+"217","JP-Toukai",2013,16,18.3666666666667,0.5,0.0446394553665388,"past",18.8666666666667,"JP","Japan","JP-Toukai
+Model: past"
+"218","JP-Toukai",2014,16,8.08333333333333,1,0.0509931130505105,"past",9.08333333333333,"JP","Japan","JP-Toukai
+Model: past"
+"219","JP-Toukai",2015,16,21.75,1,0.052511594568992,"past",22.75,"JP","Japan","JP-Toukai
+Model: past"
+"220","JP-Toukai",2016,16,16.5,0.5,0.0536051669389354,"past",17,"JP","Japan","JP-Toukai
+Model: past"
+"221","KR-Capital Region (KR)",2007,16,15.75,0.75,0.0300452119958765,"past",16.5,"KR","South Korea","KR-Capital Region (KR)
+Model: past"
+"222","KR-Capital Region (KR)",2008,16,35.4833333333333,3.16666666666667,0.036162636777446,"past",38.65,"KR","South Korea","KR-Capital Region (KR)
+Model: past"
+"223","KR-Capital Region (KR)",2009,16,45.8666666666667,0,0.0293733864238392,"past",45.8666666666667,"KR","South Korea","KR-Capital Region (KR)
+Model: past"
+"224","KR-Capital Region (KR)",2010,16,80.8333333333333,0.75,0.0273158933551102,"past",81.5833333333333,"KR","South Korea","KR-Capital Region (KR)
+Model: past"
+"225","KR-Capital Region (KR)",2011,16,71.6833333333333,1.33333333333333,0.0309680275710426,"past",73.0166666666667,"KR","South Korea","KR-Capital Region (KR)
+Model: past"
+"226","KR-Capital Region (KR)",2012,16,86.4416666666667,1.5,0.0252884707022505,"past",87.9416666666667,"KR","South Korea","KR-Capital Region (KR)
+Model: past"
+"227","KR-Capital Region (KR)",2013,16,72.1666666666667,1.84285714285714,0.0138821513125224,"past",74.0095238095238,"KR","South Korea","KR-Capital Region (KR)
+Model: past"
+"228","KR-Capital Region (KR)",2014,16,70.6166666666667,3.58333333333333,0.0235407317258198,"past",74.2,"KR","South Korea","KR-Capital Region (KR)
+Model: past"
+"229","KR-Capital Region (KR)",2015,16,92.1666666666667,4.33333333333333,0.0306831226255607,"past",96.5,"KR","South Korea","KR-Capital Region (KR)
+Model: past"
+"230","KR-Capital Region (KR)",2016,16,84.7833333333333,4,0.0360416886161234,"past",88.7833333333333,"KR","South Korea","KR-Capital Region (KR)
+Model: past"
+"231","US-Arizona",2007,16,12.2833333333333,0.933333333333333,0.073675250237385,"past",13.2166666666667,"US","United States","US-Arizona
+Model: past"
+"232","US-Arizona",2008,16,17.9761904761905,0.2,0.0480121543108189,"past",18.1761904761905,"US","United States","US-Arizona
+Model: past"
+"233","US-Arizona",2009,16,18.8666666666667,0.2,0.0414990876747384,"past",19.0666666666667,"US","United States","US-Arizona
+Model: past"
+"234","US-Arizona",2010,16,19.9261904761905,1.7,0.0572207655344764,"past",21.6261904761905,"US","United States","US-Arizona
+Model: past"
+"235","US-Arizona",2011,16,23.8333333333333,0.583333333333333,0.0389219994541404,"past",24.4166666666667,"US","United States","US-Arizona
+Model: past"
+"236","US-Arizona",2012,16,18.25,1.33333333333333,0.03841543939404,"past",19.5833333333333,"US","United States","US-Arizona
+Model: past"
+"237","US-Arizona",2013,16,14.7083333333333,0,0.0362147582308228,"past",14.7083333333333,"US","United States","US-Arizona
+Model: past"
+"238","US-Arizona",2014,16,17.3333333333333,1,0.0450259470420116,"past",18.3333333333333,"US","United States","US-Arizona
+Model: past"
+"239","US-Arizona",2015,16,26.5,3,0.0496432522331211,"past",29.5,"US","United States","US-Arizona
+Model: past"
+"240","US-Arizona",2016,16,24.3333333333333,0.5,0.048891940874118,"past",24.8333333333333,"US","United States","US-Arizona
+Model: past"
+"241","US-California",2007,16,361.875,75.2023809523809,0.144057552089129,"past",437.077380952381,"US","United States","US-California
+Model: past"
+"242","US-California",2008,16,442.842857142857,72.1083333333333,0.145677433746963,"past",514.951190476191,"US","United States","US-California
+Model: past"
+"243","US-California",2009,16,474.909523809524,105.278968253968,0.15282975377373,"past",580.188492063492,"US","United States","US-California
+Model: past"
+"244","US-California",2010,16,559.302380952381,141.5,0.163227605858466,"past",700.802380952381,"US","United States","US-California
+Model: past"
+"245","US-California",2011,16,549.451190476191,111.17619047619,0.172748704442031,"past",660.627380952381,"US","United States","US-California
+Model: past"
+"246","US-California",2012,16,532.392857142857,106.575,0.171695717639415,"past",638.967857142857,"US","United States","US-California
+Model: past"
+"247","US-California",2013,16,437.517857142857,83.7083333333333,0.175809599627945,"past",521.22619047619,"US","United States","US-California
+Model: past"
+"248","US-California",2014,16,446.969047619048,72.6583333333333,0.167483853540605,"past",519.627380952381,"US","United States","US-California
+Model: past"
+"249","US-California",2015,16,369.858333333333,83.7833333333333,0.164039682593106,"past",453.641666666667,"US","United States","US-California
+Model: past"
+"250","US-California",2016,16,381.209523809524,91.2928571428571,0.169024206696402,"past",472.502380952381,"US","United States","US-California
+Model: past"
+"251","US-Colorado",2007,16,19.8666666666667,0.5,0.11728548294914,"past",20.3666666666667,"US","United States","US-Colorado
+Model: past"
+"252","US-Colorado",2008,16,23.8428571428571,5.58333333333333,0.122675397463937,"past",29.4261904761905,"US","United States","US-Colorado
+Model: past"
+"253","US-Colorado",2009,16,19.6666666666667,3.16666666666667,0.129127641478794,"past",22.8333333333333,"US","United States","US-Colorado
+Model: past"
+"254","US-Colorado",2010,16,40.25,7.16666666666667,0.119968597757348,"past",47.4166666666667,"US","United States","US-Colorado
+Model: past"
+"255","US-Colorado",2011,16,37.5166666666667,3.03333333333333,0.11578468851748,"past",40.55,"US","United States","US-Colorado
+Model: past"
+"256","US-Colorado",2012,16,41.8666666666667,7.95,0.142791733990816,"past",49.8166666666667,"US","United States","US-Colorado
+Model: past"
+"257","US-Colorado",2013,16,34.1666666666667,3.83333333333333,0.125019118537627,"past",38,"US","United States","US-Colorado
+Model: past"
+"258","US-Colorado",2014,16,35.1166666666667,4.25,0.118873763555767,"past",39.3666666666667,"US","United States","US-Colorado
+Model: past"
+"259","US-Colorado",2015,16,23.95,5.03333333333333,0.123377897499381,"past",28.9833333333333,"US","United States","US-Colorado
+Model: past"
+"260","US-Colorado",2016,16,32.7333333333333,6.33333333333333,0.140840152135225,"past",39.0666666666667,"US","United States","US-Colorado
+Model: past"
+"261","US-Connecticut",2007,16,49.8166666666667,11.8428571428571,0.186628423551251,"past",61.6595238095238,"US","United States","US-Connecticut
+Model: past"
+"262","US-Connecticut",2008,16,53.6428571428571,9.22619047619048,0.185381467219733,"past",62.8690476190476,"US","United States","US-Connecticut
+Model: past"
+"263","US-Connecticut",2009,16,58.4095238095238,5.7,0.167294697616798,"past",64.1095238095238,"US","United States","US-Connecticut
+Model: past"
+"264","US-Connecticut",2010,16,61.2,15.7416666666667,0.164277335959248,"past",76.9416666666667,"US","United States","US-Connecticut
+Model: past"
+"265","US-Connecticut",2011,16,60.7761904761905,20.35,0.176633487077309,"past",81.1261904761905,"US","United States","US-Connecticut
+Model: past"
+"266","US-Connecticut",2012,16,84,10.55,0.160536005999287,"past",94.55,"US","United States","US-Connecticut
+Model: past"
+"267","US-Connecticut",2013,16,38.9333333333333,5.2,0.154750458883165,"past",44.1333333333333,"US","United States","US-Connecticut
+Model: past"
+"268","US-Connecticut",2014,16,26.5595238095238,28.575,0.240623950581405,"past",55.1345238095238,"US","United States","US-Connecticut
+Model: past"
+"269","US-Connecticut",2015,16,38.0166666666667,19.3666666666667,0.26720477976126,"past",57.3833333333333,"US","United States","US-Connecticut
+Model: past"
+"270","US-Connecticut",2016,16,48.7666666666667,33,0.297753513231036,"past",81.7666666666667,"US","United States","US-Connecticut
+Model: past"
+"271","US-Florida",2007,16,51.4583333333333,2.75,0.0731540543132323,"past",54.2083333333333,"US","United States","US-Florida
+Model: past"
+"272","US-Florida",2008,16,62.25,6.75,0.0695110805782568,"past",69,"US","United States","US-Florida
+Model: past"
+"273","US-Florida",2009,16,56.1166666666667,4.66666666666667,0.0700684418728196,"past",60.7833333333333,"US","United States","US-Florida
+Model: past"
+"274","US-Florida",2010,16,66.75,7.91666666666667,0.0789281200033311,"past",74.6666666666667,"US","United States","US-Florida
+Model: past"
+"275","US-Florida",2011,16,75,10.3095238095238,0.0904413926167957,"past",85.3095238095238,"US","United States","US-Florida
+Model: past"
+"276","US-Florida",2012,16,107.816666666667,3.83333333333333,0.0871620476321312,"past",111.65,"US","United States","US-Florida
+Model: past"
+"277","US-Florida",2013,16,81.75,6.36666666666667,0.0820473692988938,"past",88.1166666666667,"US","United States","US-Florida
+Model: past"
+"278","US-Florida",2014,16,101.416666666667,6.78333333333333,0.0792307918606056,"past",108.2,"US","United States","US-Florida
+Model: past"
+"279","US-Florida",2015,16,82.1666666666667,5.15,0.0698215790200963,"past",87.3166666666667,"US","United States","US-Florida
+Model: past"
+"280","US-Florida",2016,16,99.4,2.5,0.0505586601608117,"past",101.9,"US","United States","US-Florida
+Model: past"
+"281","US-Georgia",2007,16,24.95,0.85,0.0517904483880475,"past",25.8,"US","United States","US-Georgia
+Model: past"
+"282","US-Georgia",2008,16,27.5,2,0.044826425116661,"past",29.5,"US","United States","US-Georgia
+Model: past"
+"283","US-Georgia",2009,16,29,1.95,0.0548826253362241,"past",30.95,"US","United States","US-Georgia
+Model: past"
+"284","US-Georgia",2010,16,32.7833333333333,3.16666666666667,0.0605474948336632,"past",35.95,"US","United States","US-Georgia
+Model: past"
+"285","US-Georgia",2011,16,42.7833333333333,3.41666666666667,0.0651572641493148,"past",46.2,"US","United States","US-Georgia
+Model: past"
+"286","US-Georgia",2012,16,35.2833333333333,3.125,0.0748406271684163,"past",38.4083333333333,"US","United States","US-Georgia
+Model: past"
+"287","US-Georgia",2013,16,37.7,1.83333333333333,0.0705561786589699,"past",39.5333333333333,"US","United States","US-Georgia
+Model: past"
+"288","US-Georgia",2014,16,48.25,3.5,0.0714817794019479,"past",51.75,"US","United States","US-Georgia
+Model: past"
+"289","US-Georgia",2015,16,34.5333333333333,2.5,0.0673660688044626,"past",37.0333333333333,"US","United States","US-Georgia
+Model: past"
+"290","US-Georgia",2016,16,43.45,3,0.0654924191913081,"past",46.45,"US","United States","US-Georgia
+Model: past"
+"291","US-Illinois",2007,16,42.5833333333333,4.5,0.0829355316124453,"past",47.0833333333333,"US","United States","US-Illinois
+Model: past"
+"292","US-Illinois",2008,16,57.0333333333333,6.99166666666667,0.0811022070170047,"past",64.025,"US","United States","US-Illinois
+Model: past"
+"293","US-Illinois",2009,16,64.7333333333333,3.19444444444444,0.0759237080996761,"past",67.9277777777778,"US","United States","US-Illinois
+Model: past"
+"294","US-Illinois",2010,16,91.3357142857143,6.75,0.0756413787547238,"past",98.0857142857143,"US","United States","US-Illinois
+Model: past"
+"295","US-Illinois",2011,16,78.7833333333333,3.30952380952381,0.0721872364470749,"past",82.0928571428571,"US","United States","US-Illinois
+Model: past"
+"296","US-Illinois",2012,16,71.7333333333333,7.81666666666667,0.072724402549172,"past",79.55,"US","United States","US-Illinois
+Model: past"
+"297","US-Illinois",2013,16,57.2083333333333,9.03333333333333,0.0781578465597636,"past",66.2416666666667,"US","United States","US-Illinois
+Model: past"
+"298","US-Illinois",2014,16,64.5833333333333,3.75,0.0797280420687033,"past",68.3333333333333,"US","United States","US-Illinois
+Model: past"
+"299","US-Illinois",2015,16,51.9083333333333,10.3333333333333,0.0991684793795073,"past",62.2416666666667,"US","United States","US-Illinois
+Model: past"
+"300","US-Illinois",2016,16,52.2261904761905,7.72619047619048,0.11688002467186,"past",59.9523809523809,"US","United States","US-Illinois
+Model: past"
+"301","US-Indiana",2007,16,20.0833333333333,2.33333333333333,0.10060549555695,"past",22.4166666666667,"US","United States","US-Indiana
+Model: past"
+"302","US-Indiana",2008,16,41.7,3.25,0.103954896125483,"past",44.95,"US","United States","US-Indiana
+Model: past"
+"303","US-Indiana",2009,16,39,7.69444444444444,0.120184196866384,"past",46.6944444444444,"US","United States","US-Indiana
+Model: past"
+"304","US-Indiana",2010,16,51.0833333333333,7.25,0.112909145041863,"past",58.3333333333333,"US","United States","US-Indiana
+Model: past"
+"305","US-Indiana",2011,16,42.0333333333333,11.8095238095238,0.136958703161483,"past",53.8428571428571,"US","United States","US-Indiana
+Model: past"
+"306","US-Indiana",2012,16,43.7333333333333,8.33333333333333,0.148151102573161,"past",52.0666666666667,"US","United States","US-Indiana
+Model: past"
+"307","US-Indiana",2013,16,27.25,6.33333333333333,0.171407712481606,"past",33.5833333333333,"US","United States","US-Indiana
+Model: past"
+"308","US-Indiana",2014,16,33.9166666666667,6.25,0.16957147096364,"past",40.1666666666667,"US","United States","US-Indiana
+Model: past"
+"309","US-Indiana",2015,16,31.1666666666667,6.2,0.177898984663143,"past",37.3666666666667,"US","United States","US-Indiana
+Model: past"
+"310","US-Indiana",2016,16,34.45,3,0.150053715188546,"past",37.45,"US","United States","US-Indiana
+Model: past"
+"311","US-Maryland",2007,16,56.7083333333333,4.47619047619048,0.0982041552039187,"past",61.1845238095238,"US","United States","US-Maryland
+Model: past"
+"312","US-Maryland",2008,16,86.4,7.72619047619048,0.0933242267903038,"past",94.1261904761905,"US","United States","US-Maryland
+Model: past"
+"313","US-Maryland",2009,16,85.1833333333333,9.35,0.0900462482882011,"past",94.5333333333333,"US","United States","US-Maryland
+Model: past"
+"314","US-Maryland",2010,16,117.111904761905,10.8333333333333,0.0928296331946339,"past",127.945238095238,"US","United States","US-Maryland
+Model: past"
+"315","US-Maryland",2011,16,117.183333333333,8.75952380952381,0.0816744631882503,"past",125.942857142857,"US","United States","US-Maryland
+Model: past"
+"316","US-Maryland",2012,16,102.65,9.33333333333333,0.0837118368639485,"past",111.983333333333,"US","United States","US-Maryland
+Model: past"
+"317","US-Maryland",2013,16,81.15,11.95,0.0929664934652684,"past",93.1,"US","United States","US-Maryland
+Model: past"
+"318","US-Maryland",2014,16,78.5333333333333,6.15833333333333,0.0877280611531408,"past",84.6916666666667,"US","United States","US-Maryland
+Model: past"
+"319","US-Maryland",2015,16,86.1166666666667,12.3666666666667,0.0959079653771358,"past",98.4833333333333,"US","United States","US-Maryland
+Model: past"
+"320","US-Maryland",2016,16,88.6428571428571,8.53333333333333,0.0995602518658444,"past",97.1761904761905,"US","United States","US-Maryland
+Model: past"
+"321","US-Massachusetts",2007,16,140.683333333333,29.0928571428571,0.172260567319139,"past",169.77619047619,"US","United States","US-Massachusetts
+Model: past"
+"322","US-Massachusetts",2008,16,152.97619047619,29.7,0.168963691348234,"past",182.67619047619,"US","United States","US-Massachusetts
+Model: past"
+"323","US-Massachusetts",2009,16,213.559523809524,41.6777777777778,0.170265875670486,"past",255.237301587302,"US","United States","US-Massachusetts
+Model: past"
+"324","US-Massachusetts",2010,16,250.145238095238,68.0916666666667,0.18176695055371,"past",318.236904761905,"US","United States","US-Massachusetts
+Model: past"
+"325","US-Massachusetts",2011,16,286.428571428571,67.8928571428571,0.180562442538473,"past",354.321428571429,"US","United States","US-Massachusetts
+Model: past"
+"326","US-Massachusetts",2012,16,248.666666666667,63.4333333333333,0.186939796287909,"past",312.1,"US","United States","US-Massachusetts
+Model: past"
+"327","US-Massachusetts",2013,16,167.577380952381,52.5333333333333,0.202156797450666,"past",220.110714285714,"US","United States","US-Massachusetts
+Model: past"
+"328","US-Massachusetts",2014,16,200.742857142857,44.2833333333333,0.20564453158484,"past",245.02619047619,"US","United States","US-Massachusetts
+Model: past"
+"329","US-Massachusetts",2015,16,207.525,51.1166666666667,0.202378480268135,"past",258.641666666667,"US","United States","US-Massachusetts
+Model: past"
+"330","US-Massachusetts",2016,16,216.5,50.0095238095238,0.201584988858259,"past",266.509523809524,"US","United States","US-Massachusetts
+Model: past"
+"331","US-Michigan",2007,16,25,3.91666666666667,0.0861970057768202,"past",28.9166666666667,"US","United States","US-Michigan
+Model: past"
+"332","US-Michigan",2008,16,28.25,3.66666666666667,0.0948240172863848,"past",31.9166666666667,"US","United States","US-Michigan
+Model: past"
+"333","US-Michigan",2009,16,25.85,2.5,0.0915208428120392,"past",28.35,"US","United States","US-Michigan
+Model: past"
+"334","US-Michigan",2010,16,37,3,0.0895872043681033,"past",40,"US","United States","US-Michigan
+Model: past"
+"335","US-Michigan",2011,16,35.7,3.5,0.100559665641769,"past",39.2,"US","United States","US-Michigan
+Model: past"
+"336","US-Michigan",2012,16,50.5833333333333,6.86666666666667,0.0973751732585501,"past",57.45,"US","United States","US-Michigan
+Model: past"
+"337","US-Michigan",2013,16,27.625,2.83333333333333,0.0930033231158578,"past",30.4583333333333,"US","United States","US-Michigan
+Model: past"
+"338","US-Michigan",2014,16,24.25,1.33333333333333,0.0857900915812364,"past",25.5833333333333,"US","United States","US-Michigan
+Model: past"
+"339","US-Michigan",2015,16,38.3666666666667,3,0.0852945234909867,"past",41.3666666666667,"US","United States","US-Michigan
+Model: past"
+"340","US-Michigan",2016,16,29.75,2.97619047619048,0.0856258127909919,"past",32.7261904761905,"US","United States","US-Michigan
+Model: past"
+"341","US-Minnesota",2007,16,40.5833333333333,8.83333333333333,0.206642334614159,"past",49.4166666666667,"US","United States","US-Minnesota
+Model: past"
+"342","US-Minnesota",2008,16,37.4166666666667,8.5,0.210516756809866,"past",45.9166666666667,"US","United States","US-Minnesota
+Model: past"
+"343","US-Minnesota",2009,16,48.3333333333333,10.8666666666667,0.185124962678506,"past",59.2,"US","United States","US-Minnesota
+Model: past"
+"344","US-Minnesota",2010,16,39.6666666666667,3.2,0.139423399283237,"past",42.8666666666667,"US","United States","US-Minnesota
+Model: past"
+"345","US-Minnesota",2011,16,39.0833333333333,4.47619047619048,0.144967805720698,"past",43.5595238095238,"US","United States","US-Minnesota
+Model: past"
+"346","US-Minnesota",2012,16,35.8333333333333,4.83333333333333,0.132987875938817,"past",40.6666666666667,"US","United States","US-Minnesota
+Model: past"
+"347","US-Minnesota",2013,16,31.6666666666667,4.83333333333333,0.122448300737232,"past",36.5,"US","United States","US-Minnesota
+Model: past"
+"348","US-Minnesota",2014,16,40.1666666666667,7.25,0.116316553876136,"past",47.4166666666667,"US","United States","US-Minnesota
+Model: past"
+"349","US-Minnesota",2015,16,36.0833333333333,9.2,0.142019589483403,"past",45.2833333333333,"US","United States","US-Minnesota
+Model: past"
+"350","US-Minnesota",2016,16,43.5333333333333,6.72619047619048,0.148233360556286,"past",50.2595238095238,"US","United States","US-Minnesota
+Model: past"
+"351","US-Missouri",2007,16,18.5416666666667,1.83333333333333,0.0696434974997752,"past",20.375,"US","United States","US-Missouri
+Model: past"
+"352","US-Missouri",2008,16,21.6666666666667,1.33333333333333,0.0641178615262212,"past",23,"US","United States","US-Missouri
+Model: past"
+"353","US-Missouri",2009,16,25.6166666666667,1.2,0.0651170398307502,"past",26.8166666666667,"US","United States","US-Missouri
+Model: past"
+"354","US-Missouri",2010,16,48.5833333333333,3.72619047619048,0.0698172004967918,"past",52.3095238095238,"US","United States","US-Missouri
+Model: past"
+"355","US-Missouri",2011,16,30.0761904761905,2.58333333333333,0.0686062568047154,"past",32.6595238095238,"US","United States","US-Missouri
+Model: past"
+"356","US-Missouri",2012,16,26,1.5,0.0615194376933564,"past",27.5,"US","United States","US-Missouri
+Model: past"
+"357","US-Missouri",2013,16,31.375,2.75,0.0660424509120218,"past",34.125,"US","United States","US-Missouri
+Model: past"
+"358","US-Missouri",2014,16,23.1666666666667,1,0.0653686548082092,"past",24.1666666666667,"US","United States","US-Missouri
+Model: past"
+"359","US-Missouri",2015,16,28.1666666666667,0.733333333333333,0.0561969259276291,"past",28.9,"US","United States","US-Missouri
+Model: past"
+"360","US-Missouri",2016,16,20.6666666666667,3.14285714285714,0.0667771402602091,"past",23.8095238095238,"US","United States","US-Missouri
+Model: past"
+"361","US-New Jersey",2007,16,154.566666666667,27.0761904761905,0.160387589041936,"past",181.642857142857,"US","United States","US-New Jersey
+Model: past"
+"362","US-New Jersey",2008,16,162.959523809524,26.0095238095238,0.158260040310253,"past",188.969047619048,"US","United States","US-New Jersey
+Model: past"
+"363","US-New Jersey",2009,16,161.442857142857,28.4166666666667,0.151749580823869,"past",189.859523809524,"US","United States","US-New Jersey
+Model: past"
+"364","US-New Jersey",2010,16,219.766666666667,41.9928571428571,0.150041902380334,"past",261.759523809524,"US","United States","US-New Jersey
+Model: past"
+"365","US-New Jersey",2011,16,228.411904761905,39.0833333333333,0.148581553180455,"past",267.495238095238,"US","United States","US-New Jersey
+Model: past"
+"366","US-New Jersey",2012,16,194.092857142857,26.6416666666667,0.142908098504766,"past",220.734523809524,"US","United States","US-New Jersey
+Model: past"
+"367","US-New Jersey",2013,16,136.133333333333,13.7833333333333,0.133768278007488,"past",149.916666666667,"US","United States","US-New Jersey
+Model: past"
+"368","US-New Jersey",2014,16,135.711904761905,24.275,0.13418009904122,"past",159.986904761905,"US","United States","US-New Jersey
+Model: past"
+"369","US-New Jersey",2015,16,148.941666666667,18.6333333333333,0.12433383223471,"past",167.575,"US","United States","US-New Jersey
+Model: past"
+"370","US-New Jersey",2016,16,106.653571428571,20.0333333333333,0.126738654080577,"past",126.686904761905,"US","United States","US-New Jersey
+Model: past"
+"371","US-New York",2007,16,89.6916666666667,8.16666666666667,0.0903104246349047,"past",97.8583333333333,"US","United States","US-New York
+Model: past"
+"372","US-New York",2008,16,110.933333333333,11.6166666666667,0.0901332456610417,"past",122.55,"US","United States","US-New York
+Model: past"
+"373","US-New York",2009,16,136.816666666667,17.1761904761905,0.0945332198042391,"past",153.992857142857,"US","United States","US-New York
+Model: past"
+"374","US-New York",2010,16,151.635714285714,16.95,0.0972356990028033,"past",168.585714285714,"US","United States","US-New York
+Model: past"
+"375","US-New York",2011,16,171.6,22.65,0.101385747116285,"past",194.25,"US","United States","US-New York
+Model: past"
+"376","US-New York",2012,16,161.05,20.15,0.106935570701948,"past",181.2,"US","United States","US-New York
+Model: past"
+"377","US-New York",2013,16,115.733333333333,23,0.121134458360246,"past",138.733333333333,"US","United States","US-New York
+Model: past"
+"378","US-New York",2014,16,129.209523809524,11.875,0.115660563197897,"past",141.084523809524,"US","United States","US-New York
+Model: past"
+"379","US-New York",2015,16,135.391666666667,16.35,0.117101880887912,"past",151.741666666667,"US","United States","US-New York
+Model: past"
+"380","US-New York",2016,16,112.991666666667,20.2,0.12411364555969,"past",133.191666666667,"US","United States","US-New York
+Model: past"
+"381","US-North Carolina",2007,16,59.3666666666667,4.23571428571429,0.12408712459005,"past",63.602380952381,"US","United States","US-North Carolina
+Model: past"
+"382","US-North Carolina",2008,16,57.2666666666667,3.66666666666667,0.116681429683803,"past",60.9333333333333,"US","United States","US-North Carolina
+Model: past"
+"383","US-North Carolina",2009,16,65.4,4.66666666666667,0.0808299550077971,"past",70.0666666666667,"US","United States","US-North Carolina
+Model: past"
+"384","US-North Carolina",2010,16,83.9928571428571,5.33333333333333,0.0756419802056947,"past",89.3261904761905,"US","United States","US-North Carolina
+Model: past"
+"385","US-North Carolina",2011,16,69.3,9.78571428571429,0.0753633786850097,"past",79.0857142857143,"US","United States","US-North Carolina
+Model: past"
+"386","US-North Carolina",2012,16,79.45,10.6833333333333,0.0857496423706429,"past",90.1333333333333,"US","United States","US-North Carolina
+Model: past"
+"387","US-North Carolina",2013,16,59.75,7.70833333333333,0.0965682447712927,"past",67.4583333333333,"US","United States","US-North Carolina
+Model: past"
+"388","US-North Carolina",2014,16,59.9166666666667,9.66666666666667,0.111032028906163,"past",69.5833333333333,"US","United States","US-North Carolina
+Model: past"
+"389","US-North Carolina",2015,16,52.55,6.28333333333333,0.120450548978763,"past",58.8333333333333,"US","United States","US-North Carolina
+Model: past"
+"390","US-North Carolina",2016,16,49.3666666666667,5.58333333333333,0.116024943550111,"past",54.95,"US","United States","US-North Carolina
+Model: past"
+"391","US-Ohio",2007,16,32.6166666666667,2.7,0.0678083070989735,"past",35.3166666666667,"US","United States","US-Ohio
+Model: past"
+"392","US-Ohio",2008,16,39.45,1.375,0.0620661737855423,"past",40.825,"US","United States","US-Ohio
+Model: past"
+"393","US-Ohio",2009,16,51.45,2.98333333333333,0.0580496209153621,"past",54.4333333333333,"US","United States","US-Ohio
+Model: past"
+"394","US-Ohio",2010,16,51.1666666666667,5.03333333333333,0.0583326598521452,"past",56.2,"US","United States","US-Ohio
+Model: past"
+"395","US-Ohio",2011,16,56.2333333333333,2.66666666666667,0.0599548340955419,"past",58.9,"US","United States","US-Ohio
+Model: past"
+"396","US-Ohio",2012,16,59.1666666666667,2.83333333333333,0.053804387800627,"past",62,"US","United States","US-Ohio
+Model: past"
+"397","US-Ohio",2013,16,37.3166666666667,1.75,0.0560273635838021,"past",39.0666666666667,"US","United States","US-Ohio
+Model: past"
+"398","US-Ohio",2014,16,61.3333333333333,6.83333333333333,0.0651148426412017,"past",68.1666666666667,"US","United States","US-Ohio
+Model: past"
+"399","US-Ohio",2015,16,61.5833333333333,1.45,0.0518033647221332,"past",63.0333333333333,"US","United States","US-Ohio
+Model: past"
+"400","US-Ohio",2016,16,52.8666666666667,6.83333333333333,0.0656407083920011,"past",59.7,"US","United States","US-Ohio
+Model: past"
+"401","US-Pennsylvania",2007,16,119.4,18.4261904761905,0.133463676982409,"past",137.82619047619,"US","United States","US-Pennsylvania
+Model: past"
+"402","US-Pennsylvania",2008,16,126.142857142857,13.875,0.126557862294591,"past",140.017857142857,"US","United States","US-Pennsylvania
+Model: past"
+"403","US-Pennsylvania",2009,16,114.933333333333,14,0.122454964379836,"past",128.933333333333,"US","United States","US-Pennsylvania
+Model: past"
+"404","US-Pennsylvania",2010,16,180.792857142857,28.5928571428571,0.121183849173541,"past",209.385714285714,"US","United States","US-Pennsylvania
+Model: past"
+"405","US-Pennsylvania",2011,16,173.1,27.4166666666667,0.122931055708329,"past",200.516666666667,"US","United States","US-Pennsylvania
+Model: past"
+"406","US-Pennsylvania",2012,16,170.242857142857,15.1166666666667,0.112503399919423,"past",185.359523809524,"US","United States","US-Pennsylvania
+Model: past"
+"407","US-Pennsylvania",2013,16,105.833333333333,17.25,0.120714289384094,"past",123.083333333333,"US","United States","US-Pennsylvania
+Model: past"
+"408","US-Pennsylvania",2014,16,110.178571428571,14.15,0.12175990583819,"past",124.328571428571,"US","United States","US-Pennsylvania
+Model: past"
+"409","US-Pennsylvania",2015,16,108.6,18.95,0.124162561178693,"past",127.55,"US","United States","US-Pennsylvania
+Model: past"
+"410","US-Pennsylvania",2016,16,116.735714285714,18.4,0.124048421696123,"past",135.135714285714,"US","United States","US-Pennsylvania
+Model: past"
+"411","US-Tennessee",2007,16,18.6666666666667,4.33333333333333,0.119531083175532,"past",23,"US","United States","US-Tennessee
+Model: past"
+"412","US-Tennessee",2008,16,23.7,0.25,0.100024935513575,"past",23.95,"US","United States","US-Tennessee
+Model: past"
+"413","US-Tennessee",2009,16,28.8666666666667,2.83333333333333,0.085468423165265,"past",31.7,"US","United States","US-Tennessee
+Model: past"
+"414","US-Tennessee",2010,16,42.1166666666667,1.5,0.0770883119028619,"past",43.6166666666667,"US","United States","US-Tennessee
+Model: past"
+"415","US-Tennessee",2011,16,32.65,2,0.0760668784206954,"past",34.65,"US","United States","US-Tennessee
+Model: past"
+"416","US-Tennessee",2012,16,32.5833333333333,0.333333333333333,0.0404110354561018,"past",32.9166666666667,"US","United States","US-Tennessee
+Model: past"
+"417","US-Tennessee",2013,16,30.4166666666667,2.33333333333333,0.0525727166515524,"past",32.75,"US","United States","US-Tennessee
+Model: past"
+"418","US-Tennessee",2014,16,23.7,2.5,0.0537807660330793,"past",26.2,"US","United States","US-Tennessee
+Model: past"
+"419","US-Tennessee",2015,16,23.3333333333333,3.08333333333333,0.0702465099134827,"past",26.4166666666667,"US","United States","US-Tennessee
+Model: past"
+"420","US-Tennessee",2016,16,21.7833333333333,4.5,0.0929447304557109,"past",26.2833333333333,"US","United States","US-Tennessee
+Model: past"
+"421","US-Texas",2007,16,58.9333333333333,2.83333333333333,0.0766608823689119,"past",61.7666666666667,"US","United States","US-Texas
+Model: past"
+"422","US-Texas",2008,16,59.5833333333333,4.29285714285714,0.0746976986547727,"past",63.8761904761905,"US","United States","US-Texas
+Model: past"
+"423","US-Texas",2009,16,69.7833333333333,9.16666666666667,0.0879817158386599,"past",78.95,"US","United States","US-Texas
+Model: past"
+"424","US-Texas",2010,16,105.916666666667,7.41666666666667,0.0873100041831754,"past",113.333333333333,"US","United States","US-Texas
+Model: past"
+"425","US-Texas",2011,16,93.65,10.2,0.0785688931498693,"past",103.85,"US","United States","US-Texas
+Model: past"
+"426","US-Texas",2012,16,80.0928571428571,8.91666666666667,0.0894298904464609,"past",89.0095238095238,"US","United States","US-Texas
+Model: past"
+"427","US-Texas",2013,16,78.3333333333333,3.83333333333333,0.085319338393884,"past",82.1666666666667,"US","United States","US-Texas
+Model: past"
+"428","US-Texas",2014,16,87.4261904761905,5.08333333333333,0.0730877496938623,"past",92.5095238095238,"US","United States","US-Texas
+Model: past"
+"429","US-Texas",2015,16,96.3666666666667,6.83333333333333,0.0732424084565922,"past",103.2,"US","United States","US-Texas
+Model: past"
+"430","US-Texas",2016,16,99.35,8.5,0.0693613248441908,"past",107.85,"US","United States","US-Texas
+Model: past"
+"431","US-Utah",2007,16,19,0,0.0910566444125248,"past",19,"US","United States","US-Utah
+Model: past"
+"432","US-Utah",2008,16,9,3.86666666666667,0.113065033260292,"past",12.8666666666667,"US","United States","US-Utah
+Model: past"
+"433","US-Utah",2009,16,16.5,0.75,0.112838752348703,"past",17.25,"US","United States","US-Utah
+Model: past"
+"434","US-Utah",2010,16,15.95,1.5,0.0985896813911325,"past",17.45,"US","United States","US-Utah
+Model: past"
+"435","US-Utah",2011,16,20.5,1.33333333333333,0.0982049966522974,"past",21.8333333333333,"US","United States","US-Utah
+Model: past"
+"436","US-Utah",2012,16,11.4166666666667,2.5,0.134133140364872,"past",13.9166666666667,"US","United States","US-Utah
+Model: past"
+"437","US-Utah",2013,16,12.75,4.66666666666667,0.127618030168279,"past",17.4166666666667,"US","United States","US-Utah
+Model: past"
+"438","US-Utah",2014,16,31,3,0.136569436817895,"past",34,"US","United States","US-Utah
+Model: past"
+"439","US-Utah",2015,16,21.6666666666667,3.5,0.147192029276955,"past",25.1666666666667,"US","United States","US-Utah
+Model: past"
+"440","US-Utah",2016,16,16.9166666666667,2,0.156123663268279,"past",18.9166666666667,"US","United States","US-Utah
+Model: past"
+"441","US-Virginia",2007,16,21.2,1.97619047619048,0.168346540742605,"past",23.1761904761905,"US","United States","US-Virginia
+Model: past"
+"442","US-Virginia",2008,16,26.45,4.2,0.169933857297531,"past",30.65,"US","United States","US-Virginia
+Model: past"
+"443","US-Virginia",2009,16,30.9166666666667,3.36666666666667,0.156161222264702,"past",34.2833333333333,"US","United States","US-Virginia
+Model: past"
+"444","US-Virginia",2010,16,29.202380952381,1.5,0.0988713074390696,"past",30.702380952381,"US","United States","US-Virginia
+Model: past"
+"445","US-Virginia",2011,16,30.8095238095238,4.08333333333333,0.097276288674143,"past",34.8928571428571,"US","United States","US-Virginia
+Model: past"
+"446","US-Virginia",2012,16,23.1166666666667,1.25,0.0904825801308588,"past",24.3666666666667,"US","United States","US-Virginia
+Model: past"
+"447","US-Virginia",2013,16,26.9166666666667,1.08333333333333,0.0708144763477468,"past",28,"US","United States","US-Virginia
+Model: past"
+"448","US-Virginia",2014,16,23.7833333333333,3.25,0.0752186131948306,"past",27.0333333333333,"US","United States","US-Virginia
+Model: past"
+"449","US-Virginia",2015,16,20.0833333333333,0.5,0.0703056836313837,"past",20.5833333333333,"US","United States","US-Virginia
+Model: past"
+"450","US-Virginia",2016,16,24.0333333333333,0.833333333333333,0.053603115264943,"past",24.8666666666667,"US","United States","US-Virginia
+Model: past"
+"451","US-Washington",2007,16,32.5,10.2,0.145235306882455,"past",42.7,"US","United States","US-Washington
+Model: past"
+"452","US-Washington",2008,16,33.8333333333333,6.76785714285714,0.16431283156313,"past",40.6011904761905,"US","United States","US-Washington
+Model: past"
+"453","US-Washington",2009,16,34.5333333333333,7.91666666666667,0.172751585584923,"past",42.45,"US","United States","US-Washington
+Model: past"
+"454","US-Washington",2010,16,51.0595238095238,12.3333333333333,0.177576141407194,"past",63.3928571428571,"US","United States","US-Washington
+Model: past"
+"455","US-Washington",2011,16,38.0428571428571,12.45,0.206636882636057,"past",50.4928571428571,"US","United States","US-Washington
+Model: past"
+"456","US-Washington",2012,16,48.4595238095238,11.05,0.195998619851115,"past",59.5095238095238,"US","United States","US-Washington
+Model: past"
+"457","US-Washington",2013,16,33.7833333333333,4.83333333333333,0.187692769092045,"past",38.6166666666667,"US","United States","US-Washington
+Model: past"
+"458","US-Washington",2014,16,34.3666666666667,6.65833333333333,0.182853868395882,"past",41.025,"US","United States","US-Washington
+Model: past"
+"459","US-Washington",2015,16,34.6166666666667,5.33333333333333,0.170643111992632,"past",39.95,"US","United States","US-Washington
+Model: past"
+"460","US-Washington",2016,16,38.0595238095238,1.36666666666667,0.12826199200305,"past",39.4261904761905,"US","United States","US-Washington
+Model: past"
+"461","US-Wisconsin",2007,16,32,2,0.0844248384753359,"past",34,"US","United States","US-Wisconsin
+Model: past"
+"462","US-Wisconsin",2008,16,31.75,4.58333333333333,0.0769336080382069,"past",36.3333333333333,"US","United States","US-Wisconsin
+Model: past"
+"463","US-Wisconsin",2009,16,32.8333333333333,6.69444444444444,0.0964653650646061,"past",39.5277777777778,"US","United States","US-Wisconsin
+Model: past"
+"464","US-Wisconsin",2010,16,36.9761904761905,2.45,0.0971135470848548,"past",39.4261904761905,"US","United States","US-Wisconsin
+Model: past"
+"465","US-Wisconsin",2011,16,40.8928571428571,0.2,0.084267856787374,"past",41.0928571428571,"US","United States","US-Wisconsin
+Model: past"
+"466","US-Wisconsin",2012,16,40.6833333333333,2.97619047619048,0.0861367878140029,"past",43.6595238095238,"US","United States","US-Wisconsin
+Model: past"
+"467","US-Wisconsin",2013,16,25.7083333333333,2.79166666666667,0.0804980732906915,"past",28.5,"US","United States","US-Wisconsin
+Model: past"
+"468","US-Wisconsin",2014,16,22.3333333333333,1,0.0551974006674609,"past",23.3333333333333,"US","United States","US-Wisconsin
+Model: past"
+"469","US-Wisconsin",2015,16,14.9166666666667,2.25,0.0689827061681801,"past",17.1666666666667,"US","United States","US-Wisconsin
+Model: past"
+"470","US-Wisconsin",2016,16,28.0833333333333,1.7,0.0794250816262146,"past",29.7833333333333,"US","United States","US-Wisconsin
+Model: past"
+"471","CN-Shanghai",2007,16,9.9,1.44285714285714,0.02544080604534,"past",11.3428571428571,"CN","China","CN-Shanghai
+Model: past"
+"472","CN-Shanghai",2008,16,14.3095238095238,1,0.0385045696534271,"past",15.3095238095238,"CN","China","CN-Shanghai
+Model: past"
+"473","CN-Shanghai",2009,16,16.4761904761905,0.333333333333333,0.0424705753191495,"past",16.8095238095238,"CN","China","CN-Shanghai
+Model: past"
+"474","CN-Shanghai",2010,16,39.1666666666667,1.91666666666667,0.051801204122395,"past",41.0833333333333,"CN","China","CN-Shanghai
+Model: past"
+"475","CN-Shanghai",2011,16,27.7833333333333,7.61666666666667,0.0948332191883083,"past",35.4,"CN","China","CN-Shanghai
+Model: past"
+"476","CN-Shanghai",2012,16,32.1166666666667,1.81666666666667,0.0800996822981746,"past",33.9333333333333,"CN","China","CN-Shanghai
+Model: past"
+"477","CN-Shanghai",2013,16,21.6166666666667,1,0.0758789547991516,"past",22.6166666666667,"CN","China","CN-Shanghai
+Model: past"
+"478","CN-Shanghai",2014,16,14.5119047619048,0,0.0719129491334292,"past",14.5119047619048,"CN","China","CN-Shanghai
+Model: past"
+"479","CN-Shanghai",2015,16,26.25,1.83333333333333,0.0756387001521422,"past",28.0833333333333,"CN","China","CN-Shanghai
+Model: past"
+"480","CN-Shanghai",2016,16,22.8166666666667,2.78333333333333,0.0543514767528955,"past",25.6,"CN","China","CN-Shanghai
+Model: past"
+"481","BE-Flemish Region",2017,16,37.3166666666667,1.33333333333333,0.0344976282880552,"Neural Network 1",38.65,"BE","Belgium","BE-Flemish Region
+Model: Neural Network 1"
+"482","BE-Flemish Region",2017,16,36.9833333333333,1.66666666666667,0.043122035360069,"Neural Network 2",38.65,"BE","Belgium","BE-Flemish Region
+Model: Neural Network 2"
+"483","BE-Flemish Region",2017,16,35.3166666666667,3.33333333333333,0.086244070720138,"Random Forest 1",38.65,"BE","Belgium","BE-Flemish Region
+Model: Random Forest 1"
+"484","BE-Flemish Region",2017,16,35.6166666666667,3.03333333333333,0.0784821043553256,"Random Forest 2",38.65,"BE","Belgium","BE-Flemish Region
+Model: Random Forest 2"
+"485","CA-Ontario",2017,16,43.5833333333333,2,0.0438756855575868,"Neural Network 1",45.5833333333333,"CA","Canada","CA-Ontario
+Model: Neural Network 1"
+"486","CA-Ontario",2017,16,41.5,4.08333333333333,0.0895795246800731,"Neural Network 2",45.5833333333333,"CA","Canada","CA-Ontario
+Model: Neural Network 2"
+"487","CA-Ontario",2017,16,42.75,2.83333333333333,0.0621572212065814,"Random Forest 1",45.5833333333333,"CA","Canada","CA-Ontario
+Model: Random Forest 1"
+"488","CA-Ontario",2017,16,43.25,2.33333333333333,0.0511882998171846,"Random Forest 2",45.5833333333333,"CA","Canada","CA-Ontario
+Model: Random Forest 2"
+"489","CA-Quebec",2017,16,29.0166666666667,1.08333333333333,0.0359911406423034,"Neural Network 1",30.1,"CA","Canada","CA-Quebec
+Model: Neural Network 1"
+"490","CA-Quebec",2017,16,29.6,0.5,0.0166112956810631,"Neural Network 2",30.1,"CA","Canada","CA-Quebec
+Model: Neural Network 2"
+"491","CA-Quebec",2017,16,28.2333333333333,1.86666666666667,0.062015503875969,"Random Forest 1",30.1,"CA","Canada","CA-Quebec
+Model: Random Forest 1"
+"492","CA-Quebec",2017,16,27.7666666666667,2.33333333333333,0.0775193798449612,"Random Forest 2",30.1,"CA","Canada","CA-Quebec
+Model: Random Forest 2"
+"493","CN-Beijing",2017,16,46.9166666666667,2,0.040885860306644,"Neural Network 1",48.9166666666667,"CN","China","CN-Beijing
+Model: Neural Network 1"
+"494","CN-Beijing",2017,16,47.4166666666667,1.5,0.030664395229983,"Neural Network 2",48.9166666666667,"CN","China","CN-Beijing
+Model: Neural Network 2"
+"495","CN-Beijing",2017,16,47.6666666666667,1.25,0.0255536626916525,"Random Forest 1",48.9166666666667,"CN","China","CN-Beijing
+Model: Random Forest 1"
+"496","CN-Beijing",2017,16,46.6666666666667,2.25,0.0459965928449744,"Random Forest 2",48.9166666666667,"CN","China","CN-Beijing
+Model: Random Forest 2"
+"497","CN-Shanghai",2017,16,87.7833333333333,9.11666666666667,0.0940832473340213,"Neural Network 1",96.9,"CN","China","CN-Shanghai
+Model: Neural Network 1"
+"498","CN-Shanghai",2017,16,89.2,7.7,0.0794633642930856,"Neural Network 2",96.9,"CN","China","CN-Shanghai
+Model: Neural Network 2"
+"499","CN-Shanghai",2017,16,90.5666666666667,6.33333333333333,0.065359477124183,"Random Forest 1",96.9,"CN","China","CN-Shanghai
+Model: Random Forest 1"
+"500","CN-Shanghai",2017,16,88.7333333333333,8.16666666666667,0.0842793257653939,"Random Forest 2",96.9,"CN","China","CN-Shanghai
+Model: Random Forest 2"
+"501","DE-Berlin",2017,16,25.0595238095238,6.20952380952381,0.198583720398995,"Neural Network 1",31.2690476190476,"DE","Germany","DE-Berlin
+Model: Neural Network 1"
+"502","DE-Berlin",2017,16,25.0928571428571,6.17619047619048,0.197517703495013,"Neural Network 2",31.2690476190476,"DE","Germany","DE-Berlin
+Model: Neural Network 2"
+"503","DE-Berlin",2017,16,25.5928571428571,5.67619047619048,0.181527449935278,"Random Forest 1",31.2690476190476,"DE","Germany","DE-Berlin
+Model: Random Forest 1"
+"504","DE-Berlin",2017,16,26.0095238095238,5.25952380952381,0.168202238635498,"Random Forest 2",31.2690476190476,"DE","Germany","DE-Berlin
+Model: Random Forest 2"
+"505","DE-Darmstadt",2017,16,27.2833333333333,4.08333333333333,0.130180658873539,"Neural Network 1",31.3666666666667,"DE","Germany","DE-Darmstadt
+Model: Neural Network 1"
+"506","DE-Darmstadt",2017,16,27.2833333333333,4.08333333333333,0.130180658873539,"Neural Network 2",31.3666666666667,"DE","Germany","DE-Darmstadt
+Model: Neural Network 2"
+"507","DE-Darmstadt",2017,16,25.7833333333333,5.58333333333333,0.178002125398512,"Random Forest 1",31.3666666666667,"DE","Germany","DE-Darmstadt
+Model: Random Forest 1"
+"508","DE-Darmstadt",2017,16,26.0333333333333,5.33333333333333,0.170031880977683,"Random Forest 2",31.3666666666667,"DE","Germany","DE-Darmstadt
+Model: Random Forest 2"
+"509","DE-Köln",2017,16,26.8095238095238,7.37619047619048,0.215768212843014,"Neural Network 1",34.1857142857143,"DE","Germany","DE-Köln
+Model: Neural Network 1"
+"510","DE-Köln",2017,16,27.8095238095238,6.37619047619048,0.186516227886892,"Neural Network 2",34.1857142857143,"DE","Germany","DE-Köln
+Model: Neural Network 2"
+"511","DE-Köln",2017,16,28.1666666666667,6.01904761904762,0.176069090402563,"Random Forest 1",34.1857142857143,"DE","Germany","DE-Köln
+Model: Random Forest 1"
+"512","DE-Köln",2017,16,26.1666666666667,8.01904761904762,0.234573060314807,"Random Forest 2",34.1857142857143,"DE","Germany","DE-Köln
+Model: Random Forest 2"
+"513","DE-Oberbayern",2017,16,41.0666666666667,1.75,0.0408719346049046,"Neural Network 1",42.8166666666667,"DE","Germany","DE-Oberbayern
+Model: Neural Network 1"
+"514","DE-Oberbayern",2017,16,40.3666666666667,2.45,0.0572207084468665,"Neural Network 2",42.8166666666667,"DE","Germany","DE-Oberbayern
+Model: Neural Network 2"
+"515","DE-Oberbayern",2017,16,39.8666666666667,2.95,0.0688984040482678,"Random Forest 1",42.8166666666667,"DE","Germany","DE-Oberbayern
+Model: Random Forest 1"
+"516","DE-Oberbayern",2017,16,40.0666666666667,2.75,0.0642273258077073,"Random Forest 2",42.8166666666667,"DE","Germany","DE-Oberbayern
+Model: Random Forest 2"
+"517","DK-Capital (DK)",2017,16,37.7595238095238,5.78333333333333,0.132819335083115,"Neural Network 1",43.5428571428571,"DK","Denmark","DK-Capital (DK)
+Model: Neural Network 1"
+"518","DK-Capital (DK)",2017,16,41.3428571428571,2.2,0.0505249343832021,"Neural Network 2",43.5428571428571,"DK","Denmark","DK-Capital (DK)
+Model: Neural Network 2"
+"519","DK-Capital (DK)",2017,16,37.3428571428571,6.2,0.14238845144357,"Random Forest 1",43.5428571428571,"DK","Denmark","DK-Capital (DK)
+Model: Random Forest 1"
+"520","DK-Capital (DK)",2017,16,37.5095238095238,6.03333333333333,0.138560804899388,"Random Forest 2",43.5428571428571,"DK","Denmark","DK-Capital (DK)
+Model: Random Forest 2"
+"521","ES-Catalonia",2017,16,36.6666666666667,3.5,0.0871369294605809,"Neural Network 1",40.1666666666667,"ES","Spain","ES-Catalonia
+Model: Neural Network 1"
+"522","ES-Catalonia",2017,16,37.6666666666667,2.5,0.0622406639004149,"Neural Network 2",40.1666666666667,"ES","Spain","ES-Catalonia
+Model: Neural Network 2"
+"523","ES-Catalonia",2017,16,37.6666666666667,2.5,0.0622406639004149,"Random Forest 1",40.1666666666667,"ES","Spain","ES-Catalonia
+Model: Random Forest 1"
+"524","ES-Catalonia",2017,16,37.6666666666667,2.5,0.0622406639004149,"Random Forest 2",40.1666666666667,"ES","Spain","ES-Catalonia
+Model: Random Forest 2"
+"525","FR-Rhône-Alpes",2017,16,31.9166666666667,3.84285714285714,0.10746387908649,"Neural Network 1",35.7595238095238,"FR","France","FR-Rhône-Alpes
+Model: Neural Network 1"
+"526","FR-Rhône-Alpes",2017,16,32.75,3.00952380952381,0.0841600639190359,"Neural Network 2",35.7595238095238,"FR","France","FR-Rhône-Alpes
+Model: Neural Network 2"
+"527","FR-Rhône-Alpes",2017,16,29.9166666666667,5.84285714285714,0.163393035488381,"Random Forest 1",35.7595238095238,"FR","France","FR-Rhône-Alpes
+Model: Random Forest 1"
+"528","FR-Rhône-Alpes",2017,16,29.9166666666667,5.84285714285714,0.163393035488381,"Random Forest 2",35.7595238095238,"FR","France","FR-Rhône-Alpes
+Model: Random Forest 2"
+"529","FR-Île-de-France",2017,16,118.992857142857,3.5,0.0285730946410869,"Neural Network 1",122.492857142857,"FR","France","FR-Île-de-France
+Model: Neural Network 1"
+"530","FR-Île-de-France",2017,16,118.32619047619,4.16666666666667,0.0340155888584368,"Neural Network 2",122.492857142857,"FR","France","FR-Île-de-France
+Model: Neural Network 2"
+"531","FR-Île-de-France",2017,16,115.87619047619,6.61666666666667,0.0540167551071977,"Random Forest 1",122.492857142857,"FR","France","FR-Île-de-France
+Model: Random Forest 1"
+"532","FR-Île-de-France",2017,16,116.092857142857,6.4,0.052247944486559,"Random Forest 2",122.492857142857,"FR","France","FR-Île-de-France
+Model: Random Forest 2"
+"533","GB-East of England",2017,16,61.2833333333333,5.16666666666667,0.0777526962628543,"Neural Network 1",66.45,"GB","United Kingdom","GB-East of England
+Model: Neural Network 1"
+"534","GB-East of England",2017,16,57.1166666666667,9.33333333333333,0.140456483571608,"Neural Network 2",66.45,"GB","United Kingdom","GB-East of England
+Model: Neural Network 2"
+"535","GB-East of England",2017,16,60.6166666666667,5.83333333333333,0.0877853022322548,"Random Forest 1",66.45,"GB","United Kingdom","GB-East of England
+Model: Random Forest 1"
+"536","GB-East of England",2017,16,62.45,4,0.0601956358164033,"Random Forest 2",66.45,"GB","United Kingdom","GB-East of England
+Model: Random Forest 2"
+"537","GB-Greater London",2017,16,21.2261904761905,2.5,0.105368790767687,"Neural Network 1",23.7261904761905,"GB","United Kingdom","GB-Greater London
+Model: Neural Network 1"
+"538","GB-Greater London",2017,16,21.2261904761905,2.5,0.105368790767687,"Neural Network 2",23.7261904761905,"GB","United Kingdom","GB-Greater London
+Model: Neural Network 2"
+"539","GB-Greater London",2017,16,21.0595238095238,2.66666666666667,0.112393376818866,"Random Forest 1",23.7261904761905,"GB","United Kingdom","GB-Greater London
+Model: Random Forest 1"
+"540","GB-Greater London",2017,16,21.0595238095238,2.66666666666667,0.112393376818866,"Random Forest 2",23.7261904761905,"GB","United Kingdom","GB-Greater London
+Model: Random Forest 2"
+"541","GB-South East England",2017,16,62.3166666666667,4.61666666666667,0.0689741035856574,"Neural Network 1",66.9333333333333,"GB","United Kingdom","GB-South East England
+Model: Neural Network 1"
+"542","GB-South East England",2017,16,63.3166666666667,3.61666666666667,0.0540338645418327,"Neural Network 2",66.9333333333333,"GB","United Kingdom","GB-South East England
+Model: Neural Network 2"
+"543","GB-South East England",2017,16,64.1166666666667,2.81666666666667,0.0420816733067729,"Random Forest 1",66.9333333333333,"GB","United Kingdom","GB-South East England
+Model: Random Forest 1"
+"544","GB-South East England",2017,16,64.7833333333333,2.15,0.0321215139442231,"Random Forest 2",66.9333333333333,"GB","United Kingdom","GB-South East England
+Model: Random Forest 2"
+"545","IL-Central District",2017,16,27.4166666666667,5.45,0.165821501014199,"Neural Network 1",32.8666666666667,"IL","Israel","IL-Central District
+Model: Neural Network 1"
+"546","IL-Central District",2017,16,27.4166666666667,5.45,0.165821501014199,"Neural Network 2",32.8666666666667,"IL","Israel","IL-Central District
+Model: Neural Network 2"
+"547","IL-Central District",2017,16,26.6666666666667,6.2,0.188640973630832,"Random Forest 1",32.8666666666667,"IL","Israel","IL-Central District
+Model: Random Forest 1"
+"548","IL-Central District",2017,16,26.6666666666667,6.2,0.188640973630832,"Random Forest 2",32.8666666666667,"IL","Israel","IL-Central District
+Model: Random Forest 2"
+"549","IL-Tel Aviv District",2017,16,32.9333333333333,1.33333333333333,0.0389105058365759,"Neural Network 1",34.2666666666667,"IL","Israel","IL-Tel Aviv District
+Model: Neural Network 1"
+"550","IL-Tel Aviv District",2017,16,32.9333333333333,1.33333333333333,0.0389105058365759,"Neural Network 2",34.2666666666667,"IL","Israel","IL-Tel Aviv District
+Model: Neural Network 2"
+"551","IL-Tel Aviv District",2017,16,31.9333333333333,2.33333333333333,0.0680933852140078,"Random Forest 1",34.2666666666667,"IL","Israel","IL-Tel Aviv District
+Model: Random Forest 1"
+"552","IL-Tel Aviv District",2017,16,31.6833333333333,2.58333333333333,0.0753891050583658,"Random Forest 2",34.2666666666667,"IL","Israel","IL-Tel Aviv District
+Model: Random Forest 2"
+"553","IT-Lombardy",2017,16,47.5666666666667,0.333333333333333,0.0069589422407794,"Neural Network 1",47.9,"IT","Italy","IT-Lombardy
+Model: Neural Network 1"
+"554","IT-Lombardy",2017,16,47.9,0,0,"Neural Network 2",47.9,"IT","Italy","IT-Lombardy
+Model: Neural Network 2"
+"555","IT-Lombardy",2017,16,47.9,0,0,"Random Forest 1",47.9,"IT","Italy","IT-Lombardy
+Model: Random Forest 1"
+"556","IT-Lombardy",2017,16,47.9,0,0,"Random Forest 2",47.9,"IT","Italy","IT-Lombardy
+Model: Random Forest 2"
+"557","JP-Kansai region",2017,16,109.916666666667,4.53333333333333,0.0396097276831222,"Neural Network 1",114.45,"JP","Japan","JP-Kansai region
+Model: Neural Network 1"
+"558","JP-Kansai region",2017,16,111.916666666667,2.53333333333333,0.0221348478229212,"Neural Network 2",114.45,"JP","Japan","JP-Kansai region
+Model: Neural Network 2"
+"559","JP-Kansai region",2017,16,110.583333333333,3.86666666666667,0.0337847677297219,"Random Forest 1",114.45,"JP","Japan","JP-Kansai region
+Model: Random Forest 1"
+"560","JP-Kansai region",2017,16,109.083333333333,5.36666666666667,0.0468909276248726,"Random Forest 2",114.45,"JP","Japan","JP-Kansai region
+Model: Random Forest 2"
+"561","JP-Northern-Kanto, Koshin",2017,16,26.4166666666667,1,0.0364741641337386,"Neural Network 1",27.4166666666667,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: Neural Network 1"
+"562","JP-Northern-Kanto, Koshin",2017,16,26.4166666666667,1,0.0364741641337386,"Neural Network 2",27.4166666666667,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: Neural Network 2"
+"563","JP-Northern-Kanto, Koshin",2017,16,27.4166666666667,0,0,"Random Forest 1",27.4166666666667,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: Random Forest 1"
+"564","JP-Northern-Kanto, Koshin",2017,16,27.0833333333333,0.333333333333333,0.0121580547112462,"Random Forest 2",27.4166666666667,"JP","Japan","JP-Northern-Kanto, Koshin
+Model: Random Forest 2"
+"565","JP-Southern-Kanto",2017,16,170.45,5,0.0284981476204047,"Neural Network 1",175.45,"JP","Japan","JP-Southern-Kanto
+Model: Neural Network 1"
+"566","JP-Southern-Kanto",2017,16,169.95,5.5,0.0313479623824451,"Neural Network 2",175.45,"JP","Japan","JP-Southern-Kanto
+Model: Neural Network 2"
+"567","JP-Southern-Kanto",2017,16,169.45,6,0.0341977771444856,"Random Forest 1",175.45,"JP","Japan","JP-Southern-Kanto
+Model: Random Forest 1"
+"568","JP-Southern-Kanto",2017,16,170.616666666667,4.83333333333333,0.0275482093663912,"Random Forest 2",175.45,"JP","Japan","JP-Southern-Kanto
+Model: Random Forest 2"
+"569","JP-Toukai",2017,16,27.5833333333333,0.333333333333333,0.0119402985074627,"Neural Network 1",27.9166666666667,"JP","Japan","JP-Toukai
+Model: Neural Network 1"
+"570","JP-Toukai",2017,16,27.9166666666667,0,0,"Neural Network 2",27.9166666666667,"JP","Japan","JP-Toukai
+Model: Neural Network 2"
+"571","JP-Toukai",2017,16,26.9166666666667,1,0.0358208955223881,"Random Forest 1",27.9166666666667,"JP","Japan","JP-Toukai
+Model: Random Forest 1"
+"572","JP-Toukai",2017,16,26.5833333333333,1.33333333333333,0.0477611940298507,"Random Forest 2",27.9166666666667,"JP","Japan","JP-Toukai
+Model: Random Forest 2"
+"573","KR-Capital Region (KR)",2017,16,141.916666666667,3.66666666666667,0.025186033199771,"Neural Network 1",145.583333333333,"KR","South Korea","KR-Capital Region (KR)
+Model: Neural Network 1"
+"574","KR-Capital Region (KR)",2017,16,140.25,5.33333333333333,0.0366342301087579,"Neural Network 2",145.583333333333,"KR","South Korea","KR-Capital Region (KR)
+Model: Neural Network 2"
+"575","KR-Capital Region (KR)",2017,16,143.916666666667,1.66666666666667,0.0114481969089868,"Random Forest 1",145.583333333333,"KR","South Korea","KR-Capital Region (KR)
+Model: Random Forest 1"
+"576","KR-Capital Region (KR)",2017,16,143.916666666667,1.66666666666667,0.0114481969089868,"Random Forest 2",145.583333333333,"KR","South Korea","KR-Capital Region (KR)
+Model: Random Forest 2"
+"577","US-Arizona",2017,16,39.5,0,0,"Neural Network 1",39.5,"US","United States","US-Arizona
+Model: Neural Network 1"
+"578","US-Arizona",2017,16,39,0.5,0.0126582278481013,"Neural Network 2",39.5,"US","United States","US-Arizona
+Model: Neural Network 2"
+"579","US-Arizona",2017,16,39.5,0,0,"Random Forest 1",39.5,"US","United States","US-Arizona
+Model: Random Forest 1"
+"580","US-Arizona",2017,16,39,0.5,0.0126582278481013,"Random Forest 2",39.5,"US","United States","US-Arizona
+Model: Random Forest 2"
+"581","US-California",2017,16,706.885714285714,139.016666666667,0.164341264189552,"Neural Network 1",845.902380952381,"US","United States","US-California
+Model: Neural Network 1"
+"582","US-California",2017,16,691.635714285714,154.266666666667,0.182369349159393,"Neural Network 2",845.902380952381,"US","United States","US-California
+Model: Neural Network 2"
+"583","US-California",2017,16,699.469047619048,146.433333333333,0.173109021360677,"Random Forest 1",845.902380952381,"US","United States","US-California
+Model: Random Forest 1"
+"584","US-California",2017,16,690.635714285714,155.266666666667,0.183551518665612,"Random Forest 2",845.902380952381,"US","United States","US-California
+Model: Random Forest 2"
+"585","US-Colorado",2017,16,52.5833333333333,5.25,0.0907780979827089,"Neural Network 1",57.8333333333333,"US","United States","US-Colorado
+Model: Neural Network 1"
+"586","US-Colorado",2017,16,50.5833333333333,7.25,0.12536023054755,"Neural Network 2",57.8333333333333,"US","United States","US-Colorado
+Model: Neural Network 2"
+"587","US-Colorado",2017,16,52.75,5.08333333333333,0.0878962536023055,"Random Forest 1",57.8333333333333,"US","United States","US-Colorado
+Model: Random Forest 1"
+"588","US-Colorado",2017,16,52.25,5.58333333333333,0.0965417867435158,"Random Forest 2",57.8333333333333,"US","United States","US-Colorado
+Model: Random Forest 2"
+"589","US-Connecticut",2017,16,78.5333333333333,41.7,0.346825616856113,"Neural Network 1",120.233333333333,"US","United States","US-Connecticut
+Model: Neural Network 1"
+"590","US-Connecticut",2017,16,77.1166666666667,43.1166666666667,0.358608261713335,"Neural Network 2",120.233333333333,"US","United States","US-Connecticut
+Model: Neural Network 2"
+"591","US-Connecticut",2017,16,73.75,46.4833333333333,0.386609370668145,"Random Forest 1",120.233333333333,"US","United States","US-Connecticut
+Model: Random Forest 1"
+"592","US-Connecticut",2017,16,76,44.2333333333333,0.367895758247851,"Random Forest 2",120.233333333333,"US","United States","US-Connecticut
+Model: Random Forest 2"
+"593","US-Florida",2017,16,142.816666666667,15.25,0.0964782792070856,"Neural Network 1",158.066666666667,"US","United States","US-Florida
+Model: Neural Network 1"
+"594","US-Florida",2017,16,141.566666666667,16.5,0.104386334879798,"Neural Network 2",158.066666666667,"US","United States","US-Florida
+Model: Neural Network 2"
+"595","US-Florida",2017,16,148.233333333333,9.83333333333333,0.0622100379586672,"Random Forest 1",158.066666666667,"US","United States","US-Florida
+Model: Random Forest 1"
+"596","US-Florida",2017,16,146.983333333333,11.0833333333333,0.0701180936313792,"Random Forest 2",158.066666666667,"US","United States","US-Florida
+Model: Random Forest 2"
+"597","US-Georgia",2017,16,60.5,1.2,0.0194489465153971,"Neural Network 1",61.7,"US","United States","US-Georgia
+Model: Neural Network 1"
+"598","US-Georgia",2017,16,61.5,0.2,0.00324149108589951,"Neural Network 2",61.7,"US","United States","US-Georgia
+Model: Neural Network 2"
+"599","US-Georgia",2017,16,58.5,3.2,0.0518638573743922,"Random Forest 1",61.7,"US","United States","US-Georgia
+Model: Random Forest 1"
+"600","US-Georgia",2017,16,57.6666666666667,4.03333333333333,0.0653700702323069,"Random Forest 2",61.7,"US","United States","US-Georgia
+Model: Random Forest 2"
+"601","US-Illinois",2017,16,68.3166666666667,14.1666666666667,0.171751869064457,"Neural Network 1",82.4833333333333,"US","United States","US-Illinois
+Model: Neural Network 1"
+"602","US-Illinois",2017,16,69.9833333333333,12.5,0.15154576682158,"Neural Network 2",82.4833333333333,"US","United States","US-Illinois
+Model: Neural Network 2"
+"603","US-Illinois",2017,16,67.4833333333333,15,0.181854920185896,"Random Forest 1",82.4833333333333,"US","United States","US-Illinois
+Model: Random Forest 1"
+"604","US-Illinois",2017,16,70.2833333333333,12.2,0.147908668417862,"Random Forest 2",82.4833333333333,"US","United States","US-Illinois
+Model: Random Forest 2"
+"605","US-Indiana",2017,16,81,1.5,0.0181818181818182,"Neural Network 1",82.5,"US","United States","US-Indiana
+Model: Neural Network 1"
+"606","US-Indiana",2017,16,79.5,3,0.0363636363636364,"Neural Network 2",82.5,"US","United States","US-Indiana
+Model: Neural Network 2"
+"607","US-Indiana",2017,16,80.25,2.25,0.0272727272727273,"Random Forest 1",82.5,"US","United States","US-Indiana
+Model: Random Forest 1"
+"608","US-Indiana",2017,16,80.75,1.75,0.0212121212121212,"Random Forest 2",82.5,"US","United States","US-Indiana
+Model: Random Forest 2"
+"609","US-Maryland",2017,16,153.008333333333,14.2333333333333,0.0851063829787234,"Neural Network 1",167.241666666667,"US","United States","US-Maryland
+Model: Neural Network 1"
+"610","US-Maryland",2017,16,152.508333333333,14.7333333333333,0.0880960685634561,"Neural Network 2",167.241666666667,"US","United States","US-Maryland
+Model: Neural Network 2"
+"611","US-Maryland",2017,16,153.741666666667,13.5,0.0807215107877821,"Random Forest 1",167.241666666667,"US","United States","US-Maryland
+Model: Random Forest 1"
+"612","US-Maryland",2017,16,156.708333333333,10.5333333333333,0.0629827096517016,"Random Forest 2",167.241666666667,"US","United States","US-Maryland
+Model: Random Forest 2"
+"613","US-Massachusetts",2017,16,354.92619047619,117.766666666667,0.249139932806463,"Neural Network 1",472.692857142857,"US","United States","US-Massachusetts
+Model: Neural Network 1"
+"614","US-Massachusetts",2017,16,357.92619047619,114.766666666667,0.242793316912724,"Neural Network 2",472.692857142857,"US","United States","US-Massachusetts
+Model: Neural Network 2"
+"615","US-Massachusetts",2017,16,359.916666666667,112.77619047619,0.238582387637195,"Random Forest 1",472.692857142857,"US","United States","US-Massachusetts
+Model: Random Forest 1"
+"616","US-Massachusetts",2017,16,359.8,112.892857142857,0.238829200477507,"Random Forest 2",472.692857142857,"US","United States","US-Massachusetts
+Model: Random Forest 2"
+"617","US-Michigan",2017,16,58.7833333333333,9.78333333333333,0.142683519688867,"Neural Network 1",68.5666666666667,"US","United States","US-Michigan
+Model: Neural Network 1"
+"618","US-Michigan",2017,16,58.3666666666667,10.2,0.148760330578512,"Neural Network 2",68.5666666666667,"US","United States","US-Michigan
+Model: Neural Network 2"
+"619","US-Michigan",2017,16,57.8166666666667,10.75,0.156781720952844,"Random Forest 1",68.5666666666667,"US","United States","US-Michigan
+Model: Random Forest 1"
+"620","US-Michigan",2017,16,58.9833333333333,9.58333333333333,0.139766650461838,"Random Forest 2",68.5666666666667,"US","United States","US-Michigan
+Model: Random Forest 2"
+"621","US-Minnesota",2017,16,62.3333333333333,6.83333333333333,0.0987951807228915,"Neural Network 1",69.1666666666667,"US","United States","US-Minnesota
+Model: Neural Network 1"
+"622","US-Minnesota",2017,16,59.8333333333333,9.33333333333333,0.134939759036145,"Neural Network 2",69.1666666666667,"US","United States","US-Minnesota
+Model: Neural Network 2"
+"623","US-Minnesota",2017,16,56.3333333333333,12.8333333333333,0.185542168674699,"Random Forest 1",69.1666666666667,"US","United States","US-Minnesota
+Model: Random Forest 1"
+"624","US-Minnesota",2017,16,56.3333333333333,12.8333333333333,0.185542168674699,"Random Forest 2",69.1666666666667,"US","United States","US-Minnesota
+Model: Random Forest 2"
+"625","US-Missouri",2017,16,44.1833333333333,2.86666666666667,0.0609280906836699,"Neural Network 1",47.05,"US","United States","US-Missouri
+Model: Neural Network 1"
+"626","US-Missouri",2017,16,44.3833333333333,2.66666666666667,0.0566772936592278,"Neural Network 2",47.05,"US","United States","US-Missouri
+Model: Neural Network 2"
+"627","US-Missouri",2017,16,43.7166666666667,3.33333333333333,0.0708466170740347,"Random Forest 1",47.05,"US","United States","US-Missouri
+Model: Random Forest 1"
+"628","US-Missouri",2017,16,45.2166666666667,1.83333333333333,0.0389656393907191,"Random Forest 2",47.05,"US","United States","US-Missouri
+Model: Random Forest 2"
+"629","US-New Jersey",2017,16,217.833333333333,30.2166666666667,0.121816838003091,"Neural Network 1",248.05,"US","United States","US-New Jersey
+Model: Neural Network 1"
+"630","US-New Jersey",2017,16,218.583333333333,29.4666666666667,0.118793254048243,"Neural Network 2",248.05,"US","United States","US-New Jersey
+Model: Neural Network 2"
+"631","US-New Jersey",2017,16,214.983333333333,33.0666666666667,0.133306457031512,"Random Forest 1",248.05,"US","United States","US-New Jersey
+Model: Random Forest 1"
+"632","US-New Jersey",2017,16,213.7,34.35,0.13848014513203,"Random Forest 2",248.05,"US","United States","US-New Jersey
+Model: Random Forest 2"
+"633","US-New York",2017,16,189.116666666667,39.7333333333333,0.173621731847644,"Neural Network 1",228.85,"US","United States","US-New York
+Model: Neural Network 1"
+"634","US-New York",2017,16,196.033333333333,32.8166666666667,0.143398150171146,"Neural Network 2",228.85,"US","United States","US-New York
+Model: Neural Network 2"
+"635","US-New York",2017,16,184.983333333333,43.8666666666667,0.191683052945889,"Random Forest 1",228.85,"US","United States","US-New York
+Model: Random Forest 1"
+"636","US-New York",2017,16,189.566666666667,39.2833333333333,0.17165537834098,"Random Forest 2",228.85,"US","United States","US-New York
+Model: Random Forest 2"
+"637","US-North Carolina",2017,16,105.509523809524,15.4166666666667,0.127488235641576,"Neural Network 1",120.92619047619,"US","United States","US-North Carolina
+Model: Neural Network 1"
+"638","US-North Carolina",2017,16,105.342857142857,15.5833333333333,0.128866486837701,"Neural Network 2",120.92619047619,"US","United States","US-North Carolina
+Model: Neural Network 2"
+"639","US-North Carolina",2017,16,106.092857142857,14.8333333333333,0.122664356455138,"Random Forest 1",120.92619047619,"US","United States","US-North Carolina
+Model: Random Forest 1"
+"640","US-North Carolina",2017,16,105.892857142857,15.0333333333333,0.124318257890488,"Random Forest 2",120.92619047619,"US","United States","US-North Carolina
+Model: Random Forest 2"
+"641","US-Ohio",2017,16,94.9166666666667,3.36666666666667,0.0342547057826013,"Neural Network 1",98.2833333333333,"US","United States","US-Ohio
+Model: Neural Network 1"
+"642","US-Ohio",2017,16,95.5833333333333,2.7,0.0274715957266407,"Neural Network 2",98.2833333333333,"US","United States","US-Ohio
+Model: Neural Network 2"
+"643","US-Ohio",2017,16,95.7833333333333,2.5,0.0254366627098525,"Random Forest 1",98.2833333333333,"US","United States","US-Ohio
+Model: Random Forest 1"
+"644","US-Ohio",2017,16,96.2833333333333,2,0.020349330167882,"Random Forest 2",98.2833333333333,"US","United States","US-Ohio
+Model: Random Forest 2"
+"645","US-Pennsylvania",2017,16,206.42619047619,35.4666666666667,0.146621388847876,"Neural Network 1",241.892857142857,"US","United States","US-Pennsylvania
+Model: Neural Network 1"
+"646","US-Pennsylvania",2017,16,207.509523809524,34.3833333333333,0.142142821989271,"Neural Network 2",241.892857142857,"US","United States","US-Pennsylvania
+Model: Neural Network 2"
+"647","US-Pennsylvania",2017,16,215.82619047619,26.0666666666667,0.107761208720902,"Random Forest 1",241.892857142857,"US","United States","US-Pennsylvania
+Model: Random Forest 1"
+"648","US-Pennsylvania",2017,16,211.57619047619,30.3166666666667,0.125330971012353,"Random Forest 2",241.892857142857,"US","United States","US-Pennsylvania
+Model: Random Forest 2"
+"649","US-Tennessee",2017,16,36.2261904761905,0.783333333333333,0.021165723108595,"Neural Network 1",37.0095238095238,"US","United States","US-Tennessee
+Model: Neural Network 1"
+"650","US-Tennessee",2017,16,36.7595238095238,0.25,0.00675501801338137,"Neural Network 2",37.0095238095238,"US","United States","US-Tennessee
+Model: Neural Network 2"
+"651","US-Tennessee",2017,16,36.7595238095238,0.25,0.00675501801338137,"Random Forest 1",37.0095238095238,"US","United States","US-Tennessee
+Model: Random Forest 1"
+"652","US-Tennessee",2017,16,37.0095238095238,0,0,"Random Forest 2",37.0095238095238,"US","United States","US-Tennessee
+Model: Random Forest 2"
+"653","US-Texas",2017,16,127.866666666667,9.16666666666667,0.0668936998297251,"Neural Network 1",137.033333333333,"US","United States","US-Texas
+Model: Neural Network 1"
+"654","US-Texas",2017,16,131.116666666667,5.91666666666667,0.043176842617368,"Neural Network 2",137.033333333333,"US","United States","US-Texas
+Model: Neural Network 2"
+"655","US-Texas",2017,16,128.2,8.83333333333333,0.0644612016540988,"Random Forest 1",137.033333333333,"US","United States","US-Texas
+Model: Random Forest 1"
+"656","US-Texas",2017,16,128.2,8.83333333333333,0.0644612016540988,"Random Forest 2",137.033333333333,"US","United States","US-Texas
+Model: Random Forest 2"
+"657","US-Utah",2017,16,41.5,0.5,0.0119047619047619,"Neural Network 1",42,"US","United States","US-Utah
+Model: Neural Network 1"
+"658","US-Utah",2017,16,40,2,0.0476190476190476,"Neural Network 2",42,"US","United States","US-Utah
+Model: Neural Network 2"
+"659","US-Utah",2017,16,41,1,0.0238095238095238,"Random Forest 1",42,"US","United States","US-Utah
+Model: Random Forest 1"
+"660","US-Utah",2017,16,40.6666666666667,1.33333333333333,0.0317460317460317,"Random Forest 2",42,"US","United States","US-Utah
+Model: Random Forest 2"
+"661","US-Virginia",2017,16,34.7,2.16666666666667,0.0587703435804702,"Neural Network 1",36.8666666666667,"US","United States","US-Virginia
+Model: Neural Network 1"
+"662","US-Virginia",2017,16,34.7,2.16666666666667,0.0587703435804702,"Neural Network 2",36.8666666666667,"US","United States","US-Virginia
+Model: Neural Network 2"
+"663","US-Virginia",2017,16,35.0333333333333,1.83333333333333,0.0497287522603978,"Random Forest 1",36.8666666666667,"US","United States","US-Virginia
+Model: Random Forest 1"
+"664","US-Virginia",2017,16,35.0333333333333,1.83333333333333,0.0497287522603978,"Random Forest 2",36.8666666666667,"US","United States","US-Virginia
+Model: Random Forest 2"
+"665","US-Washington",2017,16,71.45,17.0833333333333,0.192959337349398,"Neural Network 1",88.5333333333333,"US","United States","US-Washington
+Model: Neural Network 1"
+"666","US-Washington",2017,16,71.3666666666667,17.1666666666667,0.193900602409639,"Neural Network 2",88.5333333333333,"US","United States","US-Washington
+Model: Neural Network 2"
+"667","US-Washington",2017,16,71.95,16.5833333333333,0.187311746987952,"Random Forest 1",88.5333333333333,"US","United States","US-Washington
+Model: Random Forest 1"
+"668","US-Washington",2017,16,72.95,15.5833333333333,0.17601656626506,"Random Forest 2",88.5333333333333,"US","United States","US-Washington
+Model: Random Forest 2"
+"669","US-Wisconsin",2017,16,44.2,5.5,0.110663983903421,"Neural Network 1",49.7,"US","United States","US-Wisconsin
+Model: Neural Network 1"
+"670","US-Wisconsin",2017,16,44.7,5,0.100603621730382,"Neural Network 2",49.7,"US","United States","US-Wisconsin
+Model: Neural Network 2"
+"671","US-Wisconsin",2017,16,44.7,5,0.100603621730382,"Random Forest 1",49.7,"US","United States","US-Wisconsin
+Model: Random Forest 1"
+"672","US-Wisconsin",2017,16,45.2,4.5,0.0905432595573441,"Random Forest 2",49.7,"US","United States","US-Wisconsin
+Model: Random Forest 2"
+"673","CH-Lake Geneva Region",2007,16,16.7833333333333,1.25757575757576,0.0944259959346021,"past",18.0409090909091,"CH","Switzerland","CH-Lake Geneva Region
+Model: past"
+"674","CH-Lake Geneva Region",2008,16,12.6130952380952,0.5,0.0839377013550913,"past",13.1130952380952,"CH","Switzerland","CH-Lake Geneva Region
+Model: past"
+"675","CH-Lake Geneva Region",2009,16,13.4333333333333,2.95,0.0967742984540422,"past",16.3833333333333,"CH","Switzerland","CH-Lake Geneva Region
+Model: past"
+"676","CH-Lake Geneva Region",2010,16,29.7761904761905,1.86666666666667,0.0931137058759896,"past",31.6428571428571,"CH","Switzerland","CH-Lake Geneva Region
+Model: past"
+"677","CH-Lake Geneva Region",2011,16,35.3190476190476,1.7,0.0785623567863965,"past",37.0190476190476,"CH","Switzerland","CH-Lake Geneva Region
+Model: past"
+"678","CH-Lake Geneva Region",2012,16,30.1619047619048,2.08333333333333,0.0775427823879665,"past",32.2452380952381,"CH","Switzerland","CH-Lake Geneva Region
+Model: past"
+"679","CH-Lake Geneva Region",2013,16,24.5095238095238,1.16666666666667,0.0790043548862188,"past",25.6761904761905,"CH","Switzerland","CH-Lake Geneva Region
+Model: past"
+"680","CH-Lake Geneva Region",2014,16,15.3166666666667,0.333333333333333,0.0472519982634615,"past",15.65,"CH","Switzerland","CH-Lake Geneva Region
+Model: past"
+"681","CH-Lake Geneva Region",2015,16,18.5833333333333,3.5,0.0671517668509936,"past",22.0833333333333,"CH","Switzerland","CH-Lake Geneva Region
+Model: past"
+"682","CH-Lake Geneva Region",2016,16,22.7833333333333,1.95,0.0737354998971486,"past",24.7333333333333,"CH","Switzerland","CH-Lake Geneva Region
+Model: past"
+"683","CH-Northwestern Switzerland",2007,16,38.3440476190476,1.7,0.113505015708399,"past",40.0440476190476,"CH","Switzerland","CH-Northwestern Switzerland
+Model: past"
+"684","CH-Northwestern Switzerland",2008,16,50.1261904761905,5.72619047619048,0.103195981085198,"past",55.8523809523809,"CH","Switzerland","CH-Northwestern Switzerland
+Model: past"
+"685","CH-Northwestern Switzerland",2009,16,52.3011904761905,7.70833333333333,0.112282932133901,"past",60.0095238095238,"CH","Switzerland","CH-Northwestern Switzerland
+Model: past"
+"686","CH-Northwestern Switzerland",2010,16,78.4357142857143,5.89444444444444,0.109580666500216,"past",84.3301587301587,"CH","Switzerland","CH-Northwestern Switzerland
+Model: past"
+"687","CH-Northwestern Switzerland",2011,16,60.5678571428571,7.54285714285714,0.0908140068460099,"past",68.1107142857143,"CH","Switzerland","CH-Northwestern Switzerland
+Model: past"
+"688","CH-Northwestern Switzerland",2012,16,74.7666666666667,9.69166666666667,0.10527352933809,"past",84.4583333333333,"CH","Switzerland","CH-Northwestern Switzerland
+Model: past"
+"689","CH-Northwestern Switzerland",2013,16,32.9095238095238,0.944444444444444,0.0903483173568615,"past",33.8539682539683,"CH","Switzerland","CH-Northwestern Switzerland
+Model: past"
+"690","CH-Northwestern Switzerland",2014,16,22.65,3,0.0880497636138838,"past",25.65,"CH","Switzerland","CH-Northwestern Switzerland
+Model: past"
+"691","CH-Northwestern Switzerland",2015,16,23.6,3.91666666666667,0.102537913144027,"past",27.5166666666667,"CH","Switzerland","CH-Northwestern Switzerland
+Model: past"
+"692","CH-Northwestern Switzerland",2016,16,28.6333333333333,5.03333333333333,0.110290090910175,"past",33.6666666666667,"CH","Switzerland","CH-Northwestern Switzerland
+Model: past"
+"693","CH-Lake Geneva Region",2017,16,47.6761904761905,1.64285714285714,0.0333108042869557,"Neural Network 1",49.3190476190476,"CH","Switzerland","CH-Lake Geneva Region
+Model: Neural Network 1"
+"694","CH-Lake Geneva Region",2017,16,43.6761904761905,5.64285714285714,0.1144153712465,"Neural Network 2",49.3190476190476,"CH","Switzerland","CH-Lake Geneva Region
+Model: Neural Network 2"
+"695","CH-Lake Geneva Region",2017,16,43.4166666666667,5.90238095238095,0.11967751279328,"Random Forest 1",49.3190476190476,"CH","Switzerland","CH-Lake Geneva Region
+Model: Random Forest 1"
+"696","CH-Lake Geneva Region",2017,16,43.6666666666667,5.65238095238095,0.114608477358308,"Random Forest 2",49.3190476190476,"CH","Switzerland","CH-Lake Geneva Region
+Model: Random Forest 2"
+"697","CH-Northwestern Switzerland",2017,16,59.6666666666667,7.81666666666667,0.115831069399852,"Neural Network 1",67.4833333333333,"CH","Switzerland","CH-Northwestern Switzerland
+Model: Neural Network 1"
+"698","CH-Northwestern Switzerland",2017,16,60.25,7.23333333333333,0.107186959743146,"Neural Network 2",67.4833333333333,"CH","Switzerland","CH-Northwestern Switzerland
+Model: Neural Network 2"
+"699","CH-Northwestern Switzerland",2017,16,56.8333333333333,10.65,0.157816744875278,"Random Forest 1",67.4833333333333,"CH","Switzerland","CH-Northwestern Switzerland
+Model: Random Forest 1"
+"700","CH-Northwestern Switzerland",2017,16,58.3333333333333,9.15,0.135589034329464,"Random Forest 2",67.4833333333333,"CH","Switzerland","CH-Northwestern Switzerland
+Model: Random Forest 2"
+"701","GB-Greater London",2017,16,NA,NA,0.108881083793276,"Mean of all models",23.7261904761905,NA,NA,"GB-Greater London
+Model: Mean of all models"
+"702","JP-Northern-Kanto, Koshin",2017,16,NA,NA,0.0212765957446809,"Mean of all models",27.4166666666667,NA,NA,"JP-Northern-Kanto, Koshin
+Model: Mean of all models"
+"703","JP-Toukai",2017,16,NA,NA,0.0238805970149254,"Mean of all models",27.9166666666667,NA,NA,"JP-Toukai
+Model: Mean of all models"
+"704","CA-Quebec",2017,16,NA,NA,0.0480343300110742,"Mean of all models",30.1,NA,NA,"CA-Quebec
+Model: Mean of all models"
+"705","DE-Berlin",2017,16,NA,NA,0.186457778116196,"Mean of all models",31.2690476190476,NA,NA,"DE-Berlin
+Model: Mean of all models"
+"706","DE-Darmstadt",2017,16,NA,NA,0.152098831030818,"Mean of all models",31.3666666666667,NA,NA,"DE-Darmstadt
+Model: Mean of all models"
+"707","IL-Central District",2017,16,NA,NA,0.177231237322515,"Mean of all models",32.8666666666667,NA,NA,"IL-Central District
+Model: Mean of all models"
+"708","DE-Köln",2017,16,NA,NA,0.203231647861819,"Mean of all models",34.1857142857143,NA,NA,"DE-Köln
+Model: Mean of all models"
+"709","IL-Tel Aviv District",2017,16,NA,NA,0.0553258754863813,"Mean of all models",34.2666666666667,NA,NA,"IL-Tel Aviv District
+Model: Mean of all models"
+"710","FR-Rhône-Alpes",2017,16,NA,NA,0.129602503495572,"Mean of all models",35.7595238095238,NA,NA,"FR-Rhône-Alpes
+Model: Mean of all models"
+"711","US-Virginia",2017,16,NA,NA,0.054249547920434,"Mean of all models",36.8666666666667,NA,NA,"US-Virginia
+Model: Mean of all models"
+"712","US-Tennessee",2017,16,NA,NA,0.00866893978383942,"Mean of all models",37.0095238095238,NA,NA,"US-Tennessee
+Model: Mean of all models"
+"713","BE-Flemish Region",2017,16,NA,NA,0.0605864596808969,"Mean of all models",38.65,NA,NA,"BE-Flemish Region
+Model: Mean of all models"
+"714","US-Arizona",2017,16,NA,NA,0.00632911392405063,"Mean of all models",39.5,NA,NA,"US-Arizona
+Model: Mean of all models"
+"715","ES-Catalonia",2017,16,NA,NA,0.0684647302904564,"Mean of all models",40.1666666666667,NA,NA,"ES-Catalonia
+Model: Mean of all models"
+"716","US-Utah",2017,16,NA,NA,0.0287698412698413,"Mean of all models",42,NA,NA,"US-Utah
+Model: Mean of all models"
+"717","DE-Oberbayern",2017,16,NA,NA,0.0578045932269366,"Mean of all models",42.8166666666667,NA,NA,"DE-Oberbayern
+Model: Mean of all models"
+"718","DK-Capital (DK)",2017,16,NA,NA,0.116073381452318,"Mean of all models",43.5428571428571,NA,NA,"DK-Capital (DK)
+Model: Mean of all models"
+"719","CA-Ontario",2017,16,NA,NA,0.0617001828153565,"Mean of all models",45.5833333333333,NA,NA,"CA-Ontario
+Model: Mean of all models"
+"720","US-Missouri",2017,16,NA,NA,0.0568544102019129,"Mean of all models",47.05,NA,NA,"US-Missouri
+Model: Mean of all models"
+"721","IT-Lombardy",2017,16,NA,NA,0.00173973556019485,"Mean of all models",47.9,NA,NA,"IT-Lombardy
+Model: Mean of all models"
+"722","CN-Beijing",2017,16,NA,NA,0.0357751277683135,"Mean of all models",48.9166666666667,NA,NA,"CN-Beijing
+Model: Mean of all models"
+"723","CH-Lake Geneva Region",2017,16,NA,NA,0.095503041421261,"Mean of all models",49.3190476190476,NA,NA,"CH-Lake Geneva Region
+Model: Mean of all models"
+"724","US-Wisconsin",2017,16,NA,NA,0.100603621730382,"Mean of all models",49.7,NA,NA,"US-Wisconsin
+Model: Mean of all models"
+"725","US-Colorado",2017,16,NA,NA,0.10014409221902,"Mean of all models",57.8333333333333,NA,NA,"US-Colorado
+Model: Mean of all models"
+"726","US-Georgia",2017,16,NA,NA,0.0349810913019989,"Mean of all models",61.7,NA,NA,"US-Georgia
+Model: Mean of all models"
+"727","GB-East of England",2017,16,NA,NA,0.09154752947078,"Mean of all models",66.45,NA,NA,"GB-East of England
+Model: Mean of all models"
+"728","GB-South East England",2017,16,NA,NA,0.0493027888446215,"Mean of all models",66.9333333333333,NA,NA,"GB-South East England
+Model: Mean of all models"
+"729","CH-Northwestern Switzerland",2017,16,NA,NA,0.129105952086935,"Mean of all models",67.4833333333333,NA,NA,"CH-Northwestern Switzerland
+Model: Mean of all models"
+"730","US-Michigan",2017,16,NA,NA,0.146998055420515,"Mean of all models",68.5666666666667,NA,NA,"US-Michigan
+Model: Mean of all models"
+"731","US-Minnesota",2017,16,NA,NA,0.151204819277108,"Mean of all models",69.1666666666667,NA,NA,"US-Minnesota
+Model: Mean of all models"
+"732","US-Illinois",2017,16,NA,NA,0.163265306122449,"Mean of all models",82.4833333333333,NA,NA,"US-Illinois
+Model: Mean of all models"
+"733","US-Indiana",2017,16,NA,NA,0.0257575757575758,"Mean of all models",82.5,NA,NA,"US-Indiana
+Model: Mean of all models"
+"734","US-Washington",2017,16,NA,NA,0.187547063253012,"Mean of all models",88.5333333333333,NA,NA,"US-Washington
+Model: Mean of all models"
+"735","CN-Shanghai",2017,16,NA,NA,0.080796353629171,"Mean of all models",96.9,NA,NA,"CN-Shanghai
+Model: Mean of all models"
+"736","US-Ohio",2017,16,NA,NA,0.0268780735967441,"Mean of all models",98.2833333333333,NA,NA,"US-Ohio
+Model: Mean of all models"
+"737","JP-Kansai region",2017,16,NA,NA,0.0356050677151595,"Mean of all models",114.45,NA,NA,"JP-Kansai region
+Model: Mean of all models"
+"738","US-Connecticut",2017,16,NA,NA,0.364984751871361,"Mean of all models",120.233333333333,NA,NA,"US-Connecticut
+Model: Mean of all models"
+"739","US-North Carolina",2017,16,NA,NA,0.125834334206226,"Mean of all models",120.92619047619,NA,NA,"US-North Carolina
+Model: Mean of all models"
+"740","FR-Île-de-France",2017,16,NA,NA,0.0422133457733201,"Mean of all models",122.492857142857,NA,NA,"FR-Île-de-France
+Model: Mean of all models"
+"741","US-Texas",2017,16,NA,NA,0.0597482364388227,"Mean of all models",137.033333333333,NA,NA,"US-Texas
+Model: Mean of all models"
+"742","KR-Capital Region (KR)",2017,16,NA,NA,0.0211791642816256,"Mean of all models",145.583333333333,NA,NA,"KR-Capital Region (KR)
+Model: Mean of all models"
+"743","US-Florida",2017,16,NA,NA,0.0832981864192324,"Mean of all models",158.066666666667,NA,NA,"US-Florida
+Model: Mean of all models"
+"744","US-Maryland",2017,16,NA,NA,0.0792266679954158,"Mean of all models",167.241666666667,NA,NA,"US-Maryland
+Model: Mean of all models"
+"745","JP-Southern-Kanto",2017,16,NA,NA,0.0303980241284317,"Mean of all models",175.45,NA,NA,"JP-Southern-Kanto
+Model: Mean of all models"
+"746","US-New York",2017,16,NA,NA,0.170089578326415,"Mean of all models",228.85,NA,NA,"US-New York
+Model: Mean of all models"
+"747","US-Pennsylvania",2017,16,NA,NA,0.130464097642601,"Mean of all models",241.892857142857,NA,NA,"US-Pennsylvania
+Model: Mean of all models"
+"748","US-New Jersey",2017,16,NA,NA,0.128099173553719,"Mean of all models",248.05,NA,NA,"US-New Jersey
+Model: Mean of all models"
+"749","US-Massachusetts",2017,16,NA,NA,0.242336209458472,"Mean of all models",472.692857142857,NA,NA,"US-Massachusetts
+Model: Mean of all models"
+"750","US-California",2017,16,NA,NA,0.175842788343809,"Mean of all models",845.902380952381,NA,NA,"US-California
+Model: Mean of all models"

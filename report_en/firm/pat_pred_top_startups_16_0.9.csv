@@ -1,0 +1,481 @@
+"","organization","p_year","iso","Up_reg_label","num","pub_year","tech_field","no_top_pat","top_pat","rel_class","model","ges_pred_pat","organization_ctry","country","Firm"
+"1","epizyme",2010,"US","Massachusetts",53,2017,16,8,1,0.111111111111111,"Neural
+Network 1",9,"epizyme (US)","United States","epizyme
+Country: United States
+Region: Massachusetts
+Model: Neural Network 1"
+"2","epizyme",2010,"US","Massachusetts",53,2017,16,7,2,0.222222222222222,"Neural
+Network 2",9,"epizyme (US)","United States","epizyme
+Country: United States
+Region: Massachusetts
+Model: Neural Network 2"
+"3","epizyme",2010,"US","Massachusetts",53,2017,16,8,1,0.111111111111111,"Random
+Forest 1",9,"epizyme (US)","United States","epizyme
+Country: United States
+Region: Massachusetts
+Model: Random Forest 1"
+"4","epizyme",2010,"US","Massachusetts",53,2017,16,9,0,0,"Random
+Forest 2",9,"epizyme (US)","United States","epizyme
+Country: United States
+Region: Massachusetts
+Model: Random Forest 2"
+"5","moderna",2010,"US","Massachusetts",48,2017,16,0,29,1,"Neural
+Network 1",29,"moderna (US)","United States","moderna
+Country: United States
+Region: Massachusetts
+Model: Neural Network 1"
+"6","moderna",2010,"US","Massachusetts",48,2017,16,2,27,0.931034482758621,"Neural
+Network 2",29,"moderna (US)","United States","moderna
+Country: United States
+Region: Massachusetts
+Model: Neural Network 2"
+"7","moderna",2010,"US","Massachusetts",48,2017,16,6,23,0.793103448275862,"Random
+Forest 1",29,"moderna (US)","United States","moderna
+Country: United States
+Region: Massachusetts
+Model: Random Forest 1"
+"8","moderna",2010,"US","Massachusetts",48,2017,16,5,24,0.827586206896552,"Random
+Forest 2",29,"moderna (US)","United States","moderna
+Country: United States
+Region: Massachusetts
+Model: Random Forest 2"
+"9","crystal pharmatech",2013,"CN","Jiangsu",21,2017,16,12,0,0,"Neural
+Network 1",12,"crystal pharmatech (CN)","China","crystal pharmatech
+Country: China
+Region: Jiangsu
+Model: Neural Network 1"
+"10","crystal pharmatech",2013,"CN","Jiangsu",21,2017,16,12,0,0,"Neural
+Network 2",12,"crystal pharmatech (CN)","China","crystal pharmatech
+Country: China
+Region: Jiangsu
+Model: Neural Network 2"
+"11","crystal pharmatech",2013,"CN","Jiangsu",21,2017,16,12,0,0,"Random
+Forest 1",12,"crystal pharmatech (CN)","China","crystal pharmatech
+Country: China
+Region: Jiangsu
+Model: Random Forest 1"
+"12","crystal pharmatech",2013,"CN","Jiangsu",21,2017,16,12,0,0,"Random
+Forest 2",12,"crystal pharmatech (CN)","China","crystal pharmatech
+Country: China
+Region: Jiangsu
+Model: Random Forest 2"
+"13","4d",2011,"GB","Scotland",16,2017,16,0,11,1,"Neural
+Network 1",11,"4d (GB)","United Kingdom","4d
+Country: United Kingdom
+Region: Scotland
+Model: Neural Network 1"
+"14","4d",2011,"GB","Scotland",16,2017,16,2,9,0.818181818181818,"Neural
+Network 2",11,"4d (GB)","United Kingdom","4d
+Country: United Kingdom
+Region: Scotland
+Model: Neural Network 2"
+"15","4d",2011,"GB","Scotland",16,2017,16,4,7,0.636363636363636,"Random
+Forest 1",11,"4d (GB)","United Kingdom","4d
+Country: United Kingdom
+Region: Scotland
+Model: Random Forest 1"
+"16","4d",2011,"GB","Scotland",16,2017,16,5,6,0.545454545454545,"Random
+Forest 2",11,"4d (GB)","United Kingdom","4d
+Country: United Kingdom
+Region: Scotland
+Model: Random Forest 2"
+"17","calithera biosciences",2011,"US","California",14,2017,16,4,2,0.333333333333333,"Neural
+Network 1",6,"calithera biosciences (US)","United States","calithera biosciences
+Country: United States
+Region: California
+Model: Neural Network 1"
+"18","calithera biosciences",2011,"US","California",14,2017,16,6,0,0,"Neural
+Network 2",6,"calithera biosciences (US)","United States","calithera biosciences
+Country: United States
+Region: California
+Model: Neural Network 2"
+"19","calithera biosciences",2011,"US","California",14,2017,16,6,0,0,"Random
+Forest 1",6,"calithera biosciences (US)","United States","calithera biosciences
+Country: United States
+Region: California
+Model: Random Forest 1"
+"20","calithera biosciences",2011,"US","California",14,2017,16,6,0,0,"Random
+Forest 2",6,"calithera biosciences (US)","United States","calithera biosciences
+Country: United States
+Region: California
+Model: Random Forest 2"
+"21","aptinyx",2013,"US","Illinois",14,2017,16,7,0,0,"Neural
+Network 1",7,"aptinyx (US)","United States","aptinyx
+Country: United States
+Region: Illinois
+Model: Neural Network 1"
+"22","aptinyx",2013,"US","Illinois",14,2017,16,7,0,0,"Neural
+Network 2",7,"aptinyx (US)","United States","aptinyx
+Country: United States
+Region: Illinois
+Model: Neural Network 2"
+"23","aptinyx",2013,"US","Illinois",14,2017,16,7,0,0,"Random
+Forest 1",7,"aptinyx (US)","United States","aptinyx
+Country: United States
+Region: Illinois
+Model: Random Forest 1"
+"24","aptinyx",2013,"US","Illinois",14,2017,16,6,1,0.142857142857143,"Random
+Forest 2",7,"aptinyx (US)","United States","aptinyx
+Country: United States
+Region: Illinois
+Model: Random Forest 2"
+"25","lianyungang runzhong",2013,"CN","Jiangsu",14,2017,16,6,0,0,"Neural
+Network 1",6,"lianyungang runzhong (CN)","China","lianyungang runzhong
+Country: China
+Region: Jiangsu
+Model: Neural Network 1"
+"26","lianyungang runzhong",2013,"CN","Jiangsu",14,2017,16,6,0,0,"Neural
+Network 2",6,"lianyungang runzhong (CN)","China","lianyungang runzhong
+Country: China
+Region: Jiangsu
+Model: Neural Network 2"
+"27","lianyungang runzhong",2013,"CN","Jiangsu",14,2017,16,6,0,0,"Random
+Forest 1",6,"lianyungang runzhong (CN)","China","lianyungang runzhong
+Country: China
+Region: Jiangsu
+Model: Random Forest 1"
+"28","lianyungang runzhong",2013,"CN","Jiangsu",14,2017,16,6,0,0,"Random
+Forest 2",6,"lianyungang runzhong (CN)","China","lianyungang runzhong
+Country: China
+Region: Jiangsu
+Model: Random Forest 2"
+"29","lysosomal",2014,"US","Massachusetts",14,2017,16,7,0,0,"Neural
+Network 1",7,"lysosomal (US)","United States","lysosomal
+Country: United States
+Region: Massachusetts
+Model: Neural Network 1"
+"30","lysosomal",2014,"US","Massachusetts",14,2017,16,7,0,0,"Neural
+Network 2",7,"lysosomal (US)","United States","lysosomal
+Country: United States
+Region: Massachusetts
+Model: Neural Network 2"
+"31","lysosomal",2014,"US","Massachusetts",14,2017,16,7,0,0,"Random
+Forest 1",7,"lysosomal (US)","United States","lysosomal
+Country: United States
+Region: Massachusetts
+Model: Random Forest 1"
+"32","lysosomal",2014,"US","Massachusetts",14,2017,16,6,1,0.142857142857143,"Random
+Forest 2",7,"lysosomal (US)","United States","lysosomal
+Country: United States
+Region: Massachusetts
+Model: Random Forest 2"
+"33","therapeuticsmd",2011,"US","Florida",13,2017,16,0,7,1,"Neural
+Network 1",7,"therapeuticsmd (US)","United States","therapeuticsmd
+Country: United States
+Region: Florida
+Model: Neural Network 1"
+"34","therapeuticsmd",2011,"US","Florida",13,2017,16,0,7,1,"Neural
+Network 2",7,"therapeuticsmd (US)","United States","therapeuticsmd
+Country: United States
+Region: Florida
+Model: Neural Network 2"
+"35","therapeuticsmd",2011,"US","Florida",13,2017,16,0,7,1,"Random
+Forest 1",7,"therapeuticsmd (US)","United States","therapeuticsmd
+Country: United States
+Region: Florida
+Model: Random Forest 1"
+"36","therapeuticsmd",2011,"US","Florida",13,2017,16,0,7,1,"Random
+Forest 2",7,"therapeuticsmd (US)","United States","therapeuticsmd
+Country: United States
+Region: Florida
+Model: Random Forest 2"
+"37","medshine discovery",2013,"CN","Jiangsu",12,2017,16,10,0,0,"Neural
+Network 1",10,"medshine discovery (CN)","China","medshine discovery
+Country: China
+Region: Jiangsu
+Model: Neural Network 1"
+"38","medshine discovery",2013,"CN","Jiangsu",12,2017,16,10,0,0,"Neural
+Network 2",10,"medshine discovery (CN)","China","medshine discovery
+Country: China
+Region: Jiangsu
+Model: Neural Network 2"
+"39","medshine discovery",2013,"CN","Jiangsu",12,2017,16,10,0,0,"Random
+Forest 1",10,"medshine discovery (CN)","China","medshine discovery
+Country: China
+Region: Jiangsu
+Model: Random Forest 1"
+"40","medshine discovery",2013,"CN","Jiangsu",12,2017,16,10,0,0,"Random
+Forest 2",10,"medshine discovery (CN)","China","medshine discovery
+Country: China
+Region: Jiangsu
+Model: Random Forest 2"
+"41","anticep and axsome",2011,"US","New York",9,2017,16,10,17,0.62962962962963,"Neural
+Network 1",27,"anticep and axsome (US)","United States","anticep and axsome
+Country: United States
+Region: New York
+Model: Neural Network 1"
+"42","anticep and axsome",2011,"US","New York",9,2017,16,10,17,0.62962962962963,"Neural
+Network 2",27,"anticep and axsome (US)","United States","anticep and axsome
+Country: United States
+Region: New York
+Model: Neural Network 2"
+"43","anticep and axsome",2011,"US","New York",9,2017,16,4,23,0.851851851851852,"Random
+Forest 1",27,"anticep and axsome (US)","United States","anticep and axsome
+Country: United States
+Region: New York
+Model: Random Forest 1"
+"44","anticep and axsome",2011,"US","New York",9,2017,16,5,22,0.814814814814815,"Random
+Forest 2",27,"anticep and axsome (US)","United States","anticep and axsome
+Country: United States
+Region: New York
+Model: Random Forest 2"
+"45","axim biotechnologies",2014,"US","New York",9,2017,16,8,0,0,"Neural
+Network 1",8,"axim biotechnologies (US)","United States","axim biotechnologies
+Country: United States
+Region: New York
+Model: Neural Network 1"
+"46","axim biotechnologies",2014,"US","New York",9,2017,16,8,0,0,"Neural
+Network 2",8,"axim biotechnologies (US)","United States","axim biotechnologies
+Country: United States
+Region: New York
+Model: Neural Network 2"
+"47","axim biotechnologies",2014,"US","New York",9,2017,16,8,0,0,"Random
+Forest 1",8,"axim biotechnologies (US)","United States","axim biotechnologies
+Country: United States
+Region: New York
+Model: Random Forest 1"
+"48","axim biotechnologies",2014,"US","New York",9,2017,16,8,0,0,"Random
+Forest 2",8,"axim biotechnologies (US)","United States","axim biotechnologies
+Country: United States
+Region: New York
+Model: Random Forest 2"
+"49","ovid",2014,"US","New York",7,2017,16,9,0,0,"Neural
+Network 1",9,"ovid (US)","United States","ovid
+Country: United States
+Region: New York
+Model: Neural Network 1"
+"50","ovid",2014,"US","New York",7,2017,16,9,0,0,"Neural
+Network 2",9,"ovid (US)","United States","ovid
+Country: United States
+Region: New York
+Model: Neural Network 2"
+"51","ovid",2014,"US","New York",7,2017,16,9,0,0,"Random
+Forest 1",9,"ovid (US)","United States","ovid
+Country: United States
+Region: New York
+Model: Random Forest 1"
+"52","ovid",2014,"US","New York",7,2017,16,9,0,0,"Random
+Forest 2",9,"ovid (US)","United States","ovid
+Country: United States
+Region: New York
+Model: Random Forest 2"
+"53","loxo oncology",2014,"US","Connecticut",6,2017,16,0,6,1,"Neural
+Network 1",6,"loxo oncology (US)","United States","loxo oncology
+Country: United States
+Region: Connecticut
+Model: Neural Network 1"
+"54","loxo oncology",2014,"US","Connecticut",6,2017,16,1,5,0.833333333333333,"Neural
+Network 2",6,"loxo oncology (US)","United States","loxo oncology
+Country: United States
+Region: Connecticut
+Model: Neural Network 2"
+"55","loxo oncology",2014,"US","Connecticut",6,2017,16,1,5,0.833333333333333,"Random
+Forest 1",6,"loxo oncology (US)","United States","loxo oncology
+Country: United States
+Region: Connecticut
+Model: Random Forest 1"
+"56","loxo oncology",2014,"US","Connecticut",6,2017,16,1,5,0.833333333333333,"Random
+Forest 2",6,"loxo oncology (US)","United States","loxo oncology
+Country: United States
+Region: Connecticut
+Model: Random Forest 2"
+"57","shenzhen targetrx",2016,"CN","Guangdong",6,2017,16,7,0,0,"Neural
+Network 1",7,"shenzhen targetrx (CN)","China","shenzhen targetrx
+Country: China
+Region: Guangdong
+Model: Neural Network 1"
+"58","shenzhen targetrx",2016,"CN","Guangdong",6,2017,16,7,0,0,"Neural
+Network 2",7,"shenzhen targetrx (CN)","China","shenzhen targetrx
+Country: China
+Region: Guangdong
+Model: Neural Network 2"
+"59","shenzhen targetrx",2016,"CN","Guangdong",6,2017,16,7,0,0,"Random
+Forest 1",7,"shenzhen targetrx (CN)","China","shenzhen targetrx
+Country: China
+Region: Guangdong
+Model: Random Forest 1"
+"60","shenzhen targetrx",2016,"CN","Guangdong",6,2017,16,7,0,0,"Random
+Forest 2",7,"shenzhen targetrx (CN)","China","shenzhen targetrx
+Country: China
+Region: Guangdong
+Model: Random Forest 2"
+"61","respivant",2016,"US","California",6,2017,16,0,6,1,"Neural
+Network 1",6,"respivant (US)","United States","respivant
+Country: United States
+Region: California
+Model: Neural Network 1"
+"62","respivant",2016,"US","California",6,2017,16,0,6,1,"Neural
+Network 2",6,"respivant (US)","United States","respivant
+Country: United States
+Region: California
+Model: Neural Network 2"
+"63","respivant",2016,"US","California",6,2017,16,0,6,1,"Random
+Forest 1",6,"respivant (US)","United States","respivant
+Country: United States
+Region: California
+Model: Random Forest 1"
+"64","respivant",2016,"US","California",6,2017,16,0,6,1,"Random
+Forest 2",6,"respivant (US)","United States","respivant
+Country: United States
+Region: California
+Model: Random Forest 2"
+"65","syneurx taiwan",2016,"TW","Chinese Taipei",4,2017,16,8,0,0,"Neural
+Network 1",8,"syneurx taiwan (TW)","Taiwan","syneurx taiwan
+Country: Taiwan
+Region: Chinese Taipei
+Model: Neural Network 1"
+"66","syneurx taiwan",2016,"TW","Chinese Taipei",4,2017,16,8,0,0,"Neural
+Network 2",8,"syneurx taiwan (TW)","Taiwan","syneurx taiwan
+Country: Taiwan
+Region: Chinese Taipei
+Model: Neural Network 2"
+"67","syneurx taiwan",2016,"TW","Chinese Taipei",4,2017,16,8,0,0,"Random
+Forest 1",8,"syneurx taiwan (TW)","Taiwan","syneurx taiwan
+Country: Taiwan
+Region: Chinese Taipei
+Model: Random Forest 1"
+"68","syneurx taiwan",2016,"TW","Chinese Taipei",4,2017,16,8,0,0,"Random
+Forest 2",8,"syneurx taiwan (TW)","Taiwan","syneurx taiwan
+Country: Taiwan
+Region: Chinese Taipei
+Model: Random Forest 2"
+"69","frequency",2016,"US","Massachusetts",1,2017,16,9,0,0,"Neural
+Network 1",9,"frequency (US)","United States","frequency
+Country: United States
+Region: Massachusetts
+Model: Neural Network 1"
+"70","frequency",2016,"US","Massachusetts",1,2017,16,9,0,0,"Neural
+Network 2",9,"frequency (US)","United States","frequency
+Country: United States
+Region: Massachusetts
+Model: Neural Network 2"
+"71","frequency",2016,"US","Massachusetts",1,2017,16,9,0,0,"Random
+Forest 1",9,"frequency (US)","United States","frequency
+Country: United States
+Region: Massachusetts
+Model: Random Forest 1"
+"72","frequency",2016,"US","Massachusetts",1,2017,16,9,0,0,"Random
+Forest 2",9,"frequency (US)","United States","frequency
+Country: United States
+Region: Massachusetts
+Model: Random Forest 2"
+"73","beigene",2011,"CN","",1,2017,16,6,1,0.142857142857143,"Neural
+Network 1",7,"beigene (CN)","China","beigene
+Country: China
+Region: 
+Model: Neural Network 1"
+"74","beigene",2011,"CN","",1,2017,16,5,2,0.285714285714286,"Neural
+Network 2",7,"beigene (CN)","China","beigene
+Country: China
+Region: 
+Model: Neural Network 2"
+"75","beigene",2011,"CN","",1,2017,16,5,2,0.285714285714286,"Random
+Forest 1",7,"beigene (CN)","China","beigene
+Country: China
+Region: 
+Model: Random Forest 1"
+"76","beigene",2011,"CN","",1,2017,16,5,2,0.285714285714286,"Random
+Forest 2",7,"beigene (CN)","China","beigene
+Country: China
+Region: 
+Model: Random Forest 2"
+"77","evox",2016,"GB","South East England",1,2017,16,6,0,0,"Neural
+Network 1",6,"evox (GB)","United Kingdom","evox
+Country: United Kingdom
+Region: South East England
+Model: Neural Network 1"
+"78","evox",2016,"GB","South East England",1,2017,16,6,0,0,"Neural
+Network 2",6,"evox (GB)","United Kingdom","evox
+Country: United Kingdom
+Region: South East England
+Model: Neural Network 2"
+"79","evox",2016,"GB","South East England",1,2017,16,6,0,0,"Random
+Forest 1",6,"evox (GB)","United Kingdom","evox
+Country: United Kingdom
+Region: South East England
+Model: Random Forest 1"
+"80","evox",2016,"GB","South East England",1,2017,16,6,0,0,"Random
+Forest 2",6,"evox (GB)","United Kingdom","evox
+Country: United Kingdom
+Region: South East England
+Model: Random Forest 2"
+"81","calithera biosciences",NA,NA,"California",NA,2017,16,NA,NA,0.0833333333333333,"Mean",6,"calithera biosciences (US)","United States","calithera biosciences
+Country: United States
+Region: California
+Model: Mean of all models"
+"82","respivant",NA,NA,"California",NA,2017,16,NA,NA,1,"Mean",6,"respivant (US)","United States","respivant
+Country: United States
+Region: California
+Model: Mean of all models"
+"83","loxo oncology",NA,NA,"Connecticut",NA,2017,16,NA,NA,0.875,"Mean",6,"loxo oncology (US)","United States","loxo oncology
+Country: United States
+Region: Connecticut
+Model: Mean of all models"
+"84","lianyungang runzhong",NA,NA,"Jiangsu",NA,2017,16,NA,NA,0,"Mean",6,"lianyungang runzhong (CN)","China","lianyungang runzhong
+Country: China
+Region: Jiangsu
+Model: Mean of all models"
+"85","evox",NA,NA,"South East England",NA,2017,16,NA,NA,0,"Mean",6,"evox (GB)","United Kingdom","evox
+Country: United Kingdom
+Region: South East England
+Model: Mean of all models"
+"86","beigene",NA,NA,"",NA,2017,16,NA,NA,0.25,"Mean",7,"beigene (CN)","China","beigene
+Country: China
+Region: 
+Model: Mean of all models"
+"87","therapeuticsmd",NA,NA,"Florida",NA,2017,16,NA,NA,1,"Mean",7,"therapeuticsmd (US)","United States","therapeuticsmd
+Country: United States
+Region: Florida
+Model: Mean of all models"
+"88","shenzhen targetrx",NA,NA,"Guangdong",NA,2017,16,NA,NA,0,"Mean",7,"shenzhen targetrx (CN)","China","shenzhen targetrx
+Country: China
+Region: Guangdong
+Model: Mean of all models"
+"89","aptinyx",NA,NA,"Illinois",NA,2017,16,NA,NA,0.0357142857142857,"Mean",7,"aptinyx (US)","United States","aptinyx
+Country: United States
+Region: Illinois
+Model: Mean of all models"
+"90","lysosomal",NA,NA,"Massachusetts",NA,2017,16,NA,NA,0.0357142857142857,"Mean",7,"lysosomal (US)","United States","lysosomal
+Country: United States
+Region: Massachusetts
+Model: Mean of all models"
+"91","syneurx taiwan",NA,NA,"Chinese Taipei",NA,2017,16,NA,NA,0,"Mean",8,"syneurx taiwan (TW)","Taiwan","syneurx taiwan
+Country: Taiwan
+Region: Chinese Taipei
+Model: Mean of all models"
+"92","axim biotechnologies",NA,NA,"New York",NA,2017,16,NA,NA,0,"Mean",8,"axim biotechnologies (US)","United States","axim biotechnologies
+Country: United States
+Region: New York
+Model: Mean of all models"
+"93","epizyme",NA,NA,"Massachusetts",NA,2017,16,NA,NA,0.111111111111111,"Mean",9,"epizyme (US)","United States","epizyme
+Country: United States
+Region: Massachusetts
+Model: Mean of all models"
+"94","frequency",NA,NA,"Massachusetts",NA,2017,16,NA,NA,0,"Mean",9,"frequency (US)","United States","frequency
+Country: United States
+Region: Massachusetts
+Model: Mean of all models"
+"95","ovid",NA,NA,"New York",NA,2017,16,NA,NA,0,"Mean",9,"ovid (US)","United States","ovid
+Country: United States
+Region: New York
+Model: Mean of all models"
+"96","medshine discovery",NA,NA,"Jiangsu",NA,2017,16,NA,NA,0,"Mean",10,"medshine discovery (CN)","China","medshine discovery
+Country: China
+Region: Jiangsu
+Model: Mean of all models"
+"97","4d",NA,NA,"Scotland",NA,2017,16,NA,NA,0.75,"Mean",11,"4d (GB)","United Kingdom","4d
+Country: United Kingdom
+Region: Scotland
+Model: Mean of all models"
+"98","crystal pharmatech",NA,NA,"Jiangsu",NA,2017,16,NA,NA,0,"Mean",12,"crystal pharmatech (CN)","China","crystal pharmatech
+Country: China
+Region: Jiangsu
+Model: Mean of all models"
+"99","anticep and axsome",NA,NA,"New York",NA,2017,16,NA,NA,0.731481481481482,"Mean",27,"anticep and axsome (US)","United States","anticep and axsome
+Country: United States
+Region: New York
+Model: Mean of all models"
+"100","moderna",NA,NA,"Massachusetts",NA,2017,16,NA,NA,0.887931034482759,"Mean",29,"moderna (US)","United States","moderna
+Country: United States
+Region: Massachusetts
+Model: Mean of all models"
