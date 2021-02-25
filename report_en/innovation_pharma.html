@@ -44,12 +44,19 @@
 
 
 
+<head>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" type="text/css" rel="stylesheet"> <link rel="stylesheet" href="style.css" type="text/css" />
 <div class="container-fluid main-container">
+
 <script>
-      var frameElement = document.getElementById("frame-id");
-    frameElement.contentWindow.location.href = frameElement.src;
+    var frameElement1 = document.getElementById("ctry");
+    frameElement1.contentWindow.location.href = frameElement1.src;
 </script>
+<script>
+    var frameElement2 = document.getElementById("reg");
+    frameElement2.contentWindow.location.href = frameElement2.src;
+</script>
+</head>
 <div id="whats-next-the-swiss-pharmaceutical-industry-in-the-international-innovation-race" class="section level2">
 <h2><strong>What’s next? The Swiss Pharmaceutical Industry in the International Innovation Race</strong></h2>
 <p><br></p>
@@ -85,11 +92,13 @@ In what follows, we focus on the mean of our calculated shares of predicted top 
 <hr class="hr_red">
 <div id="quality-of-the-innovation-pipeline-of-countries-the-past-and-trends-for-the-future" class="section level4">
 <h4><strong>Quality of the innovation pipeline of countries: The Past and trends for the future</strong></h4>
-<iframe width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_ctry/#ctry_pat">
+<div>
+<iframe id="ctry" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_ctry/#ctry_pat">
 <p>
 Your browser does not support iframes
 </p>
 </iframe>
+</div>
 <p><span style="font-size:0.8em"><em>Sources and notes: Own estimations of the CIEB based on data from the <a href="https://www.uspto.gov/" target ="blank">USPTO</a> and the <a href="http://www.oecd.org/sti/inno/intellectual-property-statistics-and-analysis.htm" target ="blank">OECD</a>. The size of the dots indicates the number of recently published patents.</em></span></p>
 <p><br></p>
 <p>Between 2007 and 2015, newly published patents in the United States and the United Kingdom generally had the largest share of top patents. For most of the years in this time window, Switzerland has been positioned mainly close to Germany in the upper midfield, with around 10 percent of its annually developed pharmaceutical patents being top patents. China, in turn, has been the one with initially the lowest but a steadily increasing share of top patents. At the same time, Japan has witnessed a steady decline in its share of top patents and has been overtaken by China. Thus, the quality of the innovation pipeline has increased for China, but it has apparently decreased for Japan. So much about the past. Let us now turn to predictions for the nearer future, presented in our graph by the colored dots.</p>
@@ -113,11 +122,13 @@ For recently published pharmaceutical patents, our predictions imply that the co
 <hr class="hr_red">
 <div id="quality-of-the-innovation-pipeline-of-regions" class="section level4">
 <h4><strong>Quality of the innovation pipeline of regions</strong></h4>
-<iframe width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_ctry/#regio_pat">
+<div>
+<iframe id="reg" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_ctry/#regio_pat">
 <p>
 Your browser does not support iframes
 </p>
 </iframe>
+</div>
 <p><span style="font-size:0.8em"><em>Sources and notes: Own estimations of the CIEB based on data from the <a href="https://www.uspto.gov/" target ="blank">USPTO</a> and the <a href="http://www.oecd.org/sti/inno/intellectual-property-statistics-and-analysis.htm" target ="blank">OECD</a>. The size of the dots indicates the number of recently published patents.</em></span></p>
 <p><br></p>
 <p>First, we note that leading U.S. pharmaceutical destinations had a higher share of top patents in the past than the two most important Swiss pharmaceutical regions, Further, the quality of the innovation pipeline seems to have even steadily increased in regions like California, Massachusetts, and most of all Connecticut, home of the renowned Yale university and a research facility of Pfizer. Based on our algorithms, the quality gap of the innovation pipeline between the leading U.S regions and the leading Swiss ones could likely become wider in the near future. The region of Shanghai is another interesting case. Our previous findings suggested that although China has witnessed a remarkable increase in the overall quality of its innovation pipeline, it is still lagging behind the top-performing countries. However, the region of Shanghai seems to have closed the quality gap to Western pharmaceutical clusters already (i.e., by around 2011). So, even if China as a whole has not achieved the same innovation quality as Western regions yet, the Shanghai region has. This finding illustrates well why it can be important to not only look at countries but also at regions.</p>
@@ -132,11 +143,13 @@ Your browser does not support iframes
 <hr class="hr_red">
 <div id="quality-of-the-innovation-pipeline-of-the-big-pharmaceutical-players" class="section level4">
 <h4><strong>Quality of the innovation pipeline of the big pharmaceutical players</strong></h4>
-<iframe width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_firm/#firm_id">
+<div>
+<iframe id="firm" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_firm/#firm_id">
 <p>
 Your browser does not support iframes
 </p>
 </iframe>
+</div>
 <p><span style="font-size:0.8em"><em>Source: Own estimations of the CIEB based on data from the <a href="https://www.uspto.gov/" target ="blank">USPTO</a> and the <a href="http://www.oecd.org/sti/inno/intellectual-property-statistics-and-analysis.htm" target ="blank">OECD</a>.</em></span></p>
 <p><br></p>
 <p>From a Swiss point of view, it is interesting to first take a look at the country’s two pharmaceutical giants Roche and Novartis. Recently filed patents from both companies are highly positioned and among the best worldwide. For the near future, Roche’s recent innovations could be more highly ranked than those of Novartis. This pattern is showing up in nearly all of our trained prediction models. This was the other way round in the past few years, where Novartis’ share of top innovations among its newly developed patents was larger compared to Roche.</p>
@@ -148,11 +161,13 @@ Your browser does not support iframes
 </div>
 <div id="quality-of-recent-pharma-patents-of-startups" class="section level4">
 <h4><strong>Quality of recent pharma patents of startups</strong></h4>
-<iframe width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_firm/#startup_id">
+<div>
+<iframe id="startup" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_firm/#startup_id">
 <p>
 Your browser does not support iframes
 </p>
 </iframe>
+</div>
 <p><span style="font-size:0.8em"><em>Source: Own estimations of the CIEB based on data from the <a href="https://www.uspto.gov/" target ="blank">USPTO</a> and the <a href="http://www.oecd.org/sti/inno/intellectual-property-statistics-and-analysis.htm" target ="blank">OECD</a>.</em></span></p>
 <p><br></p>
 <p>In addition, let us take a look at the pipeline of Moderna, a U.S. pharmaceutical company that is currently making huge headlines in the media due to the development of a Covid-19 vaccine. According to our algorithms, Moderna is well positioned with the entirety of their most recent patents. In fact, our prediction models rate Moderna’s overall quality of recent patents among the best and assign it a high value.</p>

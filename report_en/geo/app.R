@@ -1,6 +1,5 @@
 library(shiny)
 library(ggplot2)
-library(RColorBrewer)
 library(shinyWidgets)
 library(fst)
 library(plotly)
@@ -67,8 +66,10 @@ mainPanel(plotlyOutput("ctry_pat_plot", width = "100%"))),
                 br(),  
 
 # Choose regio and model
-fluidRow( pickerInput(
-               inputId = "regio_pat", 
+fluidRow( column = 12,
+          id = "regio_pat",
+           pickerInput(
+               inputId = "regio_pat",
                label = "Choose a region",
                choices = sort(unique(pred_agg_regio$regio)), 
                selected = c("CH-Northwestern Switzerland", "CH-Lake Geneva Region", "CN-Shanghai", "US-California", "US-Massachusetts", "US-Connecticut"), 
