@@ -113,9 +113,11 @@ ui <- fluidPage(
 
 
 # Define server 
-server <- function(input, output) {
+server <- function(input, output, session) {
     
-    # Coutry-pat-plot
+    desc <- reactive({ifelse(session$clientData$pixelratio > 2, "2020\n(today)", "2020 (today)")})
+    
+    # Firm-pat-plot
     dat_set <-  reactive({filter(pred_agg_firm, pub_year > 2005 & model %in% c("past", input$model) & organization_ctry %in% input$firm_pat)})
     
     # make the plot for firms
@@ -133,7 +135,7 @@ server <- function(input, output) {
                              color="black") + 
                     ggplot2::annotate(geom="text", x=2017, y=round(max(dat_set()$rel_class), 2) + 0.04, label="Predictions",
                              color="black") + 
-                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", "today (2020)")) +
+                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", desc())) +
                     scale_y_continuous(breaks = seq(0, round(max(dat_set()$rel_class), 2) + 0.05, 0.05), limits = c(0, max(dat_set()$rel_class + 0.05))) +  
                     # geom_vline(xintercept = 2015, linetype="dotted") +
                     theme(axis.title = element_text(face="bold",size = 10),

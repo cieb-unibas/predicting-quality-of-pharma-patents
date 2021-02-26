@@ -5,9 +5,9 @@ account: cieb
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3242948
-bundleId: 4271726
+bundleId: 4274538
 url: https://cieb.shinyapps.io/cit_pred_firm/
-when: 1614272309.75472
+when: 1614329170.86445
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: pat_pred_top_firm_16_0.9.csv|pat_pred_top_startups_16_0.9.csv

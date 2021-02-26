@@ -23,7 +23,7 @@ ui <- fluidPage(
    fluidRow(column = 12,
             id = "ctry_pat", 
                             pickerInput(
-                                inputId = "ctry_pat", 
+                                inputId = "ctry_pat_input", 
                                 label = "Choose a country",
                                 choices = unique(sort(pred_agg_ctry$country)), 
                                 selected = c("China", "Germany", "Switzerland", "United States", "Japan", "United Kingdom"), 
@@ -69,7 +69,7 @@ mainPanel(plotlyOutput("ctry_pat_plot", width = "100%"))),
 fluidRow( column = 12,
           id = "regio_pat",
            pickerInput(
-               inputId = "regio_pat",
+               inputId = "regio_pat_input",
                label = "Choose a region",
                choices = sort(unique(pred_agg_regio$regio)), 
                selected = c("CH-Northwestern Switzerland", "CH-Lake Geneva Region", "CN-Shanghai", "US-California", "US-Massachusetts", "US-Connecticut"), 
@@ -112,10 +112,12 @@ br()))
 
 
 # Define server 
-server <- function(input, output) {
-    
+server <- function(input, output, session) {
+
+    desc <- reactive({ifelse(session$clientData$pixelratio > 2, "2020\n(today)", "2020 (today)")})
+
     # Coutry-pat-plot
-    dat_set <-  reactive({filter(pred_agg_ctry, pub_year > 2005 & model %in% c("past", input$model) & country %in% input$ctry_pat)})
+    dat_set <-  reactive({filter(pred_agg_ctry, pub_year > 2005 & model %in% c("past", input$model) & country %in% input$ctry_pat_input)})
     
     # make the plot
     output$ctry_pat_plot <- renderPlotly({
@@ -132,7 +134,7 @@ server <- function(input, output) {
                              color="black") + 
                     ggplot2::annotate(geom="text", x=2017, y=round(max(dat_set()$rel_class), 2) + 0.04, label="Predictions",
                              color="black") + 
-                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", "today (2020)")) +
+                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", desc())) +
                     scale_y_continuous(breaks = seq(0, round(max(dat_set()$rel_class), 2) + 0.05, 0.05), limits = c(0, max(dat_set()$rel_class + 0.05))) +  
                     # geom_vline(xintercept = 2015, linetype="dotted") +
                     theme_bw() +
@@ -144,8 +146,8 @@ server <- function(input, output) {
                 layout(yaxis = list(fixedrange=T),
                        legend = list(orientation = "h", y = -0.3)) 
             
-            lapply(seq(length(input$ctry_pat) + 1, (1+length(input$model))*length(input$ctry_pat)), function(y) p$x$data[[y]]$showlegend <<- FALSE)
-            lapply(seq(1, length(input$ctry_pat)), function(y) p$x$data[[y]]$name <<- gsub(paste(c("past", "[//(//)]", "\\,"), collapse = "|"), "", p$x$data[[y]]$name))
+            lapply(seq(length(input$ctry_pat_input) + 1, (1+length(input$model))*length(input$ctry_pat_input)), function(y) p$x$data[[y]]$showlegend <<- FALSE)
+            lapply(seq(1, length(input$ctry_pat_input)), function(y) p$x$data[[y]]$name <<- gsub(paste(c("past", "[//(//)]", "\\,"), collapse = "|"), "", p$x$data[[y]]$name))
             
             p
         } else {}
@@ -153,7 +155,7 @@ server <- function(input, output) {
     
     
     # regio-pat-plot
-    dat_set_regio <-  reactive({filter(pred_agg_regio, pub_year > 2005 & model %in% c("past", input$regio_model) & regio %in% input$regio_pat)})
+    dat_set_regio <-  reactive({filter(pred_agg_regio, pub_year > 2005 & model %in% c("past", input$regio_model) & regio %in% input$regio_pat_input)})
     
     # make the plot
     output$regio_pat_plot <- renderPlotly({
@@ -170,7 +172,7 @@ server <- function(input, output) {
                                color="black") + 
                     ggplot2::annotate(geom="text", x=2017, y=round(max(dat_set_regio()$rel_class), 2) + 0.04, label="Predictions",
                              color="black") + 
-                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", "today (2020)")) +
+                    scale_x_continuous(limits = c(2007, 2018), breaks = c(2005, 2010, 2015, 2017), labels = c("2005", "2010", "2015", desc())) +
                     scale_y_continuous(breaks = seq(0, round(max(dat_set_regio()$rel_class), 2) + 0.05, 0.05), limits = c(0, max(dat_set_regio()$rel_class + 0.05))) +  
                     # geom_vline(xintercept = 2015, linetype="dotted") +
                     theme_bw() +
@@ -181,8 +183,8 @@ server <- function(input, output) {
                 layout(yaxis = list(fixedrange=T),
                       legend = list(orientation = "h", y = -0.32, showlegend = F)) 
        
-        lapply(seq(length(input$regio_pat) + 1, (1+length(input$regio_model))*length(input$regio_pat)), function(y) p_1$x$data[[y]]$showlegend <<- FALSE)
-        lapply(seq(1, length(input$regio_pat)), function(y) p_1$x$data[[y]]$name <<- gsub(paste(c("past", "[//(//)]", "\\,"), collapse = "|"), "", p_1$x$data[[y]]$name))
+        lapply(seq(length(input$regio_pat_input) + 1, (1+length(input$regio_model))*length(input$regio_pat_input)), function(y) p_1$x$data[[y]]$showlegend <<- FALSE)
+        lapply(seq(1, length(input$regio_pat_input)), function(y) p_1$x$data[[y]]$name <<- gsub(paste(c("past", "[//(//)]", "\\,"), collapse = "|"), "", p_1$x$data[[y]]$name))
         
         p_1
          

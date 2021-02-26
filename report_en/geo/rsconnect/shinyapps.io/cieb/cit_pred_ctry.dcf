@@ -5,9 +5,9 @@ account: cieb
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3242865
-bundleId: 4271819
+bundleId: 4274517
 url: https://cieb.shinyapps.io/cit_pred_ctry/
-when: 1614273631.95011
+when: 1614328806.58152
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: pat_pred_top_ctry_16_0.9.csv|pat_pred_top_regio_16_0.9.csv
