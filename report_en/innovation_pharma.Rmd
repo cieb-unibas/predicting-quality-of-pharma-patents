@@ -2,7 +2,8 @@
 output:
    html_document:
     includes:
-       after_body: footer.html
+       in_header: google_analytics.html 
+       after_body: "https://innoscape.de/general_stuff/footer.html"
     title: "Pharma predictions"
     self_contained: false
     theme: null
@@ -11,15 +12,6 @@ output:
     mathjax: null
 ---
 <head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71167447-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-71167447-1', { 'anonymize_ip': true });
-</script>
-
-
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" type="text/css" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
@@ -227,4 +219,6 @@ $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip();   
 });
 </script>
+
+
 
