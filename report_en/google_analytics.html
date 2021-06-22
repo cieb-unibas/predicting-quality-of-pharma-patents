@@ -3,5 +3,8 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-71167447-1', { 'anonymize_ip': true });
+  gtag('config', 'UA-71167447-1', {
+'linker': { 'domains': ['https://innoscape.ch/en/publications/swiss-pharma-international-innovation-race', 'https://www.innoscape.de/pharma_pred/innovation_pharma.html']},
+'non_interaction': true,
+}, { 'anonymize_ip': true });
 </script>

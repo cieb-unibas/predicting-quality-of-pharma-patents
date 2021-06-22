@@ -1,0 +1,13 @@
+name: firm
+title: firm
+username:
+account: cieb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4303431
+bundleId: 4742767
+url: https://cieb.shinyapps.io/firm/
+when: 1624357492.64431
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|pat_pred_top_firm_16_0.9.csv|pat_pred_top_startups_16_0.9.csv|pat_pred_top_startups_16_0.9.fst

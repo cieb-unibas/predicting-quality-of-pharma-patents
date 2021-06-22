@@ -1,0 +1,13 @@
+name: regio
+title: regio
+username:
+account: cieb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4303492
+bundleId: 4742818
+url: https://cieb.shinyapps.io/regio/
+when: 1624358564.48003
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|country.R|pat_pred_top_ctry_16_0.9.csv|pat_pred_top_ctry_16_0.9.fst|pat_pred_top_regio_16_0.9.csv

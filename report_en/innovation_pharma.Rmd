@@ -2,7 +2,6 @@
 output:
    html_document:
     includes:
-       in_header: google_analytics.html 
        after_body: "https://innoscape.de/general_stuff/footer.html"
     title: "Pharma predictions"
     self_contained: false
@@ -11,14 +10,12 @@ output:
     highlight: null
     mathjax: null
 ---
-<head>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" type="text/css" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 <div class="container-fluid main-container">
-</head>
 
 ## **What’s next? The Swiss Pharmaceutical Industry in the International Innovation Race**
 
@@ -77,7 +74,7 @@ The figure below shows the share of top patents among all newly published pharma
 <hr class="hr_red">
 #### **Quality of the innovation pipeline of countries: The Past and trends for the future**
 <div>
-<iframe id="ctry" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_ctry/#ctry_pat">
+<iframe id="ctry" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/country/">
   <p>Your browser does not support iframes</p>
 </iframe>
 </div>
@@ -116,7 +113,7 @@ Let’s now compare the two main Swiss regions with the dynamics in other region
 <hr class="hr_red">
 #### **Quality of the innovation pipeline of regions**
 <div>
-<iframe id="reg" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_ctry/#regio_pat">
+<iframe id="reg" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/regio/">
   <p>Your browser does not support iframes</p>
 </iframe>
 </div>
@@ -140,7 +137,7 @@ We will now look at well-established, big pharmaceutical companies. It is import
 <hr class="hr_red">
 #### **Quality of the innovation pipeline of the big pharmaceutical players**
 <div>
-<iframe id="firm" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_firm/#firm_id">
+<iframe id="firm" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/firm/">
   <p>Your browser does not support iframes</p>
 </iframe>
 </div>
@@ -161,7 +158,7 @@ So, what can we say about the quality of their innovation pipeline? First of all
 <hr class="hr_red">
 #### **Quality of recent pharma patents of startups**
 <div>
-<iframe id="startup" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/cit_pred_firm/#startup_id">
+<iframe id="startup" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/startup/">
   <p>Your browser does not support iframes</p>
 </iframe>
 </div>
@@ -220,5 +217,12 @@ $(document).ready(function(){
 });
 </script>
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71167447-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-71167447-1');
+</script>
 
 

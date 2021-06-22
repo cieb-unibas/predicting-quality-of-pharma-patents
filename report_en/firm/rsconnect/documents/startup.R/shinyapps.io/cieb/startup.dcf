@@ -1,0 +1,13 @@
+name: startup
+title: startup
+username:
+account: cieb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4303453
+bundleId: 4742790
+url: https://cieb.shinyapps.io/startup/
+when: 1624357952.35171
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|firm.R|pat_pred_top_firm_16_0.9.csv|pat_pred_top_firm_16_0.9.fst|pat_pred_top_startups_16_0.9.csv

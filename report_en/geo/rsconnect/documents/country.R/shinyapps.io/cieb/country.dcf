@@ -1,0 +1,13 @@
+name: country
+title: country
+username:
+account: cieb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4303467
+bundleId: 4742801
+url: https://cieb.shinyapps.io/country/
+when: 1624358224.00813
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|pat_pred_top_ctry_16_0.9.csv|pat_pred_top_regio_16_0.9.csv|pat_pred_top_regio_16_0.9.fst
