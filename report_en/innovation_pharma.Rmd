@@ -188,25 +188,13 @@ Globally, the U.S. pharmaceutical industry seems likely to continue to set the b
 
 **<a href=https://www.innoscape.de/pharma_pred/Niggli_Rutzer_Technical_Report_Pharma_Predictions.pdf target = "_blank">Click here to download our technical report describing the training and performance of our machine learning models.</a>**
 
-<br>
-
-**Interested in a comparison** of Swiss pharma with other countries? Then check out our analysis<a href = https://innoscape.ch/en/publications/the-pharmaceutical-industry-a-driver-of-innovation-and-growth-in-switzerland target = “_blank”> The pharmaceutical industry: a driver of innovation and growth in Switzerland</a>.
 
 
-
-
-<br>
-
-**Share this article**
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-url="https://innoscape.ch/en/publications/swiss-pharma-international-innovation-race" data-a2a-title="Analysis within Innoscape: What’s next? Swiss Pharma in the International Innovation Race">
-<a class="a2a_button_twitter"></a>
-<a class="a2a_button_linkedin"></a>
-<a class="a2a_button_xing"></a>
-<a class="a2a_button_facebook"></a>
-<a class="a2a_button_email"></a>
+<div>
+<iframe id="slider" width=100%" height="400" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://innoscape.de/pharma_pred/pharma_intro_teaser.html">
+</iframe>
 </div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
-</div>
+
 <br>
 
 <span style="font-size:0.8em">*This report was written using <a href = https://rmarkdown.rstudio.com/ target = “_blank”>R Markdown</a> and <a href = https://shiny.rstudio.com/ target = “_blank”>R shiny</a>. Training of our machine learning algorithms and patent predictions were performed at <a href = http://scicore.unibas.ch/ target = “_blank”> sciCORE </a> scientific computing center at the University of Basel. Data and code to reproduce the figures presented in this article are available on <a href=https://github.com/cieb-unibas/predicting-quality-of-pharma-patents target="_blank">GitHub</a>.*</span>
