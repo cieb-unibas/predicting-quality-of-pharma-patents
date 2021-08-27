@@ -55,12 +55,19 @@ For our analysis, it is of course only possible to consider those patents that h
 
 <details>
   <summary>*Click here to read about our methodological approach*</summary>
-We have trained different machine learning models which enable us to make predictions on whether a recently published pharma patent may become a top patent within the next 5 years. We considered pharma patents published some time ago for training. In doing so, we used information directly related to a patent, such as the number of cited non-patent literature, on technology dynamics (e.g., the growth rate of patents within a technology class) and on the knowledge of firms and inventors (e.g., how many patents they have within a technology class). Afterwards, we predicted whether each newly published pharma patent could be a top patent. Subsequently, the number of predicted top patents allowed us to calculate the share of top pharma patents among all the newly published pharma patents of countries, regions and firms in a given year. In this article we show only the results. For those who are interested in technical details, we refer to our accompanying technical report, which can be downloaded <a href=https://www.innoscape.de/pharma_pred/Niggli_Rutzer_Technical_Report_Pharma_Predictions.pdf target = "_blank">here</a>.
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://www.innoscape.de/pharma_pred/Methodology.pdf" width="100%" height="600">
+</details>
+
+
+<!--<details>
+  <summary>*Click here to read about our methodological approach*</summary>
+We have trained different machine learning models which enable us to make predictions on whether a recently published pharma patent may become a top patent within the next 5 years. We considered pharma patents published some time ago for training. In doing so, we used information directly related to a patent, such as the number of cited non-patent literature, on technology dynamics (e.g., the growth rate of patents within a technology class) and on the knowledge of firms and inventors (e.g., how many patents they have within a technology class). Afterwards, we predicted whether each newly published pharma patent could be a top patent. Subsequently, the number of predicted top patents allowed us to calculate the share of top pharma patents among all the newly published pharma patents of countries, regions and firms in a given year. In this article we show only the results. For those who are interested in technical details, we refer to our accompanying technical report.
 
 In what follows, we focus on the mean of our calculated shares of predicted top patents. It should be noted that the share of predicted top patents remains mostly robust across each of our trained models. This is a good sign, since it indicates that our predictions of top patents tend to be reliable. You can investigate this yourself by selecting several models at once in our subsequent interactive plots. 
 </details>
 </div>
-
+-->
 <br> 
 
 ## **Who could be the leading countries for next generation pharma innovations?**
@@ -113,7 +120,7 @@ Let’s now compare the two main Swiss regions with the dynamics in other region
 <hr class="hr_red">
 #### **Quality of the innovation pipeline of regions**
 <div>
-<iframe id="reg" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/regio/">
+<iframe id="reg" width="100%" height="800" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/regio/">
   <p>Your browser does not support iframes</p>
 </iframe>
 </div>
@@ -184,16 +191,17 @@ How to best summarize this glimpse at the future of pharmaceutical innovations? 
 
 Globally, the U.S. pharmaceutical industry seems likely to continue to set the benchmark for high-quality pharma innovations—and it may even further expand its top position. An important factor for this ongoing success is a relatively high number of high-quality startups, which are still clearly missing in China. Apart from that, our predictions show a positive trend for China, even though China may still lag behind other major pharma-countries in developing top innovations in the near future.  
 
+
 <br>
 
-**<a href=https://www.innoscape.de/pharma_pred/Niggli_Rutzer_Technical_Report_Pharma_Predictions.pdf target = "_blank">Click here to download our technical report describing the training and performance of our machine learning models.</a>**
+<!--**<a href=https://www.innoscape.de/pharma_pred/Niggli_Rutzer_Technical_Report_Pharma_Predictions.pdf target = "_blank">Click here to download our technical report describing the training and performance of our machine learning models.</a>**
+-->
 
-
-
-<div>
-<iframe id="slider" width=100%" height="400" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://innoscape.de/pharma_pred/pharma_intro_teaser.html">
-</iframe>
-</div>
+<details>
+  <summary>**Click here to read about our methodological approach**</summary>
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://www.innoscape.de/pharma_pred/Methodology.pdf" width="100%" height="600">
+</details>
 
 <br>
 

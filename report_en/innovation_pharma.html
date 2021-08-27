@@ -67,15 +67,22 @@
 <p>To tackle this problem, we use machine learning techniques to predict whether recently published patents will be among the 10 percent most cited patents within five years after publication. Throughout this report, we refer to such patents as <strong>top patents</strong>. Moreover, we also compare important pharma regions with each other, such as Northwestern Switzerland with Massachusetts or California. Besides geographical comparisons, we also look at how selected companies may be doing in the future. On the one hand we focus on the big pharma players, such as Novartis, Roche and Pfizer. But we also take a look at pharmaceutical and biotechnology startups such as Moderna, Respivant or TherapeuticsMD. For our analysis, it is of course only possible to consider those patents that have been <em>published</em> by the year 2020. This introduces some limitations to the analysis. For example, some companies may not yet have published some of their most important recent inventions. For such a firm, we are likely to be underestimating the share of newly published top innovations. It could also be that firms have not published some of their lower quality patents yet—for the very reason that they are less important. In this case, our results would tend to overestimate the quality of these firms’ innovation pipelines. If such patterns differ across regions and countries, this could also result in somewhat biased shares of their top patents. Therefore, all reported predictions of recent top-patent shares in this report should be treated accordingly. Hence, we interpret the results as <strong>possible trends based on patent information that is available today</strong> and not as detailed predictions.</p>
 <p><br></p>
 <hr class="hr_red">
-<div id="pat_method" class="box_div">
+<div class="box_div" id="pat_method">
 <p style="font-size:18px">
 <strong>Predicting patent quality</strong>
 </p>
 <details>
-<p><summary><em>Click here to read about our methodological approach</em></summary> We have trained different machine learning models which enable us to make predictions on whether a recently published pharma patent may become a top patent within the next 5 years. We considered pharma patents published some time ago for training. In doing so, we used information directly related to a patent, such as the number of cited non-patent literature, on technology dynamics (e.g., the growth rate of patents within a technology class) and on the knowledge of firms and inventors (e.g., how many patents they have within a technology class). Afterwards, we predicted whether each newly published pharma patent could be a top patent. Subsequently, the number of predicted top patents allowed us to calculate the share of top pharma patents among all the newly published pharma patents of countries, regions and firms in a given year. In this article we show only the results. For those who are interested in technical details, we refer to our accompanying technical report, which can be downloaded <a href=https://www.innoscape.de/pharma_pred/Niggli_Rutzer_Technical_Report_Pharma_Predictions.pdf target = "_blank">here</a>.</p>
-In what follows, we focus on the mean of our calculated shares of predicted top patents. It should be noted that the share of predicted top patents remains mostly robust across each of our trained models. This is a good sign, since it indicates that our predictions of top patents tend to be reliable. You can investigate this yourself by selecting several models at once in our subsequent interactive plots.
+<summary><em>Click here to read about our methodological approach</em></summary> <embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://www.innoscape.de/pharma_pred/Methodology.pdf" width="100%" height="600">
+</details>
+<!--<details>
+  <summary>*Click here to read about our methodological approach*</summary>
+We have trained different machine learning models which enable us to make predictions on whether a recently published pharma patent may become a top patent within the next 5 years. We considered pharma patents published some time ago for training. In doing so, we used information directly related to a patent, such as the number of cited non-patent literature, on technology dynamics (e.g., the growth rate of patents within a technology class) and on the knowledge of firms and inventors (e.g., how many patents they have within a technology class). Afterwards, we predicted whether each newly published pharma patent could be a top patent. Subsequently, the number of predicted top patents allowed us to calculate the share of top pharma patents among all the newly published pharma patents of countries, regions and firms in a given year. In this article we show only the results. For those who are interested in technical details, we refer to our accompanying technical report.
+
+In what follows, we focus on the mean of our calculated shares of predicted top patents. It should be noted that the share of predicted top patents remains mostly robust across each of our trained models. This is a good sign, since it indicates that our predictions of top patents tend to be reliable. You can investigate this yourself by selecting several models at once in our subsequent interactive plots. 
 </details>
 </div>
+-->
 <p><br></p>
 </div>
 <div id="who-could-be-the-leading-countries-for-next-generation-pharma-innovations" class="section level2">
@@ -117,7 +124,7 @@ For recently published pharmaceutical patents, our predictions imply that the co
 <div id="quality-of-the-innovation-pipeline-of-regions" class="section level4">
 <h4><strong>Quality of the innovation pipeline of regions</strong></h4>
 <div>
-<iframe id="reg" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/regio/">
+<iframe id="reg" width="100%" height="800" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/regio/">
 <p>
 Your browser does not support iframes
 </p>
@@ -181,11 +188,12 @@ At the same time, an increasing number of startups are of Chinese origin, raisin
 <p>How to best summarize this glimpse at the future of pharmaceutical innovations? From a Swiss perspective, it is encouraging to see that our predictions indicate a constant quality of recently published Swiss pharmaceutical patents compared to those of the near past. Thus, our prediction models seem confident that the Swiss pharmaceutical industry will continue to perform well in the international innovation race.</p>
 <p>Globally, the U.S. pharmaceutical industry seems likely to continue to set the benchmark for high-quality pharma innovations—and it may even further expand its top position. An important factor for this ongoing success is a relatively high number of high-quality startups, which are still clearly missing in China. Apart from that, our predictions show a positive trend for China, even though China may still lag behind other major pharma-countries in developing top innovations in the near future.</p>
 <p><br></p>
-<p><strong><a href=https://www.innoscape.de/pharma_pred/Niggli_Rutzer_Technical_Report_Pharma_Predictions.pdf target = "_blank">Click here to download our technical report describing the training and performance of our machine learning models.</a></strong></p>
-<div>
-<iframe id="slider" width="100%&quot;" height="400" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://innoscape.de/pharma_pred/pharma_intro_teaser.html">
-</iframe>
-</div>
+<!--**<a href=https://www.innoscape.de/pharma_pred/Niggli_Rutzer_Technical_Report_Pharma_Predictions.pdf target = "_blank">Click here to download our technical report describing the training and performance of our machine learning models.</a>**
+-->
+<details>
+<summary><strong>Click here to read about our methodological approach</strong></summary> <embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://www.innoscape.de/pharma_pred/Methodology.pdf" width="100%" height="600">
+</details>
 <p><br></p>
 <p><span style="font-size:0.8em"><em>This report was written using <a href = https://rmarkdown.rstudio.com/ target = “_blank”>R Markdown</a> and <a href = https://shiny.rstudio.com/ target = “_blank”>R shiny</a>. Training of our machine learning algorithms and patent predictions were performed at <a href = http://scicore.unibas.ch/ target = “_blank”> sciCORE </a> scientific computing center at the University of Basel. Data and code to reproduce the figures presented in this article are available on <a href=https://github.com/cieb-unibas/predicting-quality-of-pharma-patents target="_blank">GitHub</a>.</em></span></p>
 <script>
