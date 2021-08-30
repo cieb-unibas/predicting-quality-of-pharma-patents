@@ -37,24 +37,24 @@ Picture: <a href="https://www.flickr.com/photos/mdales/49022996802/in/photolist-
 
 <br>
 
-Today, the pharmaceutical industry contributes about 5.5 percent directly to Switzerland's GDP (see, for example, <a href=https://innoscape.ch/en/publications/the-pharmaceutical-industry-a-driver-of-innovation-and-growth-in-switzerland target = "_blank">our short overview on key figures of Swiss Pharma</a>), which clearly highlights its importance as a driver of prosperity for Switzerland. To preserve this position, Swiss pharmaceutical companies need to stay at the forefront in the international innovation race, even more so due to the advent of completely new treatment concepts such as immunotherapy or personalized medicine.
+Today, the pharmaceutical industry contributes about 5.5 percent directly to Switzerland's GDP (see, for example, <a href=https://innoscape.ch/en/publications/the-pharmaceutical-industry-a-driver-of-innovation-and-growth-in-switzerland target = "_blank">our short overview on key figures of Swiss Pharma</a>), which clearly highlights its importance as a driver of prosperity for Switzerland. To preserve this position, Swiss pharmaceutical companies need to stay at the forefront in the international innovation race, even more so due to the advent of completely new treatment concepts such as personalized medicine in general and immunotherapy or gene therapy in particular.
 
 But how is the Swiss pharma industry, and especially its main hub, the region of Basel, positioned in this innovation race? To shed light on this question, we exploit patent data. Pharma innovations are usually disclosed through patenting to guarantee protection from imitators. Thus, patent data tells us a great deal about the inventive activity of companies. Once an invention is publicly disclosed via a patent, it affects other inventors in their R&D activities. By doing so, patents get cited by other patents in a similar manner as do academic publications, for example. Hence, patent citations provide us with an approximation of a patent’s influence on follow-on inventions. Furthermore, numerous studies find that the more often a patent has been cited, the more significant is its technological innovation content and the higher its economic value (see for example <a href="https://academic.oup.com/qje/article/132/2/665/3076284" target = "_blank">Kogan et al. 2017</a>  or <a href="https://www.jstor.org/stable/1593752?seq=1#metadata_info_tab_contents" target = "_blank">Hall et al., 2005</a>). For this reason, several studies use the number of highly cited patents to assess the quality of innovations. This criterion can then be easily used to compare the quality of patents of different countries, regions, or firms. A recent example is a study by the <a href="https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/weltklassepatente-in-zukunftstechnologien" target = "_blank">Bertelsmann Foundation (2020)</a> in German language. 
 
-However, such an assessment has an obvious shortcoming. Patents are cited over the years following their publication and it even takes some time for high-impact patents, to receive citations. Thus, only after some time is it possible to assess whether a patent represents an important, even groundbreaking, innovation. The same problem applies when comparing countries or regions by means of the quality of their patents. For example, it is absolutely possible to evaluate the quality of Swiss patents that were filed in 2008, but it is quite difficult to do the same for patents filed in 2019. To make a long story short: Focusing on patent citations generally means looking backward. This is unsatisfactory especially from the point of view of decision-makers. 
+However, such an assessment has an obvious shortcoming. Patents are cited over the years following their publication and it even takes some time for high-impact patents, to receive citations. Thus, only after some time is it possible to assess whether a patent represents an important, even groundbreaking, innovation. The same problem applies when comparing countries or regions by means of the quality of their innovations. For example, it is absolutely possible to evaluate the quality of Swiss pharma innovations that were filed in 2008 as patents, but it is quite difficult to do the same for innovations filed in 2019 as patents. To make a long story short: Focusing on patent citations generally means looking backward. This is unsatisfactory especially from the point of view of decision-makers. 
 
 To tackle this problem, we use machine learning techniques to predict whether recently published patents will be among the 10 percent most cited patents within five years after publication. Throughout this report, we refer to such patents as **top patents**. Moreover, we also compare important pharma regions with each other, such as Northwestern Switzerland with Massachusetts or California. Besides geographical comparisons, we also look at how selected companies may be doing in the future. On the one hand we focus on the big pharma players, such as Novartis, Roche and Pfizer. But we also take a look at pharmaceutical and biotechnology startups such as Moderna, Respivant or TherapeuticsMD.
-For our analysis, it is of course only possible to consider those patents that have been *published* by the year 2020. This introduces some limitations to the analysis. For example, some companies may not yet have published some of their most important recent inventions. For such a firm, we are likely to be underestimating the share of newly published top innovations. It could also be that firms have not published some of their lower quality patents yet—for the very reason that they are less important. In this case, our results would tend to overestimate the quality of these firms’ innovation pipelines. If such patterns differ across regions and countries, this could also result in somewhat biased shares of their top patents. Therefore, all reported predictions of recent top-patent shares in this report should be treated accordingly. Hence, we interpret the results as **possible trends based on patent information that is available today** and not as detailed predictions.
+
+For our analysis, it is of course only possible to consider those patents that have been *published* by the year 2020. This introduces some limitations to the analysis. For example, some companies may for whatever reason not yet have published some of their most important recent inventions. For such firms, we are likely to be underestimating the share of newly published top innovations. It could also be that firms have not published some of their lower quality patents yet. In this case, our results would tend to overestimate the quality of these firms’ innovation pipelines. If such patterns differ systematically across regions and countries, this could also result in somewhat biased shares of their top patents. Therefore, all reported predictions of recent top-patent shares in this report should be treated accordingly. Hence, we interpret the results as **possible trends based on patent information that is available today** and not as detailed predictions.
 
 <br> 
 
 <hr class="hr_red">
-
 <div class="box_div" id="pat_method">	
 <p style="font-size:18px">**Predicting patent quality**</p>
 
 <details>
-  <summary>*Click here to read about our methodological approach*</summary>
+  <summary>*Click here to read about technical details of our approach*</summary>
 <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=https://www.innoscape.de/pharma_pred/Methodology.pdf" width="100%" height="600">
 </details>
@@ -81,7 +81,7 @@ The figure below shows the share of top patents among all newly published pharma
 <hr class="hr_red">
 #### **Quality of the innovation pipeline of countries: The Past and trends for the future**
 <div>
-<iframe id="ctry" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/country/">
+<iframe id="ctry" width="100%" height="620" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/country/">
   <p>Your browser does not support iframes</p>
 </iframe>
 </div>
@@ -120,7 +120,7 @@ Let’s now compare the two main Swiss regions with the dynamics in other region
 <hr class="hr_red">
 #### **Quality of the innovation pipeline of regions**
 <div>
-<iframe id="reg" width="100%" height="800" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/regio/">
+<iframe id="reg" width="100%" height="600" scrolling="no" frameBorder="0" style="overflow: hidden" src="https://cieb.shinyapps.io/regio/">
   <p>Your browser does not support iframes</p>
 </iframe>
 </div>
@@ -198,7 +198,7 @@ Globally, the U.S. pharmaceutical industry seems likely to continue to set the b
 -->
 
 <details>
-  <summary>**Click here to read about our methodological approach**</summary>
+  <summary>**Click here to read about technical details of our approach **</summary>
 <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=https://www.innoscape.de/pharma_pred/Methodology.pdf" width="100%" height="600">
 </details>
@@ -212,9 +212,6 @@ viewer?embedded=true&url=https://www.innoscape.de/pharma_pred/Methodology.pdf" w
 
 
 <br>
-<br>
-
-
 
 <span style="font-size:0.8em">*This report was written using <a href = https://rmarkdown.rstudio.com/ target = “_blank”>R Markdown</a> and <a href = https://shiny.rstudio.com/ target = “_blank”>R shiny</a>. Training of our machine learning algorithms and patent predictions were performed at <a href = http://scicore.unibas.ch/ target = “_blank”> sciCORE </a> scientific computing center at the University of Basel. Data and code to reproduce the figures presented in this article are available on <a href=https://github.com/cieb-unibas/predicting-quality-of-pharma-patents target="_blank">GitHub</a>.*</span>
 
