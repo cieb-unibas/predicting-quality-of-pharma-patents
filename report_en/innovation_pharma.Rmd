@@ -17,7 +17,7 @@ output:
 <link rel="stylesheet" href="style.css" type="text/css" />
 <div class="container-fluid main-container">
 
-## **What’s next? The Swiss Pharmaceutical Industry in the International Innovation Race**
+### **What’s next? The Swiss Pharmaceutical Industry in the International Innovation Race**
 
 <br>
 
@@ -25,15 +25,6 @@ output:
 <a href='mailto:christian.rutzer@unibas.ch'>christian.rutzer@unibas.ch</a>">Christian Rutzer</a> and <a href="#" data-placement="bottom" data-toggle="tooltip"  data-html="true" title="<img src='https://innoscape.de/authors/mn2018.jpg'><b>Matthias Niggli</b> is a project collaborator. He has a background in public policy from previous positions at the Swiss Federal Institute of Intellectual Property (IPI) and the Swiss State Secretariat for Economic Affairs (SECO). He has a special interest in experimenting with all kinds of machine-learning methods and is enthusiastic about discovering novel approaches to visualize data. <br> 
 <a href='mailto:matthias.niggli@unibas.ch'>matthias.niggli@unibas.ch</a>">Matthias Niggli</a> 
 <br>
-
-
-<p style="text-align: left; line-height: 150%;">
-*Share this article:* 
-&nbsp;
-<a href='https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/posts/cieb-unibas_innovationen-ml-pharmaindustrie-activity-6745247842773811201-vR6h' class="fa fa-linkedin" style='color:black;text-decoration: none;' target='_blank'></a>
-&nbsp;
-<a href='https://twitter.com/cieb_unibas/status/1339483982547836928' class="fa fa-twitter" style='color:black;text-decoration: none;' target='_blank'></a>
-</p>
 
 
 
@@ -68,8 +59,7 @@ For our analysis, it is of course only possible to consider those patents that h
 
 <details>
   <summary>*Click here to read about technical details of our approach*</summary>
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://www.innoscape.de/pharma_pred/Methodology.pdf" width="100%" height="600">
+<embed src="https://drive.google.com/file/d/1FeTaAZsQaUcOfBVZn3EkC4HQK0cgK17N/preview" width="100%" height="600">
 </details>
 
 
@@ -210,11 +200,24 @@ Globally, the U.S. pharmaceutical industry seems likely to continue to set the b
 <!--**<a href=https://www.innoscape.de/pharma_pred/Niggli_Rutzer_Technical_Report_Pharma_Predictions.pdf target = "_blank">Click here to download our technical report describing the training and performance of our machine learning models.</a>**
 -->
 
-<details>
+<!--<details>
   <summary>**Click here to read about technical details of our approach **</summary>
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://www.innoscape.de/pharma_pred/Methodology.pdf" width="100%" height="600">
+<embed src="https://drive.google.com/file/d/1FeTaAZsQaUcOfBVZn3EkC4HQK0cgK17N/preview" width="100%" height="600">
 </details>
+-->
+
+
+<hr class="hr_red">
+<p style="text-align: left; line-height: 150%;">
+**Did you enjoy this article?**
+<br>
+Share it with your friends and colleagues on Social Media
+<br>
+<a href='https://twitter.com/cieb_unibas/status/1339483982547836928' class="fa fa-twitter" style='color:black;text-decoration: none; font-size:24px;' target='_blank'></a>
+&nbsp; 
+<a href='https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/posts/cieb-unibas_innovationen-ml-pharmaindustrie-activity-6745247842773811201-vR6h' class="fa fa-linkedin" style='color:black;text-decoration: none; font-size:24px;' target='_blank'></a>
+
+</p>
 
 <br>
 
