@@ -1,53 +1,9 @@
 <head>
 
+<link rel="stylesheet" href="https://innoscape.de/general_stuff/teaser/teaser.css" type="text/css" />
+
+
 <style>
-
-
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic);
-
-* {
-	box-sizing: border-box;
-	padding: 0;
-	margin: 0;
-}
-html {
-	font-size: calc(5px + 0.4vw);
-}
-body {
-  font-family: "Helvetica Neue", "Neue Helvetica W05", Arial, serif;
-}
-a {
-	text-decoration: none;
-}
-.intro {
-	position: relative;
-	width: 100%;
-	height: 100vh;
-}
-.left {
-	float: left;
-	height: 100%;
-	width: 50%;
-	padding: 0rem 0rem 0rem 0rem;
-	display: table;
-}
-.left > div {
-	display: table-cell;
-	vertical-align: middle;
-}
-
-
-span {
-  color: black;
-  font-size: 2rem;
-  font-weight: bold;
-  letter-spacing: 2px;
-  display: inline-block;
-  text-transform: uppercase;
-  font-family: sans-serif;
-  margin-bottom: 4rem;
-}
-
 hr {
   display: block;
   margin-top: 0;
@@ -55,174 +11,31 @@ hr {
   margin-left: 0;
 }
 
-
-h1 {
-  font-size: 34px;
-	margin-bottom: 3rem;
-}
-
-h2 {
-	font-size: 2rem;
-	margin-bottom: 3rem;
-}
-
-h1 + p {
-  color: black;
-  font-size: 1.8rem;
-  margin-bottom: 4rem;
-}
-p + a {
-  font-size: 1.5rem;
-  color: black;
-}
-.slider {
-	float: right;
-	position: relative;
-	width: 50%;
-	height: 80%;
-  opacity: 1;
-
-}
-.slider li {
-  position: absolute;
-	top: 100;
-	left: 0;
-	width:  100%;
-	height: 100%;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: 50% 50%;
-	transition: clip .7s ease-in-out, z-index 0s .7s;
-	clip: rect(0, 100vw, 100vh, 100vw);
-	display: table;
-}
-.center-y {
-	display: table-cell;
-	vertical-align: middle;
-	text-align: center;
-	color: black;
-  }
-  
-h3 {
-  font-size: 24px;
-	font-style: italic;
-	font-family: "Helvetica Neue";
-		opacity: 1.5;
-}
-h3 + a {
-  font-size: 20px;
-	display: inline-block;
-	color: black;
-	margin-top: 2.5rem;
-	font-family: "Helvetica Neue";
-		opacity: 1.5;
-}
-h3, h3 + a {
-	opacity: 1;
-	transition: opacity .7s 0s, transform .5s .2s;
-	transform: translate3d(0, 40%, 0);
-		opacity: 1.5;
-}
-li.current h3, li.current h3 + a {
-  transition-delay: 1s;
-	transform: translate3d(0, 0, 0);
-	background-size: 50px;
-		opacity: 1.5;
-}
-li.current {
-	z-index: 1;
-	clip: rect(0, 120vw, 100vh, 0);
-}
-li.prev {
-  	clip: rect(0, 0, 100vh, 0);
-}
-.slider nav {
-  position: absolute;
-	top: 150;
-	left: 0;
-	right: 0;
-	text-align: center;
-	z-index: 10
-}
-
-
-nav a {
-	display: inline-block;
-	border-radius: 50%;
-	width: 1.2rem;
-	height: 1.2rem;
-  min-width: 12px;
-  min-height: 12px;
-	background: #fff;
-	margin: 0 1rem;
-  transition: transform .3s;
-}
-a.current_dot {
-	transform: scale(1.4);
-}
-
-@media screen and (max-width: 700px) {
-	.left {
-		width:  0%;
-		height: 0%;
-    display: none;	
-  	padding: 0rem 0rem 0rem 0rem;
-  	font-size:0;
-
-}
-	.slider {
-		width: 100%;
-		height: 70%;
-	  position: relative;
-    top: -80;
-  }
-}
-
-@media screen and (max-width: 700px) {
-	.left {
-		width:  0%;
-		height: 0%;
-    display: none;	
-  	padding: 0rem 0rem 0rem 0rem;
-  	font-size:0;
-
-}
-	.slider {
-		width: 100%;
-		height: 70%;
-	  position: relative;
-    top: -80;
-  }
-}
-
-
-
-@media screen and (min-width: 700px) {
-	.left_mobile {
-    display: none;
-    }
-}
-
-
 .hr_red {
   display: block;
   border: none;
   margin-top: 0;
   margin-bottom: 0;
   margin-left: 0;
-  width: 50%;
+  width: 30%;
   height: 10px;
   color: #55C667FF;
   background-color: #55C667FF;
 }
-
 </style>
+
+</head>
+
+<body>
+<br>
 
 
 <section class="intro">
       <div class="left">
         <div>
           <span><hr class="hr_red">
+                    <hr style="height:8px; visibility:hidden;" />
+
           Further Recommendations</span>
      <!--     <h1>This might also be of interest to you</h1>-->
       <!--      <p></p>
@@ -233,6 +46,8 @@ a.current_dot {
       <div class="left_mobile">
         <div>
           <span><hr class="hr_red">
+                    <hr style="height:8px; visibility:hidden;" />
+
           Further Recommendations</span>
         </div>
       </div>
@@ -241,7 +56,7 @@ a.current_dot {
         <ul>
           <li style="background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url(https://innoscape.de/general_stuff/teaser/schwan.jpg);">
             <div class="center-y">
-              <h3 style="color:black;">Severin Schwan (CEO Roche) <br> Innoscape Talk # 1</h3>
+              <h3 style="color:black;">Severin Schwan <br> Innoscape Talk # 1</h3>
               <a href="https://innoscape.ch/en/publications/innoscape-talk-1-severin-schwan" style="color:black;">View Interview</a>	
             </div>
           </li>
